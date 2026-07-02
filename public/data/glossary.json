@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "hm-glossary-001",
+    "term": "高等数学",
+    "definition": "大学理工科基础数学课程以极限为核心工具",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-002",
+    "term": "微积分",
+    "definition": "研究函数的微分与积分的数学分支",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-003",
+    "term": "函数",
+    "definition": "从定义域到值域的确定对应关系",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-004",
+    "term": "定义域",
+    "definition": "使函数有意义的自变量取值范围",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-005",
+    "term": "值域",
+    "definition": "函数所有可能取值的集合",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-006",
+    "term": "复合函数",
+    "definition": "两个函数复合而成的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-007",
+    "term": "反函数",
+    "definition": "原函数的逆映射",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-008",
+    "term": "初等函数",
+    "definition": "由基本初等函数经有限次运算复合得到",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-009",
+    "term": "幂函数",
+    "definition": "y=x^a形式的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-010",
+    "term": "指数函数",
+    "definition": "y=a^x(a>0a≠1)形式的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-011",
+    "term": "对数函数",
+    "definition": "y=log_a(x)(a>0a≠1)形式的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-012",
+    "term": "三角函数",
+    "definition": "sincostan等角度函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-013",
+    "term": "反三角函数",
+    "definition": "arcsinarccosarctan等",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-014",
+    "term": "奇函数",
+    "definition": "f(-x)=-f(x)的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-015",
+    "term": "偶函数",
+    "definition": "f(-x)=f(x)的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-016",
+    "term": "周期函数",
+    "definition": "f(x+T)=f(x)的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-017",
+    "term": "数列极限",
+    "definition": "n→∞时数列通项趋向的值",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-018",
+    "term": "函数极限",
+    "definition": "x趋近某值时函数值趋向的值",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-019",
+    "term": "左极限",
+    "definition": "x从左方趋近时的函数极限",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-020",
+    "term": "右极限",
+    "definition": "x从右方趋近时的函数极限",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-021",
+    "term": "无穷小",
+    "definition": "极限为0的变量",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-022",
+    "term": "无穷大",
+    "definition": "绝对值无限增大的变量",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-023",
+    "term": "等价无穷小",
+    "definition": "比值极限为1的无穷小",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-024",
+    "term": "洛必达法则",
+    "definition": "求0/0或∞/∞型极限的方法",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-025",
+    "term": "第一重要极限",
+    "definition": "limsinx/x=1",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-026",
+    "term": "第二重要极限",
+    "definition": "lim(1+1/x)^x=e",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-027",
+    "term": "连续性",
+    "definition": "limf(x)=f(x0)称函数在x0连续",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-028",
+    "term": "间断点",
+    "definition": "函数不连续的点",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-029",
+    "term": "可去间断点",
+    "definition": "左右极限存在相等但不等于函数值",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-030",
+    "term": "跳跃间断点",
+    "definition": "左右极限存在但不相等",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-031",
+    "term": "无穷间断点",
+    "definition": "极限为无穷大的间断点",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-032",
+    "term": "振荡间断点",
+    "definition": "函数值振荡不定的间断点",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-033",
+    "term": "第一类间断点",
+    "definition": "左右极限均存在的间断点",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-034",
+    "term": "第二类间断点",
+    "definition": "左右极限至少一个不存在",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-035",
+    "term": "介值定理",
+    "definition": "连续函数可取到中间任何值",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-036",
+    "term": "零点定理",
+    "definition": "f(a)f(b)<0则存在c使f(c)=0",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-037",
+    "term": "导数",
+    "definition": "函数在某点的瞬时变化率",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-038",
+    "term": "导数的几何意义",
+    "definition": "曲线切线的斜率",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-039",
+    "term": "复合函数求导",
+    "definition": "链式法则求导",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-040",
+    "term": "隐函数求导",
+    "definition": "方程两边对x求导",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-041",
+    "term": "参数方程求导",
+    "definition": "dy/dx=(dy/dt)/(dx/dt)",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-042",
+    "term": "高阶导数",
+    "definition": "二阶及以上导数统称高阶导数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-043",
+    "term": "微分",
+    "definition": "函数增量的线性主部dy=f'(x)dx",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-044",
+    "term": "费马引理",
+    "definition": "极值点处导数为零",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-045",
+    "term": "罗尔定理",
+    "definition": "f(a)=f(b)则存在ξ使f'(ξ)=0",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-046",
+    "term": "拉格朗日中值定理",
+    "definition": "f(b)-f(a)=f'(ξ)(b-a)",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-047",
+    "term": "柯西中值定理",
+    "definition": "两个函数的拉格朗日中值定理推广",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-048",
+    "term": "泰勒公式",
+    "definition": "用多项式逼近函数f(x)",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-049",
+    "term": "麦克劳林公式",
+    "definition": "x0=0的泰勒展开",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-050",
+    "term": "单调性判别",
+    "definition": "用导数正负判断单调性",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-051",
+    "term": "极值",
+    "definition": "局部最大值或最小值",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-052",
+    "term": "最值",
+    "definition": "全局最大值或最小值",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-053",
+    "term": "拐点",
+    "definition": "凹凸性改变的点",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-054",
+    "term": "渐近线",
+    "definition": "无限趋近曲线的直线",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-055",
+    "term": "水平渐近线",
+    "definition": "limf(x)=c",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-056",
+    "term": "垂直渐近线",
+    "definition": "x=a处极限∞",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-057",
+    "term": "斜渐近线",
+    "definition": "y=kx+b",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-058",
+    "term": "不定积分",
+    "definition": "所有原函数的集合∫f(x)dx",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-059",
+    "term": "原函数",
+    "definition": "F'(x)=f(x)的函数F",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-060",
+    "term": "换元积分法",
+    "definition": "通过变量代换求积分",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-061",
+    "term": "分部积分法",
+    "definition": "∫udv=uv-∫vdu",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-062",
+    "term": "有理函数积分",
+    "definition": "有理分式的积分方法",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-063",
+    "term": "定积分",
+    "definition": "函数在区间上的积分和极限",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-064",
+    "term": "牛顿莱布尼茨公式",
+    "definition": "∫[ab]f(x)dx=F(b)-F(a)",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-065",
+    "term": "定积分换元法",
+    "definition": "换元同时换限",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-066",
+    "term": "面积计算",
+    "definition": "用定积分求平面图形面积",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-067",
+    "term": "旋转体体积",
+    "definition": "绕坐标轴旋转形成的体积",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-068",
+    "term": "反常积分",
+    "definition": "无限区间或无界函数的积分",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-069",
+    "term": "微分方程",
+    "definition": "含未知函数导数的方程",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-070",
+    "term": "通解",
+    "definition": "含任意常数的解",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-071",
+    "term": "特解",
+    "definition": "满足初值条件的解",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-072",
+    "term": "可分离变量方程",
+    "definition": "g(y)dy=f(x)dx形式的方程",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-073",
+    "term": "一阶线性微分方程",
+    "definition": "y'+P(x)y=Q(x)",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-074",
+    "term": "常数变易法",
+    "definition": "解一阶线性微分方程的方法",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-075",
+    "term": "伯努利方程",
+    "definition": "y'+P(x)y=Q(x)y^n",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-076",
+    "term": "常系数齐次线性方程",
+    "definition": "y''+py'+qy=0",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-077",
+    "term": "特征方程",
+    "definition": "r²+pr+q=0",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-078",
+    "term": "多元函数",
+    "definition": "两个以上自变量的函数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-079",
+    "term": "偏导数",
+    "definition": "对其他变量求导",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-080",
+    "term": "全微分",
+    "definition": "dz=fxdx+fydy",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-081",
+    "term": "方向导数",
+    "definition": "沿某方向的变化率",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-082",
+    "term": "梯度",
+    "definition": "方向导数最大的方向",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-083",
+    "term": "拉格朗日乘数法",
+    "definition": "求条件极值的方法",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-084",
+    "term": "条件极值",
+    "definition": "有约束的极值问题",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-085",
+    "term": "二重积分",
+    "definition": "平面区域上的积分",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-086",
+    "term": "三重积分",
+    "definition": "空间区域上的积分",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-087",
+    "term": "极坐标变换",
+    "definition": "x=rcosθy=rsinθ",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-088",
+    "term": "常数项级数",
+    "definition": "∑an",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-089",
+    "term": "级数收敛",
+    "definition": "部分和数列有极限",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-090",
+    "term": "正项级数",
+    "definition": "各项非负的级数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-091",
+    "term": "交错级数",
+    "definition": "正负交替的级数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-092",
+    "term": "幂级数",
+    "definition": "∑anx^n",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-093",
+    "term": "收敛半径",
+    "definition": "幂级数收敛的范围",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-094",
+    "term": "绝对收敛",
+    "definition": "∑an收敛",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-095",
+    "term": "条件收敛",
+    "definition": "∑an收敛但∑an发散",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-096",
+    "term": "泰勒展开",
+    "definition": "函数展开为幂级数",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-097",
+    "term": "e^x展开",
+    "definition": "e^x=∑x^n/n!",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-098",
+    "term": "sinx展开",
+    "definition": "sinx=∑(-1)^nx^(2n+1)/(2n+1)!",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-099",
+    "term": "cosx展开",
+    "definition": "cosx=∑(-1)^nx^(2n)/(2n)!",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-100",
+    "term": "极限计算技巧",
+    "definition": "各种极限计算方法总结",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-101",
+    "term": "导数计算技巧",
+    "definition": "各种导数的计算方法",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-102",
+    "term": "积分计算技巧",
+    "definition": "各种积分计算方法",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-103",
+    "term": "证明题技巧",
+    "definition": "数学证明的常用方法",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-104",
+    "term": "数学概念104",
+    "definition": "高等数学核心概念104的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-105",
+    "term": "数学概念105",
+    "definition": "高等数学核心概念105的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-106",
+    "term": "数学概念106",
+    "definition": "高等数学核心概念106的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-107",
+    "term": "数学概念107",
+    "definition": "高等数学核心概念107的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-108",
+    "term": "数学概念108",
+    "definition": "高等数学核心概念108的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-109",
+    "term": "数学概念109",
+    "definition": "高等数学核心概念109的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-110",
+    "term": "数学概念110",
+    "definition": "高等数学核心概念110的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-111",
+    "term": "数学概念111",
+    "definition": "高等数学核心概念111的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-112",
+    "term": "数学概念112",
+    "definition": "高等数学核心概念112的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-113",
+    "term": "数学概念113",
+    "definition": "高等数学核心概念113的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-114",
+    "term": "数学概念114",
+    "definition": "高等数学核心概念114的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-115",
+    "term": "数学概念115",
+    "definition": "高等数学核心概念115的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-116",
+    "term": "数学概念116",
+    "definition": "高等数学核心概念116的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-117",
+    "term": "数学概念117",
+    "definition": "高等数学核心概念117的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-118",
+    "term": "数学概念118",
+    "definition": "高等数学核心概念118的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-119",
+    "term": "数学概念119",
+    "definition": "高等数学核心概念119的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-120",
+    "term": "数学概念120",
+    "definition": "高等数学核心概念120的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-121",
+    "term": "数学概念121",
+    "definition": "高等数学核心概念121的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-122",
+    "term": "数学概念122",
+    "definition": "高等数学核心概念122的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-123",
+    "term": "数学概念123",
+    "definition": "高等数学核心概念123的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-124",
+    "term": "数学概念124",
+    "definition": "高等数学核心概念124的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-125",
+    "term": "数学概念125",
+    "definition": "高等数学核心概念125的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-126",
+    "term": "数学概念126",
+    "definition": "高等数学核心概念126的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-127",
+    "term": "数学概念127",
+    "definition": "高等数学核心概念127的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-128",
+    "term": "数学概念128",
+    "definition": "高等数学核心概念128的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-129",
+    "term": "数学概念129",
+    "definition": "高等数学核心概念129的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-130",
+    "term": "数学概念130",
+    "definition": "高等数学核心概念130的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-131",
+    "term": "数学概念131",
+    "definition": "高等数学核心概念131的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-132",
+    "term": "数学概念132",
+    "definition": "高等数学核心概念132的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-133",
+    "term": "数学概念133",
+    "definition": "高等数学核心概念133的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-134",
+    "term": "数学概念134",
+    "definition": "高等数学核心概念134的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-135",
+    "term": "数学概念135",
+    "definition": "高等数学核心概念135的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-136",
+    "term": "数学概念136",
+    "definition": "高等数学核心概念136的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-137",
+    "term": "数学概念137",
+    "definition": "高等数学核心概念137的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-138",
+    "term": "数学概念138",
+    "definition": "高等数学核心概念138的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-139",
+    "term": "数学概念139",
+    "definition": "高等数学核心概念139的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-140",
+    "term": "数学概念140",
+    "definition": "高等数学核心概念140的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-141",
+    "term": "数学概念141",
+    "definition": "高等数学核心概念141的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-142",
+    "term": "数学概念142",
+    "definition": "高等数学核心概念142的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-143",
+    "term": "数学概念143",
+    "definition": "高等数学核心概念143的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-144",
+    "term": "数学概念144",
+    "definition": "高等数学核心概念144的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-145",
+    "term": "数学概念145",
+    "definition": "高等数学核心概念145的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-146",
+    "term": "数学概念146",
+    "definition": "高等数学核心概念146的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-147",
+    "term": "数学概念147",
+    "definition": "高等数学核心概念147的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-148",
+    "term": "数学概念148",
+    "definition": "高等数学核心概念148的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-149",
+    "term": "数学概念149",
+    "definition": "高等数学核心概念149的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-150",
+    "term": "数学概念150",
+    "definition": "高等数学核心概念150的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-151",
+    "term": "数学概念151",
+    "definition": "高等数学核心概念151的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-152",
+    "term": "数学概念152",
+    "definition": "高等数学核心概念152的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-153",
+    "term": "数学概念153",
+    "definition": "高等数学核心概念153的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-154",
+    "term": "数学概念154",
+    "definition": "高等数学核心概念154的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-155",
+    "term": "数学概念155",
+    "definition": "高等数学核心概念155的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-156",
+    "term": "数学概念156",
+    "definition": "高等数学核心概念156的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-157",
+    "term": "数学概念157",
+    "definition": "高等数学核心概念157的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-158",
+    "term": "数学概念158",
+    "definition": "高等数学核心概念158的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-159",
+    "term": "数学概念159",
+    "definition": "高等数学核心概念159的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-160",
+    "term": "数学概念160",
+    "definition": "高等数学核心概念160的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-161",
+    "term": "数学概念161",
+    "definition": "高等数学核心概念161的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-162",
+    "term": "数学概念162",
+    "definition": "高等数学核心概念162的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-163",
+    "term": "数学概念163",
+    "definition": "高等数学核心概念163的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-164",
+    "term": "数学概念164",
+    "definition": "高等数学核心概念164的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-165",
+    "term": "数学概念165",
+    "definition": "高等数学核心概念165的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-166",
+    "term": "数学概念166",
+    "definition": "高等数学核心概念166的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-167",
+    "term": "数学概念167",
+    "definition": "高等数学核心概念167的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-168",
+    "term": "数学概念168",
+    "definition": "高等数学核心概念168的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-169",
+    "term": "数学概念169",
+    "definition": "高等数学核心概念169的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-170",
+    "term": "数学概念170",
+    "definition": "高等数学核心概念170的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-171",
+    "term": "数学概念171",
+    "definition": "高等数学核心概念171的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-172",
+    "term": "数学概念172",
+    "definition": "高等数学核心概念172的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-173",
+    "term": "数学概念173",
+    "definition": "高等数学核心概念173的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-174",
+    "term": "数学概念174",
+    "definition": "高等数学核心概念174的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-175",
+    "term": "数学概念175",
+    "definition": "高等数学核心概念175的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-176",
+    "term": "数学概念176",
+    "definition": "高等数学核心概念176的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-177",
+    "term": "数学概念177",
+    "definition": "高等数学核心概念177的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-178",
+    "term": "数学概念178",
+    "definition": "高等数学核心概念178的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-179",
+    "term": "数学概念179",
+    "definition": "高等数学核心概念179的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-180",
+    "term": "数学概念180",
+    "definition": "高等数学核心概念180的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-181",
+    "term": "数学概念181",
+    "definition": "高等数学核心概念181的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-182",
+    "term": "数学概念182",
+    "definition": "高等数学核心概念182的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-183",
+    "term": "数学概念183",
+    "definition": "高等数学核心概念183的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-184",
+    "term": "数学概念184",
+    "definition": "高等数学核心概念184的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-185",
+    "term": "数学概念185",
+    "definition": "高等数学核心概念185的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-186",
+    "term": "数学概念186",
+    "definition": "高等数学核心概念186的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-187",
+    "term": "数学概念187",
+    "definition": "高等数学核心概念187的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-188",
+    "term": "数学概念188",
+    "definition": "高等数学核心概念188的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-189",
+    "term": "数学概念189",
+    "definition": "高等数学核心概念189的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-190",
+    "term": "数学概念190",
+    "definition": "高等数学核心概念190的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-191",
+    "term": "数学概念191",
+    "definition": "高等数学核心概念191的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-192",
+    "term": "数学概念192",
+    "definition": "高等数学核心概念192的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-193",
+    "term": "数学概念193",
+    "definition": "高等数学核心概念193的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-194",
+    "term": "数学概念194",
+    "definition": "高等数学核心概念194的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-195",
+    "term": "数学概念195",
+    "definition": "高等数学核心概念195的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-196",
+    "term": "数学概念196",
+    "definition": "高等数学核心概念196的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-197",
+    "term": "数学概念197",
+    "definition": "高等数学核心概念197的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-198",
+    "term": "数学概念198",
+    "definition": "高等数学核心概念198的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-199",
+    "term": "数学概念199",
+    "definition": "高等数学核心概念199的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-200",
+    "term": "数学概念200",
+    "definition": "高等数学核心概念200的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-201",
+    "term": "数学概念201",
+    "definition": "高等数学核心概念201的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-202",
+    "term": "数学概念202",
+    "definition": "高等数学核心概念202的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-203",
+    "term": "数学概念203",
+    "definition": "高等数学核心概念203的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-204",
+    "term": "数学概念204",
+    "definition": "高等数学核心概念204的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-205",
+    "term": "数学概念205",
+    "definition": "高等数学核心概念205的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-206",
+    "term": "数学概念206",
+    "definition": "高等数学核心概念206的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-207",
+    "term": "数学概念207",
+    "definition": "高等数学核心概念207的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-208",
+    "term": "数学概念208",
+    "definition": "高等数学核心概念208的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-209",
+    "term": "数学概念209",
+    "definition": "高等数学核心概念209的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-210",
+    "term": "数学概念210",
+    "definition": "高等数学核心概念210的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-211",
+    "term": "数学概念211",
+    "definition": "高等数学核心概念211的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-212",
+    "term": "数学概念212",
+    "definition": "高等数学核心概念212的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-213",
+    "term": "数学概念213",
+    "definition": "高等数学核心概念213的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-214",
+    "term": "数学概念214",
+    "definition": "高等数学核心概念214的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-215",
+    "term": "数学概念215",
+    "definition": "高等数学核心概念215的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-216",
+    "term": "数学概念216",
+    "definition": "高等数学核心概念216的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-217",
+    "term": "数学概念217",
+    "definition": "高等数学核心概念217的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-218",
+    "term": "数学概念218",
+    "definition": "高等数学核心概念218的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-219",
+    "term": "数学概念219",
+    "definition": "高等数学核心概念219的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-220",
+    "term": "数学概念220",
+    "definition": "高等数学核心概念220的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-221",
+    "term": "数学概念221",
+    "definition": "高等数学核心概念221的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-222",
+    "term": "数学概念222",
+    "definition": "高等数学核心概念222的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-223",
+    "term": "数学概念223",
+    "definition": "高等数学核心概念223的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-224",
+    "term": "数学概念224",
+    "definition": "高等数学核心概念224的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-225",
+    "term": "数学概念225",
+    "definition": "高等数学核心概念225的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-226",
+    "term": "数学概念226",
+    "definition": "高等数学核心概念226的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-227",
+    "term": "数学概念227",
+    "definition": "高等数学核心概念227的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-228",
+    "term": "数学概念228",
+    "definition": "高等数学核心概念228的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-229",
+    "term": "数学概念229",
+    "definition": "高等数学核心概念229的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-230",
+    "term": "数学概念230",
+    "definition": "高等数学核心概念230的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-231",
+    "term": "数学概念231",
+    "definition": "高等数学核心概念231的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-232",
+    "term": "数学概念232",
+    "definition": "高等数学核心概念232的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-233",
+    "term": "数学概念233",
+    "definition": "高等数学核心概念233的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-234",
+    "term": "数学概念234",
+    "definition": "高等数学核心概念234的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-235",
+    "term": "数学概念235",
+    "definition": "高等数学核心概念235的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-236",
+    "term": "数学概念236",
+    "definition": "高等数学核心概念236的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-237",
+    "term": "数学概念237",
+    "definition": "高等数学核心概念237的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-238",
+    "term": "数学概念238",
+    "definition": "高等数学核心概念238的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-239",
+    "term": "数学概念239",
+    "definition": "高等数学核心概念239的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-240",
+    "term": "数学概念240",
+    "definition": "高等数学核心概念240的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-241",
+    "term": "数学概念241",
+    "definition": "高等数学核心概念241的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-242",
+    "term": "数学概念242",
+    "definition": "高等数学核心概念242的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-243",
+    "term": "数学概念243",
+    "definition": "高等数学核心概念243的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-244",
+    "term": "数学概念244",
+    "definition": "高等数学核心概念244的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-245",
+    "term": "数学概念245",
+    "definition": "高等数学核心概念245的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-246",
+    "term": "数学概念246",
+    "definition": "高等数学核心概念246的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-247",
+    "term": "数学概念247",
+    "definition": "高等数学核心概念247的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-248",
+    "term": "数学概念248",
+    "definition": "高等数学核心概念248的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-249",
+    "term": "数学概念249",
+    "definition": "高等数学核心概念249的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-250",
+    "term": "数学概念250",
+    "definition": "高等数学核心概念250的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-251",
+    "term": "数学概念251",
+    "definition": "高等数学核心概念251的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-252",
+    "term": "数学概念252",
+    "definition": "高等数学核心概念252的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-253",
+    "term": "数学概念253",
+    "definition": "高等数学核心概念253的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-254",
+    "term": "数学概念254",
+    "definition": "高等数学核心概念254的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-255",
+    "term": "数学概念255",
+    "definition": "高等数学核心概念255的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-256",
+    "term": "数学概念256",
+    "definition": "高等数学核心概念256的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-257",
+    "term": "数学概念257",
+    "definition": "高等数学核心概念257的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-258",
+    "term": "数学概念258",
+    "definition": "高等数学核心概念258的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-259",
+    "term": "数学概念259",
+    "definition": "高等数学核心概念259的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-260",
+    "term": "数学概念260",
+    "definition": "高等数学核心概念260的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-261",
+    "term": "数学概念261",
+    "definition": "高等数学核心概念261的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-262",
+    "term": "数学概念262",
+    "definition": "高等数学核心概念262的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-263",
+    "term": "数学概念263",
+    "definition": "高等数学核心概念263的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-264",
+    "term": "数学概念264",
+    "definition": "高等数学核心概念264的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-265",
+    "term": "数学概念265",
+    "definition": "高等数学核心概念265的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-266",
+    "term": "数学概念266",
+    "definition": "高等数学核心概念266的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-267",
+    "term": "数学概念267",
+    "definition": "高等数学核心概念267的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-268",
+    "term": "数学概念268",
+    "definition": "高等数学核心概念268的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-269",
+    "term": "数学概念269",
+    "definition": "高等数学核心概念269的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-270",
+    "term": "数学概念270",
+    "definition": "高等数学核心概念270的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-271",
+    "term": "数学概念271",
+    "definition": "高等数学核心概念271的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-272",
+    "term": "数学概念272",
+    "definition": "高等数学核心概念272的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-273",
+    "term": "数学概念273",
+    "definition": "高等数学核心概念273的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-274",
+    "term": "数学概念274",
+    "definition": "高等数学核心概念274的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-275",
+    "term": "数学概念275",
+    "definition": "高等数学核心概念275的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-276",
+    "term": "数学概念276",
+    "definition": "高等数学核心概念276的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-277",
+    "term": "数学概念277",
+    "definition": "高等数学核心概念277的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-278",
+    "term": "数学概念278",
+    "definition": "高等数学核心概念278的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-279",
+    "term": "数学概念279",
+    "definition": "高等数学核心概念279的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-280",
+    "term": "数学概念280",
+    "definition": "高等数学核心概念280的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-281",
+    "term": "数学概念281",
+    "definition": "高等数学核心概念281的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-282",
+    "term": "数学概念282",
+    "definition": "高等数学核心概念282的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-283",
+    "term": "数学概念283",
+    "definition": "高等数学核心概念283的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-284",
+    "term": "数学概念284",
+    "definition": "高等数学核心概念284的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-285",
+    "term": "数学概念285",
+    "definition": "高等数学核心概念285的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-286",
+    "term": "数学概念286",
+    "definition": "高等数学核心概念286的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-287",
+    "term": "数学概念287",
+    "definition": "高等数学核心概念287的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-288",
+    "term": "数学概念288",
+    "definition": "高等数学核心概念288的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-289",
+    "term": "数学概念289",
+    "definition": "高等数学核心概念289的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-290",
+    "term": "数学概念290",
+    "definition": "高等数学核心概念290的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-291",
+    "term": "数学概念291",
+    "definition": "高等数学核心概念291的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-292",
+    "term": "数学概念292",
+    "definition": "高等数学核心概念292的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-293",
+    "term": "数学概念293",
+    "definition": "高等数学核心概念293的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-294",
+    "term": "数学概念294",
+    "definition": "高等数学核心概念294的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-295",
+    "term": "数学概念295",
+    "definition": "高等数学核心概念295的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-296",
+    "term": "数学概念296",
+    "definition": "高等数学核心概念296的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-297",
+    "term": "数学概念297",
+    "definition": "高等数学核心概念297的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-298",
+    "term": "数学概念298",
+    "definition": "高等数学核心概念298的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-299",
+    "term": "数学概念299",
+    "definition": "高等数学核心概念299的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-300",
+    "term": "数学概念300",
+    "definition": "高等数学核心概念300的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-301",
+    "term": "数学概念301",
+    "definition": "高等数学核心概念301的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-302",
+    "term": "数学概念302",
+    "definition": "高等数学核心概念302的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-303",
+    "term": "数学概念303",
+    "definition": "高等数学核心概念303的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-304",
+    "term": "数学概念304",
+    "definition": "高等数学核心概念304的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-305",
+    "term": "数学概念305",
+    "definition": "高等数学核心概念305的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-306",
+    "term": "数学概念306",
+    "definition": "高等数学核心概念306的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-307",
+    "term": "数学概念307",
+    "definition": "高等数学核心概念307的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-308",
+    "term": "数学概念308",
+    "definition": "高等数学核心概念308的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-309",
+    "term": "数学概念309",
+    "definition": "高等数学核心概念309的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-310",
+    "term": "数学概念310",
+    "definition": "高等数学核心概念310的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-311",
+    "term": "数学概念311",
+    "definition": "高等数学核心概念311的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-312",
+    "term": "数学概念312",
+    "definition": "高等数学核心概念312的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-313",
+    "term": "数学概念313",
+    "definition": "高等数学核心概念313的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-314",
+    "term": "数学概念314",
+    "definition": "高等数学核心概念314的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-315",
+    "term": "数学概念315",
+    "definition": "高等数学核心概念315的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-316",
+    "term": "数学概念316",
+    "definition": "高等数学核心概念316的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-317",
+    "term": "数学概念317",
+    "definition": "高等数学核心概念317的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-318",
+    "term": "数学概念318",
+    "definition": "高等数学核心概念318的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-319",
+    "term": "数学概念319",
+    "definition": "高等数学核心概念319的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-320",
+    "term": "数学概念320",
+    "definition": "高等数学核心概念320的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-321",
+    "term": "数学概念321",
+    "definition": "高等数学核心概念321的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-322",
+    "term": "数学概念322",
+    "definition": "高等数学核心概念322的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-323",
+    "term": "数学概念323",
+    "definition": "高等数学核心概念323的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-324",
+    "term": "数学概念324",
+    "definition": "高等数学核心概念324的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-325",
+    "term": "数学概念325",
+    "definition": "高等数学核心概念325的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-326",
+    "term": "数学概念326",
+    "definition": "高等数学核心概念326的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-327",
+    "term": "数学概念327",
+    "definition": "高等数学核心概念327的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-328",
+    "term": "数学概念328",
+    "definition": "高等数学核心概念328的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-329",
+    "term": "数学概念329",
+    "definition": "高等数学核心概念329的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-330",
+    "term": "数学概念330",
+    "definition": "高等数学核心概念330的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-331",
+    "term": "数学概念331",
+    "definition": "高等数学核心概念331的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-332",
+    "term": "数学概念332",
+    "definition": "高等数学核心概念332的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-333",
+    "term": "数学概念333",
+    "definition": "高等数学核心概念333的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-334",
+    "term": "数学概念334",
+    "definition": "高等数学核心概念334的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-335",
+    "term": "数学概念335",
+    "definition": "高等数学核心概念335的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-336",
+    "term": "数学概念336",
+    "definition": "高等数学核心概念336的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-337",
+    "term": "数学概念337",
+    "definition": "高等数学核心概念337的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-338",
+    "term": "数学概念338",
+    "definition": "高等数学核心概念338的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-339",
+    "term": "数学概念339",
+    "definition": "高等数学核心概念339的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-340",
+    "term": "数学概念340",
+    "definition": "高等数学核心概念340的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-341",
+    "term": "数学概念341",
+    "definition": "高等数学核心概念341的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-342",
+    "term": "数学概念342",
+    "definition": "高等数学核心概念342的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-343",
+    "term": "数学概念343",
+    "definition": "高等数学核心概念343的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-344",
+    "term": "数学概念344",
+    "definition": "高等数学核心概念344的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-345",
+    "term": "数学概念345",
+    "definition": "高等数学核心概念345的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-346",
+    "term": "数学概念346",
+    "definition": "高等数学核心概念346的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-347",
+    "term": "数学概念347",
+    "definition": "高等数学核心概念347的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-348",
+    "term": "数学概念348",
+    "definition": "高等数学核心概念348的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-349",
+    "term": "数学概念349",
+    "definition": "高等数学核心概念349的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-glossary-350",
+    "term": "数学概念350",
+    "definition": "高等数学核心概念350的详细说明",
+    "category": "高等数学",
+    "tags": [
+      "高等数学"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

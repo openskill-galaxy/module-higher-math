@@ -1,0 +1,40 @@
+{
+  "id": "mod-higher-math",
+  "slug": "module-higher-math",
+  "title": "高等数学学习与题库训练",
+  "subtitle": "面向大学高等数学专升本考研数学基础复习与工科数学补弱",
+  "description": "面向大学高等数学学习者专升本考研数学基础复习工科数学补弱学生提供函数极限连续导数微分中值定理积分多元函数微分方程级数综合计算与证明训练的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "高等数学",
+    "极限",
+    "导数",
+    "积分",
+    "多元函数",
+    "微分方程",
+    "级数"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "∑",
+  "repoUrl": "https://github.com/openskill-galaxy/module-higher-math",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 163,
+    "knowledgePoints": 327,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 350,
+    "faqs": 210,
+    "tags": 532
+  }
+}

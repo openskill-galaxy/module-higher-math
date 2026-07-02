@@ -1,0 +1,4258 @@
+[
+  {
+    "id": "hm-tag-001",
+    "name": "高等数学",
+    "category": "高等数学",
+    "description": "高等数学标签：高等数学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-002",
+    "name": "函数",
+    "category": "高等数学",
+    "description": "高等数学标签：函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-003",
+    "name": "极限",
+    "category": "高等数学",
+    "description": "高等数学标签：极限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-004",
+    "name": "连续",
+    "category": "高等数学",
+    "description": "高等数学标签：连续",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-005",
+    "name": "导数",
+    "category": "高等数学",
+    "description": "高等数学标签：导数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-006",
+    "name": "微分",
+    "category": "高等数学",
+    "description": "高等数学标签：微分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-007",
+    "name": "中值定理",
+    "category": "高等数学",
+    "description": "高等数学标签：中值定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-008",
+    "name": "不定积分",
+    "category": "高等数学",
+    "description": "高等数学标签：不定积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-009",
+    "name": "定积分",
+    "category": "高等数学",
+    "description": "高等数学标签：定积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-010",
+    "name": "多元函数",
+    "category": "高等数学",
+    "description": "高等数学标签：多元函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-011",
+    "name": "微分方程",
+    "category": "高等数学",
+    "description": "高等数学标签：微分方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-012",
+    "name": "级数",
+    "category": "高等数学",
+    "description": "高等数学标签：级数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-013",
+    "name": "数列极限",
+    "category": "高等数学",
+    "description": "高等数学标签：数列极限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-014",
+    "name": "函数极限",
+    "category": "高等数学",
+    "description": "高等数学标签：函数极限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-015",
+    "name": "左极限",
+    "category": "高等数学",
+    "description": "高等数学标签：左极限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-016",
+    "name": "右极限",
+    "category": "高等数学",
+    "description": "高等数学标签：右极限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-017",
+    "name": "无穷小",
+    "category": "高等数学",
+    "description": "高等数学标签：无穷小",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-018",
+    "name": "无穷大",
+    "category": "高等数学",
+    "description": "高等数学标签：无穷大",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-019",
+    "name": "等价无穷小",
+    "category": "高等数学",
+    "description": "高等数学标签：等价无穷小",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-020",
+    "name": "洛必达法则",
+    "category": "高等数学",
+    "description": "高等数学标签：洛必达法则",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-021",
+    "name": "重要极限",
+    "category": "高等数学",
+    "description": "高等数学标签：重要极限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-022",
+    "name": "连续性",
+    "category": "高等数学",
+    "description": "高等数学标签：连续性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-023",
+    "name": "间断点",
+    "category": "高等数学",
+    "description": "高等数学标签：间断点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-024",
+    "name": "间断点分类",
+    "category": "高等数学",
+    "description": "高等数学标签：间断点分类",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-025",
+    "name": "可去间断点",
+    "category": "高等数学",
+    "description": "高等数学标签：可去间断点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-026",
+    "name": "跳跃间断点",
+    "category": "高等数学",
+    "description": "高等数学标签：跳跃间断点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-027",
+    "name": "无穷间断点",
+    "category": "高等数学",
+    "description": "高等数学标签：无穷间断点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-028",
+    "name": "振荡间断点",
+    "category": "高等数学",
+    "description": "高等数学标签：振荡间断点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-029",
+    "name": "导数定义",
+    "category": "高等数学",
+    "description": "高等数学标签：导数定义",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-030",
+    "name": "求导公式",
+    "category": "高等数学",
+    "description": "高等数学标签：求导公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-031",
+    "name": "复合函数求导",
+    "category": "高等数学",
+    "description": "高等数学标签：复合函数求导",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-032",
+    "name": "隐函数求导",
+    "category": "高等数学",
+    "description": "高等数学标签：隐函数求导",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-033",
+    "name": "参数方程求导",
+    "category": "高等数学",
+    "description": "高等数学标签：参数方程求导",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-034",
+    "name": "高阶导数",
+    "category": "高等数学",
+    "description": "高等数学标签：高阶导数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-035",
+    "name": "罗尔定理",
+    "category": "高等数学",
+    "description": "高等数学标签：罗尔定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-036",
+    "name": "拉格朗日中值定理",
+    "category": "高等数学",
+    "description": "高等数学标签：拉格朗日中值定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-037",
+    "name": "柯西中值定理",
+    "category": "高等数学",
+    "description": "高等数学标签：柯西中值定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-038",
+    "name": "泰勒中值定理",
+    "category": "高等数学",
+    "description": "高等数学标签：泰勒中值定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-039",
+    "name": "单调性",
+    "category": "高等数学",
+    "description": "高等数学标签：单调性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-040",
+    "name": "极值",
+    "category": "高等数学",
+    "description": "高等数学标签：极值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-041",
+    "name": "最值",
+    "category": "高等数学",
+    "description": "高等数学标签：最值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-042",
+    "name": "凹凸性",
+    "category": "高等数学",
+    "description": "高等数学标签：凹凸性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-043",
+    "name": "拐点",
+    "category": "高等数学",
+    "description": "高等数学标签：拐点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-044",
+    "name": "渐近线",
+    "category": "高等数学",
+    "description": "高等数学标签：渐近线",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-045",
+    "name": "水平渐近线",
+    "category": "高等数学",
+    "description": "高等数学标签：水平渐近线",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-046",
+    "name": "垂直渐近线",
+    "category": "高等数学",
+    "description": "高等数学标签：垂直渐近线",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-047",
+    "name": "斜渐近线",
+    "category": "高等数学",
+    "description": "高等数学标签：斜渐近线",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-048",
+    "name": "换元积分法",
+    "category": "高等数学",
+    "description": "高等数学标签：换元积分法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-049",
+    "name": "分部积分法",
+    "category": "高等数学",
+    "description": "高等数学标签：分部积分法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-050",
+    "name": "有理函数积分",
+    "category": "高等数学",
+    "description": "高等数学标签：有理函数积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-051",
+    "name": "牛顿莱布尼茨公式",
+    "category": "高等数学",
+    "description": "高等数学标签：牛顿莱布尼茨公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-052",
+    "name": "定积分换元",
+    "category": "高等数学",
+    "description": "高等数学标签：定积分换元",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-053",
+    "name": "定积分分部积分",
+    "category": "高等数学",
+    "description": "高等数学标签：定积分分部积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-054",
+    "name": "面积计算",
+    "category": "高等数学",
+    "description": "高等数学标签：面积计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-055",
+    "name": "旋转体体积",
+    "category": "高等数学",
+    "description": "高等数学标签：旋转体体积",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-056",
+    "name": "反常积分",
+    "category": "高等数学",
+    "description": "高等数学标签：反常积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-057",
+    "name": "一阶微分方程",
+    "category": "高等数学",
+    "description": "高等数学标签：一阶微分方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-058",
+    "name": "可分离变量",
+    "category": "高等数学",
+    "description": "高等数学标签：可分离变量",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-059",
+    "name": "一阶线性微分方程",
+    "category": "高等数学",
+    "description": "高等数学标签：一阶线性微分方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-060",
+    "name": "伯努利方程",
+    "category": "高等数学",
+    "description": "高等数学标签：伯努利方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-061",
+    "name": "齐次方程",
+    "category": "高等数学",
+    "description": "高等数学标签：齐次方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-062",
+    "name": "非齐次方程",
+    "category": "高等数学",
+    "description": "高等数学标签：非齐次方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-063",
+    "name": "多元函数极限",
+    "category": "高等数学",
+    "description": "高等数学标签：多元函数极限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-064",
+    "name": "偏导数",
+    "category": "高等数学",
+    "description": "高等数学标签：偏导数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-065",
+    "name": "全微分",
+    "category": "高等数学",
+    "description": "高等数学标签：全微分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-066",
+    "name": "多元复合函数求导",
+    "category": "高等数学",
+    "description": "高等数学标签：多元复合函数求导",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-067",
+    "name": "隐函数组",
+    "category": "高等数学",
+    "description": "高等数学标签：隐函数组",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-068",
+    "name": "多元函数极值",
+    "category": "高等数学",
+    "description": "高等数学标签：多元函数极值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-069",
+    "name": "条件极值",
+    "category": "高等数学",
+    "description": "高等数学标签：条件极值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-070",
+    "name": "拉格朗日乘数法",
+    "category": "高等数学",
+    "description": "高等数学标签：拉格朗日乘数法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-071",
+    "name": "二重积分",
+    "category": "高等数学",
+    "description": "高等数学标签：二重积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-072",
+    "name": "极坐标变换",
+    "category": "高等数学",
+    "description": "高等数学标签：极坐标变换",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-073",
+    "name": "三重积分",
+    "category": "高等数学",
+    "description": "高等数学标签：三重积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-074",
+    "name": "柱坐标",
+    "category": "高等数学",
+    "description": "高等数学标签：柱坐标",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-075",
+    "name": "球坐标",
+    "category": "高等数学",
+    "description": "高等数学标签：球坐标",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-076",
+    "name": "常数项级数",
+    "category": "高等数学",
+    "description": "高等数学标签：常数项级数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-077",
+    "name": "正项级数",
+    "category": "高等数学",
+    "description": "高等数学标签：正项级数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-078",
+    "name": "交错级数",
+    "category": "高等数学",
+    "description": "高等数学标签：交错级数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-079",
+    "name": "幂级数",
+    "category": "高等数学",
+    "description": "高等数学标签：幂级数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-080",
+    "name": "收敛半径",
+    "category": "高等数学",
+    "description": "高等数学标签：收敛半径",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-081",
+    "name": "收敛区间",
+    "category": "高等数学",
+    "description": "高等数学标签：收敛区间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-082",
+    "name": "泰勒公式",
+    "category": "高等数学",
+    "description": "高等数学标签：泰勒公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-083",
+    "name": "麦克劳林公式",
+    "category": "高等数学",
+    "description": "高等数学标签：麦克劳林公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-084",
+    "name": "定义域",
+    "category": "高等数学",
+    "description": "高等数学标签：定义域",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-085",
+    "name": "值域",
+    "category": "高等数学",
+    "description": "高等数学标签：值域",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-086",
+    "name": "复合函数",
+    "category": "高等数学",
+    "description": "高等数学标签：复合函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-087",
+    "name": "反函数",
+    "category": "高等数学",
+    "description": "高等数学标签：反函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-088",
+    "name": "初等函数",
+    "category": "高等数学",
+    "description": "高等数学标签：初等函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-089",
+    "name": "幂函数",
+    "category": "高等数学",
+    "description": "高等数学标签：幂函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-090",
+    "name": "指数函数",
+    "category": "高等数学",
+    "description": "高等数学标签：指数函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-091",
+    "name": "对数函数",
+    "category": "高等数学",
+    "description": "高等数学标签：对数函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-092",
+    "name": "三角函数",
+    "category": "高等数学",
+    "description": "高等数学标签：三角函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-093",
+    "name": "反三角函数",
+    "category": "高等数学",
+    "description": "高等数学标签：反三角函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-094",
+    "name": "收敛",
+    "category": "高等数学",
+    "description": "高等数学标签：收敛",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-095",
+    "name": "发散",
+    "category": "高等数学",
+    "description": "高等数学标签：发散",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-096",
+    "name": "单调有界",
+    "category": "高等数学",
+    "description": "高等数学标签：单调有界",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-097",
+    "name": "夹逼准则",
+    "category": "高等数学",
+    "description": "高等数学标签：夹逼准则",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-098",
+    "name": "介值定理",
+    "category": "高等数学",
+    "description": "高等数学标签：介值定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-099",
+    "name": "零点定理",
+    "category": "高等数学",
+    "description": "高等数学标签：零点定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-100",
+    "name": "曲率",
+    "category": "高等数学",
+    "description": "高等数学标签：曲率",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-101",
+    "name": "原函数",
+    "category": "高等数学",
+    "description": "高等数学标签：原函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-102",
+    "name": "广义积分",
+    "category": "高等数学",
+    "description": "高等数学标签：广义积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-103",
+    "name": "瑕积分",
+    "category": "高等数学",
+    "description": "高等数学标签：瑕积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-104",
+    "name": "微分方程通解",
+    "category": "高等数学",
+    "description": "高等数学标签：微分方程通解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-105",
+    "name": "特解",
+    "category": "高等数学",
+    "description": "高等数学标签：特解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-106",
+    "name": "常系数齐次",
+    "category": "高等数学",
+    "description": "高等数学标签：常系数齐次",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-107",
+    "name": "常系数非齐次",
+    "category": "高等数学",
+    "description": "高等数学标签：常系数非齐次",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-108",
+    "name": "方向导数",
+    "category": "高等数学",
+    "description": "高等数学标签：方向导数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-109",
+    "name": "梯度",
+    "category": "高等数学",
+    "description": "高等数学标签：梯度",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-110",
+    "name": "拉普拉斯算子",
+    "category": "高等数学",
+    "description": "高等数学标签：拉普拉斯算子",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-111",
+    "name": "格林公式",
+    "category": "高等数学",
+    "description": "高等数学标签：格林公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-112",
+    "name": "高斯公式",
+    "category": "高等数学",
+    "description": "高等数学标签：高斯公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-113",
+    "name": "斯托克斯公式",
+    "category": "高等数学",
+    "description": "高等数学标签：斯托克斯公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-114",
+    "name": "比较判别法",
+    "category": "高等数学",
+    "description": "高等数学标签：比较判别法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-115",
+    "name": "比值判别法",
+    "category": "高等数学",
+    "description": "高等数学标签：比值判别法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-116",
+    "name": "根值判别法",
+    "category": "高等数学",
+    "description": "高等数学标签：根值判别法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-117",
+    "name": "条件收敛",
+    "category": "高等数学",
+    "description": "高等数学标签：条件收敛",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-118",
+    "name": "绝对收敛",
+    "category": "高等数学",
+    "description": "高等数学标签：绝对收敛",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-119",
+    "name": "和函数",
+    "category": "高等数学",
+    "description": "高等数学标签：和函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-120",
+    "name": "幂级数展开",
+    "category": "高等数学",
+    "description": "高等数学标签：幂级数展开",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-121",
+    "name": "傅里叶级数",
+    "category": "高等数学",
+    "description": "高等数学标签：傅里叶级数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-122",
+    "name": "综合计算",
+    "category": "高等数学",
+    "description": "高等数学标签：综合计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-123",
+    "name": "证明题",
+    "category": "高等数学",
+    "description": "高等数学标签：证明题",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-124",
+    "name": "易错题",
+    "category": "高等数学",
+    "description": "高等数学标签：易错题",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-125",
+    "name": "期末复习",
+    "category": "高等数学",
+    "description": "高等数学标签：期末复习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-126",
+    "name": "考研数学",
+    "category": "高等数学",
+    "description": "高等数学标签：考研数学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-127",
+    "name": "专升本",
+    "category": "高等数学",
+    "description": "高等数学标签：专升本",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-128",
+    "name": "工科数学",
+    "category": "高等数学",
+    "description": "高等数学标签：工科数学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-129",
+    "name": "微积分",
+    "category": "高等数学",
+    "description": "高等数学标签：微积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-130",
+    "name": "极限计算",
+    "category": "高等数学",
+    "description": "高等数学标签：极限计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-131",
+    "name": "导数计算",
+    "category": "高等数学",
+    "description": "高等数学标签：导数计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-132",
+    "name": "积分计算",
+    "category": "高等数学",
+    "description": "高等数学标签：积分计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-133",
+    "name": "微分方程求解",
+    "category": "高等数学",
+    "description": "高等数学标签：微分方程求解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-134",
+    "name": "偏导计算",
+    "category": "高等数学",
+    "description": "高等数学标签：偏导计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-135",
+    "name": "级数判别",
+    "category": "高等数学",
+    "description": "高等数学标签：级数判别",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-136",
+    "name": "单调区间",
+    "category": "高等数学",
+    "description": "高等数学标签：单调区间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-137",
+    "name": "凹凸区间",
+    "category": "高等数学",
+    "description": "高等数学标签：凹凸区间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-138",
+    "name": "函数作图",
+    "category": "高等数学",
+    "description": "高等数学标签：函数作图",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-139",
+    "name": "计算技巧",
+    "category": "高等数学",
+    "description": "高等数学标签：计算技巧",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-140",
+    "name": "解题方法",
+    "category": "高等数学",
+    "description": "高等数学标签：解题方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-141",
+    "name": "中值定理证明",
+    "category": "高等数学",
+    "description": "高等数学标签：中值定理证明",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-142",
+    "name": "不等式证明",
+    "category": "高等数学",
+    "description": "高等数学标签：不等式证明",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-143",
+    "name": "积分不等式",
+    "category": "高等数学",
+    "description": "高等数学标签：积分不等式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-144",
+    "name": "综合应用",
+    "category": "高等数学",
+    "description": "高等数学标签：综合应用",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-145",
+    "name": "定义域求解",
+    "category": "高等数学",
+    "description": "高等数学标签：定义域求解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-146",
+    "name": "极限综合",
+    "category": "高等数学",
+    "description": "高等数学标签：极限综合",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-147",
+    "name": "导数综合",
+    "category": "高等数学",
+    "description": "高等数学标签：导数综合",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-148",
+    "name": "积分综合",
+    "category": "高等数学",
+    "description": "高等数学标签：积分综合",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-149",
+    "name": "级数综合",
+    "category": "高等数学",
+    "description": "高等数学标签：级数综合",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-150",
+    "name": "函数性质",
+    "category": "高等数学",
+    "description": "高等数学标签：函数性质",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-151",
+    "name": "一致连续",
+    "category": "高等数学",
+    "description": "高等数学标签：一致连续",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-152",
+    "name": "利普希茨条件",
+    "category": "高等数学",
+    "description": "高等数学标签：利普希茨条件",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-153",
+    "name": "隐函数定理",
+    "category": "高等数学",
+    "description": "高等数学标签：隐函数定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-154",
+    "name": "反函数定理",
+    "category": "高等数学",
+    "description": "高等数学标签：反函数定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-155",
+    "name": "正交多项式",
+    "category": "高等数学",
+    "description": "高等数学标签：正交多项式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-156",
+    "name": "数值积分",
+    "category": "高等数学",
+    "description": "高等数学标签：数值积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-157",
+    "name": "梯形公式",
+    "category": "高等数学",
+    "description": "高等数学标签：梯形公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-158",
+    "name": "辛普森公式",
+    "category": "高等数学",
+    "description": "高等数学标签：辛普森公式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-159",
+    "name": "欧拉方法",
+    "category": "高等数学",
+    "description": "高等数学标签：欧拉方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-160",
+    "name": "数项级数求和",
+    "category": "高等数学",
+    "description": "高等数学标签：数项级数求和",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-161",
+    "name": "函数项级数",
+    "category": "高等数学",
+    "description": "高等数学标签：函数项级数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-162",
+    "name": "阿贝尔定理",
+    "category": "高等数学",
+    "description": "高等数学标签：阿贝尔定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-163",
+    "name": "解析函数",
+    "category": "高等数学",
+    "description": "高等数学标签：解析函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-164",
+    "name": "调和函数",
+    "category": "高等数学",
+    "description": "高等数学标签：调和函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-165",
+    "name": "共形映射",
+    "category": "高等数学",
+    "description": "高等数学标签：共形映射",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-166",
+    "name": "留数",
+    "category": "高等数学",
+    "description": "高等数学标签：留数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-167",
+    "name": "柯西积分",
+    "category": "高等数学",
+    "description": "高等数学标签：柯西积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-168",
+    "name": "直接证明",
+    "category": "高等数学",
+    "description": "高等数学标签：直接证明",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-169",
+    "name": "反证法",
+    "category": "高等数学",
+    "description": "高等数学标签：反证法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-170",
+    "name": "数学归纳法",
+    "category": "高等数学",
+    "description": "高等数学标签：数学归纳法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-171",
+    "name": "构造法",
+    "category": "高等数学",
+    "description": "高等数学标签：构造法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-172",
+    "name": "分析法",
+    "category": "高等数学",
+    "description": "高等数学标签：分析法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-173",
+    "name": "放缩法",
+    "category": "高等数学",
+    "description": "高等数学标签：放缩法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-174",
+    "name": "换元法",
+    "category": "高等数学",
+    "description": "高等数学标签：换元法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-175",
+    "name": "配方法",
+    "category": "高等数学",
+    "description": "高等数学标签：配方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-176",
+    "name": "判别式法",
+    "category": "高等数学",
+    "description": "高等数学标签：判别式法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-177",
+    "name": "待定系数法",
+    "category": "高等数学",
+    "description": "高等数学标签：待定系数法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-178",
+    "name": "参数法",
+    "category": "高等数学",
+    "description": "高等数学标签：参数法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-179",
+    "name": "消元法",
+    "category": "高等数学",
+    "description": "高等数学标签：消元法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-180",
+    "name": "代入法",
+    "category": "高等数学",
+    "description": "高等数学标签：代入法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-181",
+    "name": "多项式的根",
+    "category": "高等数学",
+    "description": "高等数学标签：多项式的根",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-182",
+    "name": "因式分解",
+    "category": "高等数学",
+    "description": "高等数学标签：因式分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-183",
+    "name": "部分分式",
+    "category": "高等数学",
+    "description": "高等数学标签：部分分式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-184",
+    "name": "行列式",
+    "category": "高等数学",
+    "description": "高等数学标签：行列式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-185",
+    "name": "克莱姆法则",
+    "category": "高等数学",
+    "description": "高等数学标签：克莱姆法则",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-186",
+    "name": "范德蒙行列式",
+    "category": "高等数学",
+    "description": "高等数学标签：范德蒙行列式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-187",
+    "name": "矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-188",
+    "name": "线性方程组",
+    "category": "高等数学",
+    "description": "高等数学标签：线性方程组",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-189",
+    "name": "向量空间",
+    "category": "高等数学",
+    "description": "高等数学标签：向量空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-190",
+    "name": "线性无关",
+    "category": "高等数学",
+    "description": "高等数学标签：线性无关",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-191",
+    "name": "基",
+    "category": "高等数学",
+    "description": "高等数学标签：基",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-192",
+    "name": "维数",
+    "category": "高等数学",
+    "description": "高等数学标签：维数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-193",
+    "name": "线性变换",
+    "category": "高等数学",
+    "description": "高等数学标签：线性变换",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-194",
+    "name": "特征向量",
+    "category": "高等数学",
+    "description": "高等数学标签：特征向量",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-195",
+    "name": "特征值",
+    "category": "高等数学",
+    "description": "高等数学标签：特征值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-196",
+    "name": "二次型",
+    "category": "高等数学",
+    "description": "高等数学标签：二次型",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-197",
+    "name": "正定",
+    "category": "高等数学",
+    "description": "高等数学标签：正定",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-198",
+    "name": "标准形",
+    "category": "高等数学",
+    "description": "高等数学标签：标准形",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-199",
+    "name": "规范形",
+    "category": "高等数学",
+    "description": "高等数学标签：规范形",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-200",
+    "name": "正交变换",
+    "category": "高等数学",
+    "description": "高等数学标签：正交变换",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-201",
+    "name": "合同变换",
+    "category": "高等数学",
+    "description": "高等数学标签：合同变换",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-202",
+    "name": "相似变换",
+    "category": "高等数学",
+    "description": "高等数学标签：相似变换",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-203",
+    "name": "对角化",
+    "category": "高等数学",
+    "description": "高等数学标签：对角化",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-204",
+    "name": "概率论",
+    "category": "高等数学",
+    "description": "高等数学标签：概率论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-205",
+    "name": "随机变量",
+    "category": "高等数学",
+    "description": "高等数学标签：随机变量",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-206",
+    "name": "分布函数",
+    "category": "高等数学",
+    "description": "高等数学标签：分布函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-207",
+    "name": "数学期望",
+    "category": "高等数学",
+    "description": "高等数学标签：数学期望",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-208",
+    "name": "方差",
+    "category": "高等数学",
+    "description": "高等数学标签：方差",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-209",
+    "name": "协方差",
+    "category": "高等数学",
+    "description": "高等数学标签：协方差",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-210",
+    "name": "相关系数",
+    "category": "高等数学",
+    "description": "高等数学标签：相关系数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-211",
+    "name": "大数定律",
+    "category": "高等数学",
+    "description": "高等数学标签：大数定律",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-212",
+    "name": "中心极限定理",
+    "category": "高等数学",
+    "description": "高等数学标签：中心极限定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-213",
+    "name": "数理统计",
+    "category": "高等数学",
+    "description": "高等数学标签：数理统计",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-214",
+    "name": "参数估计",
+    "category": "高等数学",
+    "description": "高等数学标签：参数估计",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-215",
+    "name": "假设检验",
+    "category": "高等数学",
+    "description": "高等数学标签：假设检验",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-216",
+    "name": "回归分析",
+    "category": "高等数学",
+    "description": "高等数学标签：回归分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-217",
+    "name": "方差分析",
+    "category": "高等数学",
+    "description": "高等数学标签：方差分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-218",
+    "name": "贝叶斯统计",
+    "category": "高等数学",
+    "description": "高等数学标签：贝叶斯统计",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-219",
+    "name": "置信区间",
+    "category": "高等数学",
+    "description": "高等数学标签：置信区间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-220",
+    "name": "统计检验",
+    "category": "高等数学",
+    "description": "高等数学标签：统计检验",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-221",
+    "name": "非参数统计",
+    "category": "高等数学",
+    "description": "高等数学标签：非参数统计",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-222",
+    "name": "主成分分析",
+    "category": "高等数学",
+    "description": "高等数学标签：主成分分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-223",
+    "name": "因子分析",
+    "category": "高等数学",
+    "description": "高等数学标签：因子分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-224",
+    "name": "聚类分析",
+    "category": "高等数学",
+    "description": "高等数学标签：聚类分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-225",
+    "name": "判别分析",
+    "category": "高等数学",
+    "description": "高等数学标签：判别分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-226",
+    "name": "时间序列",
+    "category": "高等数学",
+    "description": "高等数学标签：时间序列",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-227",
+    "name": "平稳性",
+    "category": "高等数学",
+    "description": "高等数学标签：平稳性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-228",
+    "name": "自相关",
+    "category": "高等数学",
+    "description": "高等数学标签：自相关",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-229",
+    "name": "偏自相关",
+    "category": "高等数学",
+    "description": "高等数学标签：偏自相关",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-230",
+    "name": "ARMA",
+    "category": "高等数学",
+    "description": "高等数学标签：ARMA",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-231",
+    "name": "ARIMA",
+    "category": "高等数学",
+    "description": "高等数学标签：ARIMA",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-232",
+    "name": "GARCH",
+    "category": "高等数学",
+    "description": "高等数学标签：GARCH",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-233",
+    "name": "随机过程",
+    "category": "高等数学",
+    "description": "高等数学标签：随机过程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-234",
+    "name": "马尔可夫链",
+    "category": "高等数学",
+    "description": "高等数学标签：马尔可夫链",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-235",
+    "name": "泊松过程",
+    "category": "高等数学",
+    "description": "高等数学标签：泊松过程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-236",
+    "name": "布朗运动",
+    "category": "高等数学",
+    "description": "高等数学标签：布朗运动",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-237",
+    "name": "维纳过程",
+    "category": "高等数学",
+    "description": "高等数学标签：维纳过程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-238",
+    "name": "差分法",
+    "category": "高等数学",
+    "description": "高等数学标签：差分法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-239",
+    "name": "有限元",
+    "category": "高等数学",
+    "description": "高等数学标签：有限元",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-240",
+    "name": "机器学习",
+    "category": "高等数学",
+    "description": "高等数学标签：机器学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-241",
+    "name": "深度学习",
+    "category": "高等数学",
+    "description": "高等数学标签：深度学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-242",
+    "name": "神经网络",
+    "category": "高等数学",
+    "description": "高等数学标签：神经网络",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-243",
+    "name": "强化学习",
+    "category": "高等数学",
+    "description": "高等数学标签：强化学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-244",
+    "name": "博弈论",
+    "category": "高等数学",
+    "description": "高等数学标签：博弈论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-245",
+    "name": "纳什均衡",
+    "category": "高等数学",
+    "description": "高等数学标签：纳什均衡",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-246",
+    "name": "信息经济学",
+    "category": "高等数学",
+    "description": "高等数学标签：信息经济学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-247",
+    "name": "拍卖理论",
+    "category": "高等数学",
+    "description": "高等数学标签：拍卖理论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-248",
+    "name": "机制设计",
+    "category": "高等数学",
+    "description": "高等数学标签：机制设计",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-249",
+    "name": "网络效应",
+    "category": "高等数学",
+    "description": "高等数学标签：网络效应",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-250",
+    "name": "平台经济",
+    "category": "高等数学",
+    "description": "高等数学标签：平台经济",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-251",
+    "name": "定价策略",
+    "category": "高等数学",
+    "description": "高等数学标签：定价策略",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-252",
+    "name": "需求弹性",
+    "category": "高等数学",
+    "description": "高等数学标签：需求弹性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-253",
+    "name": "效用函数",
+    "category": "高等数学",
+    "description": "高等数学标签：效用函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-254",
+    "name": "消费者均衡",
+    "category": "高等数学",
+    "description": "高等数学标签：消费者均衡",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-255",
+    "name": "生产者理论",
+    "category": "高等数学",
+    "description": "高等数学标签：生产者理论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-256",
+    "name": "成本函数",
+    "category": "高等数学",
+    "description": "高等数学标签：成本函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-257",
+    "name": "利润最大化",
+    "category": "高等数学",
+    "description": "高等数学标签：利润最大化",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-258",
+    "name": "市场结构",
+    "category": "高等数学",
+    "description": "高等数学标签：市场结构",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-259",
+    "name": "垄断",
+    "category": "高等数学",
+    "description": "高等数学标签：垄断",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-260",
+    "name": "竞争",
+    "category": "高等数学",
+    "description": "高等数学标签：竞争",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-261",
+    "name": "寡头",
+    "category": "高等数学",
+    "description": "高等数学标签：寡头",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-262",
+    "name": "信息不对称",
+    "category": "高等数学",
+    "description": "高等数学标签：信息不对称",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-263",
+    "name": "逆向选择",
+    "category": "高等数学",
+    "description": "高等数学标签：逆向选择",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-264",
+    "name": "道德风险",
+    "category": "高等数学",
+    "description": "高等数学标签：道德风险",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-265",
+    "name": "行为经济学",
+    "category": "高等数学",
+    "description": "高等数学标签：行为经济学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-266",
+    "name": "前景理论",
+    "category": "高等数学",
+    "description": "高等数学标签：前景理论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-267",
+    "name": "损失厌恶",
+    "category": "高等数学",
+    "description": "高等数学标签：损失厌恶",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-268",
+    "name": "确认偏误",
+    "category": "高等数学",
+    "description": "高等数学标签：确认偏误",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-269",
+    "name": "锚定效应",
+    "category": "高等数学",
+    "description": "高等数学标签：锚定效应",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-270",
+    "name": "框架效应",
+    "category": "高等数学",
+    "description": "高等数学标签：框架效应",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-271",
+    "name": "辛普森悖论",
+    "category": "高等数学",
+    "description": "高等数学标签：辛普森悖论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-272",
+    "name": "选择偏见",
+    "category": "高等数学",
+    "description": "高等数学标签：选择偏见",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-273",
+    "name": "幸存者偏差",
+    "category": "高等数学",
+    "description": "高等数学标签：幸存者偏差",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-274",
+    "name": "回归均值",
+    "category": "高等数学",
+    "description": "高等数学标签：回归均值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-275",
+    "name": "因果推断",
+    "category": "高等数学",
+    "description": "高等数学标签：因果推断",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-276",
+    "name": "工具变量",
+    "category": "高等数学",
+    "description": "高等数学标签：工具变量",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-277",
+    "name": "断点回归",
+    "category": "高等数学",
+    "description": "高等数学标签：断点回归",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-278",
+    "name": "双重差分",
+    "category": "高等数学",
+    "description": "高等数学标签：双重差分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-279",
+    "name": "自然实验",
+    "category": "高等数学",
+    "description": "高等数学标签：自然实验",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-280",
+    "name": "面板数据",
+    "category": "高等数学",
+    "description": "高等数学标签：面板数据",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-281",
+    "name": "固定效应",
+    "category": "高等数学",
+    "description": "高等数学标签：固定效应",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-282",
+    "name": "随机效应",
+    "category": "高等数学",
+    "description": "高等数学标签：随机效应",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-283",
+    "name": "多层次模型",
+    "category": "高等数学",
+    "description": "高等数学标签：多层次模型",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-284",
+    "name": "生存分析",
+    "category": "高等数学",
+    "description": "高等数学标签：生存分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-285",
+    "name": "COX回归",
+    "category": "高等数学",
+    "description": "高等数学标签：COX回归",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-286",
+    "name": "自助法",
+    "category": "高等数学",
+    "description": "高等数学标签：自助法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-287",
+    "name": "交叉验证",
+    "category": "高等数学",
+    "description": "高等数学标签：交叉验证",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-288",
+    "name": "随机森林",
+    "category": "高等数学",
+    "description": "高等数学标签：随机森林",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-289",
+    "name": "提升方法",
+    "category": "高等数学",
+    "description": "高等数学标签：提升方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-290",
+    "name": "XGBoost",
+    "category": "高等数学",
+    "description": "高等数学标签：XGBoost",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-291",
+    "name": "LightGBM",
+    "category": "高等数学",
+    "description": "高等数学标签：LightGBM",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-292",
+    "name": "迁移学习",
+    "category": "高等数学",
+    "description": "高等数学标签：迁移学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-293",
+    "name": "元学习",
+    "category": "高等数学",
+    "description": "高等数学标签：元学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-294",
+    "name": "自监督学习",
+    "category": "高等数学",
+    "description": "高等数学标签：自监督学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-295",
+    "name": "半监督学习",
+    "category": "高等数学",
+    "description": "高等数学标签：半监督学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-296",
+    "name": "主动学习",
+    "category": "高等数学",
+    "description": "高等数学标签：主动学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-297",
+    "name": "在线学习",
+    "category": "高等数学",
+    "description": "高等数学标签：在线学习",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-298",
+    "name": "概念漂移",
+    "category": "高等数学",
+    "description": "高等数学标签：概念漂移",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-299",
+    "name": "词嵌入",
+    "category": "高等数学",
+    "description": "高等数学标签：词嵌入",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-300",
+    "name": "知识图谱",
+    "category": "高等数学",
+    "description": "高等数学标签：知识图谱",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-301",
+    "name": "因果推理",
+    "category": "高等数学",
+    "description": "高等数学标签：因果推理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-302",
+    "name": "反事实推理",
+    "category": "高等数学",
+    "description": "高等数学标签：反事实推理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-303",
+    "name": "结构因果模型",
+    "category": "高等数学",
+    "description": "高等数学标签：结构因果模型",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-304",
+    "name": "空间统计",
+    "category": "高等数学",
+    "description": "高等数学标签：空间统计",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-305",
+    "name": "克里金",
+    "category": "高等数学",
+    "description": "高等数学标签：克里金",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-306",
+    "name": "地统计",
+    "category": "高等数学",
+    "description": "高等数学标签：地统计",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-307",
+    "name": "空间回归",
+    "category": "高等数学",
+    "description": "高等数学标签：空间回归",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-308",
+    "name": "地理加权回归",
+    "category": "高等数学",
+    "description": "高等数学标签：地理加权回归",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-309",
+    "name": "多目标优化",
+    "category": "高等数学",
+    "description": "高等数学标签：多目标优化",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-310",
+    "name": "遗传算法",
+    "category": "高等数学",
+    "description": "高等数学标签：遗传算法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-311",
+    "name": "粒子群",
+    "category": "高等数学",
+    "description": "高等数学标签：粒子群",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-312",
+    "name": "模拟退火",
+    "category": "高等数学",
+    "description": "高等数学标签：模拟退火",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-313",
+    "name": "灵敏度分析",
+    "category": "高等数学",
+    "description": "高等数学标签：灵敏度分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-314",
+    "name": "结构可靠性",
+    "category": "高等数学",
+    "description": "高等数学标签：结构可靠性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-315",
+    "name": "蒙特卡洛",
+    "category": "高等数学",
+    "description": "高等数学标签：蒙特卡洛",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-316",
+    "name": "逆问题",
+    "category": "高等数学",
+    "description": "高等数学标签：逆问题",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-317",
+    "name": "正则化",
+    "category": "高等数学",
+    "description": "高等数学标签：正则化",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-318",
+    "name": "LASSO",
+    "category": "高等数学",
+    "description": "高等数学标签：LASSO",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-319",
+    "name": "岭回归",
+    "category": "高等数学",
+    "description": "高等数学标签：岭回归",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-320",
+    "name": "弹性网",
+    "category": "高等数学",
+    "description": "高等数学标签：弹性网",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-321",
+    "name": "贝叶斯网络",
+    "category": "高等数学",
+    "description": "高等数学标签：贝叶斯网络",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-322",
+    "name": "结构方程模型",
+    "category": "高等数学",
+    "description": "高等数学标签：结构方程模型",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-323",
+    "name": "潜变量",
+    "category": "高等数学",
+    "description": "高等数学标签：潜变量",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-324",
+    "name": "信息准则",
+    "category": "高等数学",
+    "description": "高等数学标签：信息准则",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-325",
+    "name": "AIC",
+    "category": "高等数学",
+    "description": "高等数学标签：AIC",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-326",
+    "name": "BIC",
+    "category": "高等数学",
+    "description": "高等数学标签：BIC",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-327",
+    "name": "数值稳定性",
+    "category": "高等数学",
+    "description": "高等数学标签：数值稳定性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-328",
+    "name": "条件数",
+    "category": "高等数学",
+    "description": "高等数学标签：条件数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-329",
+    "name": "计算数学",
+    "category": "高等数学",
+    "description": "高等数学标签：计算数学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-330",
+    "name": "科学计算",
+    "category": "高等数学",
+    "description": "高等数学标签：科学计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-331",
+    "name": "并行计算",
+    "category": "高等数学",
+    "description": "高等数学标签：并行计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-332",
+    "name": "云计算",
+    "category": "高等数学",
+    "description": "高等数学标签：云计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-333",
+    "name": "边缘计算",
+    "category": "高等数学",
+    "description": "高等数学标签：边缘计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-334",
+    "name": "人工智能",
+    "category": "高等数学",
+    "description": "高等数学标签：人工智能",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-335",
+    "name": "符号计算",
+    "category": "高等数学",
+    "description": "高等数学标签：符号计算",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-336",
+    "name": "几何",
+    "category": "高等数学",
+    "description": "高等数学标签：几何",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-337",
+    "name": "拓扑",
+    "category": "高等数学",
+    "description": "高等数学标签：拓扑",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-338",
+    "name": "代数",
+    "category": "高等数学",
+    "description": "高等数学标签：代数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-339",
+    "name": "数论",
+    "category": "高等数学",
+    "description": "高等数学标签：数论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-340",
+    "name": "组合数学",
+    "category": "高等数学",
+    "description": "高等数学标签：组合数学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-341",
+    "name": "图论",
+    "category": "高等数学",
+    "description": "高等数学标签：图论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-342",
+    "name": "离散数学",
+    "category": "高等数学",
+    "description": "高等数学标签：离散数学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-343",
+    "name": "最优化",
+    "category": "高等数学",
+    "description": "高等数学标签：最优化",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-344",
+    "name": "线性规划",
+    "category": "高等数学",
+    "description": "高等数学标签：线性规划",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-345",
+    "name": "整数规划",
+    "category": "高等数学",
+    "description": "高等数学标签：整数规划",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-346",
+    "name": "非线性规划",
+    "category": "高等数学",
+    "description": "高等数学标签：非线性规划",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-347",
+    "name": "动态规划",
+    "category": "高等数学",
+    "description": "高等数学标签：动态规划",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-348",
+    "name": "变分法",
+    "category": "高等数学",
+    "description": "高等数学标签：变分法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-349",
+    "name": "泛函分析",
+    "category": "高等数学",
+    "description": "高等数学标签：泛函分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-350",
+    "name": "测度论",
+    "category": "高等数学",
+    "description": "高等数学标签：测度论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-351",
+    "name": "实变函数",
+    "category": "高等数学",
+    "description": "高等数学标签：实变函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-352",
+    "name": "复变函数",
+    "category": "高等数学",
+    "description": "高等数学标签：复变函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-353",
+    "name": "常微分方程",
+    "category": "高等数学",
+    "description": "高等数学标签：常微分方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-354",
+    "name": "偏微分方程",
+    "category": "高等数学",
+    "description": "高等数学标签：偏微分方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-355",
+    "name": "积分方程",
+    "category": "高等数学",
+    "description": "高等数学标签：积分方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-356",
+    "name": "数学物理",
+    "category": "高等数学",
+    "description": "高等数学标签：数学物理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-357",
+    "name": "力学",
+    "category": "高等数学",
+    "description": "高等数学标签：力学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-358",
+    "name": "电磁学",
+    "category": "高等数学",
+    "description": "高等数学标签：电磁学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-359",
+    "name": "热力学",
+    "category": "高等数学",
+    "description": "高等数学标签：热力学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-360",
+    "name": "统计物理",
+    "category": "高等数学",
+    "description": "高等数学标签：统计物理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-361",
+    "name": "量子力学",
+    "category": "高等数学",
+    "description": "高等数学标签：量子力学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-362",
+    "name": "相对论",
+    "category": "高等数学",
+    "description": "高等数学标签：相对论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-363",
+    "name": "天体力学",
+    "category": "高等数学",
+    "description": "高等数学标签：天体力学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-364",
+    "name": "流体力学",
+    "category": "高等数学",
+    "description": "高等数学标签：流体力学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-365",
+    "name": "弹性力学",
+    "category": "高等数学",
+    "description": "高等数学标签：弹性力学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-366",
+    "name": "数学建模",
+    "category": "高等数学",
+    "description": "高等数学标签：数学建模",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-367",
+    "name": "系统科学",
+    "category": "高等数学",
+    "description": "高等数学标签：系统科学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-368",
+    "name": "控制论",
+    "category": "高等数学",
+    "description": "高等数学标签：控制论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-369",
+    "name": "信息论",
+    "category": "高等数学",
+    "description": "高等数学标签：信息论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-370",
+    "name": "编码理论",
+    "category": "高等数学",
+    "description": "高等数学标签：编码理论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-371",
+    "name": "密码学",
+    "category": "高等数学",
+    "description": "高等数学标签：密码学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-372",
+    "name": "网络科学",
+    "category": "高等数学",
+    "description": "高等数学标签：网络科学",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-373",
+    "name": "复杂系统",
+    "category": "高等数学",
+    "description": "高等数学标签：复杂系统",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-374",
+    "name": "混沌理论",
+    "category": "高等数学",
+    "description": "高等数学标签：混沌理论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-375",
+    "name": "分形",
+    "category": "高等数学",
+    "description": "高等数学标签：分形",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-376",
+    "name": "动力系统",
+    "category": "高等数学",
+    "description": "高等数学标签：动力系统",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-377",
+    "name": "遍历理论",
+    "category": "高等数学",
+    "description": "高等数学标签：遍历理论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-378",
+    "name": "随机分析",
+    "category": "高等数学",
+    "description": "高等数学标签：随机分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-379",
+    "name": "测度",
+    "category": "高等数学",
+    "description": "高等数学标签：测度",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-380",
+    "name": "勒贝格积分",
+    "category": "高等数学",
+    "description": "高等数学标签：勒贝格积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-381",
+    "name": "勒贝格测度",
+    "category": "高等数学",
+    "description": "高等数学标签：勒贝格测度",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-382",
+    "name": "波莱尔集",
+    "category": "高等数学",
+    "description": "高等数学标签：波莱尔集",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-383",
+    "name": "可测函数",
+    "category": "高等数学",
+    "description": "高等数学标签：可测函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-384",
+    "name": "收敛定理",
+    "category": "高等数学",
+    "description": "高等数学标签：收敛定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-385",
+    "name": "控制收敛",
+    "category": "高等数学",
+    "description": "高等数学标签：控制收敛",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-386",
+    "name": "单调收敛",
+    "category": "高等数学",
+    "description": "高等数学标签：单调收敛",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-387",
+    "name": "法图引理",
+    "category": "高等数学",
+    "description": "高等数学标签：法图引理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-388",
+    "name": "有界变差",
+    "category": "高等数学",
+    "description": "高等数学标签：有界变差",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-389",
+    "name": "绝对连续",
+    "category": "高等数学",
+    "description": "高等数学标签：绝对连续",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-390",
+    "name": "奇异函数",
+    "category": "高等数学",
+    "description": "高等数学标签：奇异函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-391",
+    "name": "康托函数",
+    "category": "高等数学",
+    "description": "高等数学标签：康托函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-392",
+    "name": "康托集",
+    "category": "高等数学",
+    "description": "高等数学标签：康托集",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-393",
+    "name": "维塔利覆盖",
+    "category": "高等数学",
+    "description": "高等数学标签：维塔利覆盖",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-394",
+    "name": "哈代-李特尔伍德",
+    "category": "高等数学",
+    "description": "高等数学标签：哈代-李特尔伍德",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-395",
+    "name": "极大函数",
+    "category": "高等数学",
+    "description": "高等数学标签：极大函数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-396",
+    "name": "奇异积分",
+    "category": "高等数学",
+    "description": "高等数学标签：奇异积分",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-397",
+    "name": "柯西主值",
+    "category": "高等数学",
+    "description": "高等数学标签：柯西主值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-398",
+    "name": "希尔伯特变换",
+    "category": "高等数学",
+    "description": "高等数学标签：希尔伯特变换",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-399",
+    "name": "里斯变换",
+    "category": "高等数学",
+    "description": "高等数学标签：里斯变换",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-400",
+    "name": "奇异积分算子",
+    "category": "高等数学",
+    "description": "高等数学标签：奇异积分算子",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-401",
+    "name": "卡尔德隆-齐格蒙德",
+    "category": "高等数学",
+    "description": "高等数学标签：卡尔德隆-齐格蒙德",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-402",
+    "name": "插值定理",
+    "category": "高等数学",
+    "description": "高等数学标签：插值定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-403",
+    "name": "实插值",
+    "category": "高等数学",
+    "description": "高等数学标签：实插值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-404",
+    "name": "复插值",
+    "category": "高等数学",
+    "description": "高等数学标签：复插值",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-405",
+    "name": "洛伦兹空间",
+    "category": "高等数学",
+    "description": "高等数学标签：洛伦兹空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-406",
+    "name": "贝索夫空间",
+    "category": "高等数学",
+    "description": "高等数学标签：贝索夫空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-407",
+    "name": "特里贝尔-利佐金空间",
+    "category": "高等数学",
+    "description": "高等数学标签：特里贝尔-利佐金空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-408",
+    "name": "索伯列夫空间",
+    "category": "高等数学",
+    "description": "高等数学标签：索伯列夫空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-409",
+    "name": "嵌入定理",
+    "category": "高等数学",
+    "description": "高等数学标签：嵌入定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-410",
+    "name": "迹定理",
+    "category": "高等数学",
+    "description": "高等数学标签：迹定理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-411",
+    "name": "紧嵌入",
+    "category": "高等数学",
+    "description": "高等数学标签：紧嵌入",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-412",
+    "name": "庞加莱不等式",
+    "category": "高等数学",
+    "description": "高等数学标签：庞加莱不等式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-413",
+    "name": "等周不等式",
+    "category": "高等数学",
+    "description": "高等数学标签：等周不等式",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-414",
+    "name": "斯梅尔问题",
+    "category": "高等数学",
+    "description": "高等数学标签：斯梅尔问题",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-415",
+    "name": "纳维-斯托克斯",
+    "category": "高等数学",
+    "description": "高等数学标签：纳维-斯托克斯",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-416",
+    "name": "欧拉方程",
+    "category": "高等数学",
+    "description": "高等数学标签：欧拉方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-417",
+    "name": "伯努利方程",
+    "category": "高等数学",
+    "description": "高等数学标签：伯努利方程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-418",
+    "name": "势流",
+    "category": "高等数学",
+    "description": "高等数学标签：势流",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-419",
+    "name": "边界层",
+    "category": "高等数学",
+    "description": "高等数学标签：边界层",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-420",
+    "name": "湍流",
+    "category": "高等数学",
+    "description": "高等数学标签：湍流",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-421",
+    "name": "涡流",
+    "category": "高等数学",
+    "description": "高等数学标签：涡流",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-422",
+    "name": "涡度",
+    "category": "高等数学",
+    "description": "高等数学标签：涡度",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-423",
+    "name": "环量",
+    "category": "高等数学",
+    "description": "高等数学标签：环量",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-424",
+    "name": "升力",
+    "category": "高等数学",
+    "description": "高等数学标签：升力",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-425",
+    "name": "阻力",
+    "category": "高等数学",
+    "description": "高等数学标签：阻力",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-426",
+    "name": "马赫数",
+    "category": "高等数学",
+    "description": "高等数学标签：马赫数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-427",
+    "name": "雷诺数",
+    "category": "高等数学",
+    "description": "高等数学标签：雷诺数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-428",
+    "name": "弗劳德数",
+    "category": "高等数学",
+    "description": "高等数学标签：弗劳德数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-429",
+    "name": "韦伯数",
+    "category": "高等数学",
+    "description": "高等数学标签：韦伯数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-430",
+    "name": "努塞尔数",
+    "category": "高等数学",
+    "description": "高等数学标签：努塞尔数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-431",
+    "name": "普朗特数",
+    "category": "高等数学",
+    "description": "高等数学标签：普朗特数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-432",
+    "name": "瑞利数",
+    "category": "高等数学",
+    "description": "高等数学标签：瑞利数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-433",
+    "name": "格拉晓夫数",
+    "category": "高等数学",
+    "description": "高等数学标签：格拉晓夫数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-434",
+    "name": "比奥数",
+    "category": "高等数学",
+    "description": "高等数学标签：比奥数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-435",
+    "name": "傅里叶数",
+    "category": "高等数学",
+    "description": "高等数学标签：傅里叶数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-436",
+    "name": "佩克莱数",
+    "category": "高等数学",
+    "description": "高等数学标签：佩克莱数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-437",
+    "name": "斯坦顿数",
+    "category": "高等数学",
+    "description": "高等数学标签：斯坦顿数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-438",
+    "name": "埃克特数",
+    "category": "高等数学",
+    "description": "高等数学标签：埃克特数",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-439",
+    "name": "相似性原理",
+    "category": "高等数学",
+    "description": "高等数学标签：相似性原理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-440",
+    "name": "无量纲化",
+    "category": "高等数学",
+    "description": "高等数学标签：无量纲化",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-441",
+    "name": "尺度分析",
+    "category": "高等数学",
+    "description": "高等数学标签：尺度分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-442",
+    "name": "渐近分析",
+    "category": "高等数学",
+    "description": "高等数学标签：渐近分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-443",
+    "name": "匹配渐近展开",
+    "category": "高等数学",
+    "description": "高等数学标签：匹配渐近展开",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-444",
+    "name": "多尺度方法",
+    "category": "高等数学",
+    "description": "高等数学标签：多尺度方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-445",
+    "name": "平均化",
+    "category": "高等数学",
+    "description": "高等数学标签：平均化",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-446",
+    "name": "振动理论",
+    "category": "高等数学",
+    "description": "高等数学标签：振动理论",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-447",
+    "name": "正规摄动",
+    "category": "高等数学",
+    "description": "高等数学标签：正规摄动",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-448",
+    "name": "奇异摄动",
+    "category": "高等数学",
+    "description": "高等数学标签：奇异摄动",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-449",
+    "name": "边界层方法",
+    "category": "高等数学",
+    "description": "高等数学标签：边界层方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-450",
+    "name": "WKB方法",
+    "category": "高等数学",
+    "description": "高等数学标签：WKB方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-451",
+    "name": "变分迭代",
+    "category": "高等数学",
+    "description": "高等数学标签：变分迭代",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-452",
+    "name": "同伦分析",
+    "category": "高等数学",
+    "description": "高等数学标签：同伦分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-453",
+    "name": "微分求积",
+    "category": "高等数学",
+    "description": "高等数学标签：微分求积",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-454",
+    "name": "配点法",
+    "category": "高等数学",
+    "description": "高等数学标签：配点法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-455",
+    "name": "谱方法",
+    "category": "高等数学",
+    "description": "高等数学标签：谱方法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-456",
+    "name": "连续谱",
+    "category": "高等数学",
+    "description": "高等数学标签：连续谱",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-457",
+    "name": "谱元法",
+    "category": "高等数学",
+    "description": "高等数学标签：谱元法",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-458",
+    "name": "间断伽辽金",
+    "category": "高等数学",
+    "description": "高等数学标签：间断伽辽金",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-459",
+    "name": "混合有限元",
+    "category": "高等数学",
+    "description": "高等数学标签：混合有限元",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-460",
+    "name": "非协调元",
+    "category": "高等数学",
+    "description": "高等数学标签：非协调元",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-461",
+    "name": "样条元",
+    "category": "高等数学",
+    "description": "高等数学标签：样条元",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-462",
+    "name": "等几何分析",
+    "category": "高等数学",
+    "description": "高等数学标签：等几何分析",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-463",
+    "name": "边界元",
+    "category": "高等数学",
+    "description": "高等数学标签：边界元",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-464",
+    "name": "快速多极子",
+    "category": "高等数学",
+    "description": "高等数学标签：快速多极子",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-465",
+    "name": "多重网格",
+    "category": "高等数学",
+    "description": "高等数学标签：多重网格",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-466",
+    "name": "代数多重网格",
+    "category": "高等数学",
+    "description": "高等数学标签：代数多重网格",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-467",
+    "name": "区域分解",
+    "category": "高等数学",
+    "description": "高等数学标签：区域分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-468",
+    "name": "施瓦兹交替",
+    "category": "高等数学",
+    "description": "高等数学标签：施瓦兹交替",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-469",
+    "name": "不重叠区域分解",
+    "category": "高等数学",
+    "description": "高等数学标签：不重叠区域分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-470",
+    "name": "重叠区域分解",
+    "category": "高等数学",
+    "description": "高等数学标签：重叠区域分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-471",
+    "name": "平衡区域分解",
+    "category": "高等数学",
+    "description": "高等数学标签：平衡区域分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-472",
+    "name": "迪利克雷-诺伊曼",
+    "category": "高等数学",
+    "description": "高等数学标签：迪利克雷-诺伊曼",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-473",
+    "name": "加法施瓦兹",
+    "category": "高等数学",
+    "description": "高等数学标签：加法施瓦兹",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-474",
+    "name": "乘法施瓦兹",
+    "category": "高等数学",
+    "description": "高等数学标签：乘法施瓦兹",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-475",
+    "name": "子结构",
+    "category": "高等数学",
+    "description": "高等数学标签：子结构",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-476",
+    "name": "静态凝聚",
+    "category": "高等数学",
+    "description": "高等数学标签：静态凝聚",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-477",
+    "name": "超单元",
+    "category": "高等数学",
+    "description": "高等数学标签：超单元",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-478",
+    "name": "并行求解器",
+    "category": "高等数学",
+    "description": "高等数学标签：并行求解器",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-479",
+    "name": "预处理",
+    "category": "高等数学",
+    "description": "高等数学标签：预处理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-480",
+    "name": "不完全LU",
+    "category": "高等数学",
+    "description": "高等数学标签：不完全LU",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-481",
+    "name": "不完全乔列斯基",
+    "category": "高等数学",
+    "description": "高等数学标签：不完全乔列斯基",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-482",
+    "name": "稀疏近似逆",
+    "category": "高等数学",
+    "description": "高等数学标签：稀疏近似逆",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-483",
+    "name": "共轭梯度",
+    "category": "高等数学",
+    "description": "高等数学标签：共轭梯度",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-484",
+    "name": "GMRES",
+    "category": "高等数学",
+    "description": "高等数学标签：GMRES",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-485",
+    "name": "双共轭梯度",
+    "category": "高等数学",
+    "description": "高等数学标签：双共轭梯度",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-486",
+    "name": "稳定双共轭梯度",
+    "category": "高等数学",
+    "description": "高等数学标签：稳定双共轭梯度",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-487",
+    "name": "最小二乘",
+    "category": "高等数学",
+    "description": "高等数学标签：最小二乘",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-488",
+    "name": "QR分解",
+    "category": "高等数学",
+    "description": "高等数学标签：QR分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-489",
+    "name": "奇异值分解",
+    "category": "高等数学",
+    "description": "高等数学标签：奇异值分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-490",
+    "name": "舒尔分解",
+    "category": "高等数学",
+    "description": "高等数学标签：舒尔分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-491",
+    "name": "海森伯格分解",
+    "category": "高等数学",
+    "description": "高等数学标签：海森伯格分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-492",
+    "name": "特征分解",
+    "category": "高等数学",
+    "description": "高等数学标签：特征分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-493",
+    "name": "LU分解",
+    "category": "高等数学",
+    "description": "高等数学标签：LU分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-494",
+    "name": "乔列斯基分解",
+    "category": "高等数学",
+    "description": "高等数学标签：乔列斯基分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-495",
+    "name": "托普利兹矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：托普利兹矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-496",
+    "name": "循环矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：循环矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-497",
+    "name": "稀疏矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：稀疏矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-498",
+    "name": "带状矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：带状矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-499",
+    "name": "对角占优",
+    "category": "高等数学",
+    "description": "高等数学标签：对角占优",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-500",
+    "name": "M矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：M矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-501",
+    "name": "正定矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：正定矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-502",
+    "name": "对称矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：对称矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-503",
+    "name": "埃尔米特矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：埃尔米特矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-504",
+    "name": "酉矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：酉矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-505",
+    "name": "正交矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：正交矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-506",
+    "name": "正规矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：正规矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-507",
+    "name": "幂等矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：幂等矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-508",
+    "name": "对合矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：对合矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-509",
+    "name": "投影矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：投影矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-510",
+    "name": "反射矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：反射矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-511",
+    "name": "旋转矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：旋转矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-512",
+    "name": "置换矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：置换矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-513",
+    "name": "初等矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：初等矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-514",
+    "name": "基础矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：基础矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-515",
+    "name": "友矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：友矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-516",
+    "name": "伴随矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：伴随矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-517",
+    "name": "逆矩阵",
+    "category": "高等数学",
+    "description": "高等数学标签：逆矩阵",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-518",
+    "name": "广义逆",
+    "category": "高等数学",
+    "description": "高等数学标签：广义逆",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-519",
+    "name": "穆尔-彭若斯逆",
+    "category": "高等数学",
+    "description": "高等数学标签：穆尔-彭若斯逆",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-520",
+    "name": "列空间",
+    "category": "高等数学",
+    "description": "高等数学标签：列空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-521",
+    "name": "零空间",
+    "category": "高等数学",
+    "description": "高等数学标签：零空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-522",
+    "name": "左零空间",
+    "category": "高等数学",
+    "description": "高等数学标签：左零空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-523",
+    "name": "行空间",
+    "category": "高等数学",
+    "description": "高等数学标签：行空间",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-524",
+    "name": "秩",
+    "category": "高等数学",
+    "description": "高等数学标签：秩",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-525",
+    "name": "满秩",
+    "category": "高等数学",
+    "description": "高等数学标签：满秩",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-526",
+    "name": "秩亏",
+    "category": "高等数学",
+    "description": "高等数学标签：秩亏",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-527",
+    "name": "秩分解",
+    "category": "高等数学",
+    "description": "高等数学标签：秩分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-528",
+    "name": "满秩分解",
+    "category": "高等数学",
+    "description": "高等数学标签：满秩分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-529",
+    "name": "低秩分解",
+    "category": "高等数学",
+    "description": "高等数学标签：低秩分解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-530",
+    "name": "有效秩",
+    "category": "高等数学",
+    "description": "高等数学标签：有效秩",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-531",
+    "name": "数值秩",
+    "category": "高等数学",
+    "description": "高等数学标签：数值秩",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "hm-tag-532",
+    "name": "伪秩",
+    "category": "高等数学",
+    "description": "高等数学标签：伪秩",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  }
+]
