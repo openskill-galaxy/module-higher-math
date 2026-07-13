@@ -25,7 +25,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高等数学的学科体系\n\n高等数学的学科体系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了高等数学的学科体系的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-001",
+      "hm-kp-002"
+    ]
   },
   {
     "id": "hm-lesson-002",
@@ -53,7 +58,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高等数学学习策略\n\n高等数学学习策略的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了高等数学学习策略的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-003",
+      "hm-kp-004"
+    ]
   },
   {
     "id": "hm-lesson-003",
@@ -81,7 +91,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数学证明方法入门\n\n数学证明方法入门的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了数学证明方法入门的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-005",
+      "hm-kp-006"
+    ]
   },
   {
     "id": "hm-lesson-004",
@@ -108,7 +123,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微积分发展史\n\n微积分发展史的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了微积分发展史的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-007"
+    ]
   },
   {
     "id": "hm-lesson-005",
@@ -136,7 +155,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 集合与映射基础\n\n集合与映射基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了集合与映射基础的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-008",
+      "hm-kp-009"
+    ]
   },
   {
     "id": "hm-lesson-006",
@@ -163,7 +187,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 实数系与数轴\n\n实数系与数轴的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了实数系与数轴的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-010"
+    ]
   },
   {
     "id": "hm-lesson-007",
@@ -191,7 +219,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不等式基础\n\n不等式基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了不等式基础的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-011",
+      "hm-kp-012"
+    ]
   },
   {
     "id": "hm-lesson-008",
@@ -218,7 +251,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 绝对值与距离\n\n绝对值与距离的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了绝对值与距离的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-013"
+    ]
   },
   {
     "id": "hm-lesson-009",
@@ -245,7 +282,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 邻域与去心邻域\n\n邻域与去心邻域的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了邻域与去心邻域的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-014"
+    ]
   },
   {
     "id": "hm-lesson-010",
@@ -272,7 +313,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 区间与开集闭集\n\n区间与开集闭集的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了区间与开集闭集的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-015"
+    ]
   },
   {
     "id": "hm-lesson-011",
@@ -299,7 +344,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常用数学符号\n\n常用数学符号的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了常用数学符号的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-016"
+    ]
   },
   {
     "id": "hm-lesson-012",
@@ -326,7 +375,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算工具与技巧\n\n计算工具与技巧的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了计算工具与技巧的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-017"
+    ]
   },
   {
     "id": "hm-lesson-013",
@@ -353,7 +406,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高等数学与工科应用\n\n高等数学与工科应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了高等数学与工科应用的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-018"
+    ]
   },
   {
     "id": "hm-lesson-014",
@@ -380,7 +437,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学习资源与参考书\n\n学习资源与参考书的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了学习资源与参考书的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-019"
+    ]
   },
   {
     "id": "hm-lesson-015",
@@ -402,7 +463,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数定义与表示法\n\n函数定义与表示法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数定义与表示法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-020",
+      "hm-kp-021"
+    ]
   },
   {
     "id": "hm-lesson-016",
@@ -424,7 +490,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数定义域\n\n函数定义域的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数定义域的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-022",
+      "hm-kp-023"
+    ]
   },
   {
     "id": "hm-lesson-017",
@@ -445,7 +516,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数值域\n\n函数值域的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数值域的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-024"
+    ]
   },
   {
     "id": "hm-lesson-018",
@@ -467,7 +542,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数的几种特性\n\n函数的几种特性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数的几种特性的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-025",
+      "hm-kp-026"
+    ]
   },
   {
     "id": "hm-lesson-019",
@@ -489,7 +569,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复合函数\n\n复合函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了复合函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-027",
+      "hm-kp-028"
+    ]
   },
   {
     "id": "hm-lesson-020",
@@ -511,7 +596,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 反函数\n\n反函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了反函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-029",
+      "hm-kp-030"
+    ]
   },
   {
     "id": "hm-lesson-021",
@@ -532,7 +622,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 幂函数\n\n幂函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了幂函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-031"
+    ]
   },
   {
     "id": "hm-lesson-022",
@@ -553,7 +647,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指数函数\n\n指数函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了指数函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-032"
+    ]
   },
   {
     "id": "hm-lesson-023",
@@ -574,7 +672,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 对数函数\n\n对数函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了对数函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-033"
+    ]
   },
   {
     "id": "hm-lesson-024",
@@ -596,7 +698,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三角函数\n\n三角函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了三角函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-034",
+      "hm-kp-035"
+    ]
   },
   {
     "id": "hm-lesson-025",
@@ -617,7 +724,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 反三角函数\n\n反三角函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了反三角函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-036"
+    ]
   },
   {
     "id": "hm-lesson-026",
@@ -638,7 +749,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等函数\n\n初等函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了初等函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-037"
+    ]
   },
   {
     "id": "hm-lesson-027",
@@ -659,7 +774,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分段函数\n\n分段函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了分段函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-038"
+    ]
   },
   {
     "id": "hm-lesson-028",
@@ -680,7 +799,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 参数方程与极坐标\n\n参数方程与极坐标的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了参数方程与极坐标的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-039"
+    ]
   },
   {
     "id": "hm-lesson-029",
@@ -708,7 +831,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数列极限的定义\n\n数列极限的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了数列极限的定义的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-040",
+      "hm-kp-041"
+    ]
   },
   {
     "id": "hm-lesson-030",
@@ -735,7 +863,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数列极限的性质\n\n数列极限的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了数列极限的性质的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-042"
+    ]
   },
   {
     "id": "hm-lesson-031",
@@ -762,7 +894,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数列极限四则运算\n\n数列极限四则运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了数列极限四则运算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-043"
+    ]
   },
   {
     "id": "hm-lesson-032",
@@ -790,7 +926,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单调有界准则\n\n单调有界准则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了单调有界准则的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-044",
+      "hm-kp-045"
+    ]
   },
   {
     "id": "hm-lesson-033",
@@ -817,7 +958,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 夹逼准则\n\n夹逼准则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了夹逼准则的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-046"
+    ]
   },
   {
     "id": "hm-lesson-034",
@@ -845,7 +990,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数极限的定义\n\n函数极限的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数极限的定义的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-047",
+      "hm-kp-048"
+    ]
   },
   {
     "id": "hm-lesson-035",
@@ -873,7 +1023,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 左极限与右极限\n\n左极限与右极限的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了左极限与右极限的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-049",
+      "hm-kp-050"
+    ]
   },
   {
     "id": "hm-lesson-036",
@@ -900,7 +1055,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数极限的性质\n\n函数极限的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数极限的性质的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-051"
+    ]
   },
   {
     "id": "hm-lesson-037",
@@ -927,7 +1086,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 极限四则运算法则\n\n极限四则运算法则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了极限四则运算法则的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-052"
+    ]
   },
   {
     "id": "hm-lesson-038",
@@ -955,7 +1118,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 无穷小的概念\n\n无穷小的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了无穷小的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-053",
+      "hm-kp-054"
+    ]
   },
   {
     "id": "hm-lesson-039",
@@ -982,7 +1150,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 无穷大的概念\n\n无穷大的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了无穷大的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-055"
+    ]
   },
   {
     "id": "hm-lesson-040",
@@ -1010,7 +1182,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 无穷小的比较\n\n无穷小的比较的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了无穷小的比较的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-056",
+      "hm-kp-057"
+    ]
   },
   {
     "id": "hm-lesson-041",
@@ -1038,7 +1215,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 等价无穷小替换\n\n等价无穷小替换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了等价无穷小替换的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-058",
+      "hm-kp-059"
+    ]
   },
   {
     "id": "hm-lesson-042",
@@ -1065,7 +1247,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第一重要极限\n\n第一重要极限的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了第一重要极限的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-060"
+    ]
   },
   {
     "id": "hm-lesson-043",
@@ -1092,7 +1278,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第二重要极限\n\n第二重要极限的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了第二重要极限的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-061"
+    ]
   },
   {
     "id": "hm-lesson-044",
@@ -1119,7 +1309,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 重要极限应用\n\n重要极限应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了重要极限应用的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-062"
+    ]
   },
   {
     "id": "hm-lesson-045",
@@ -1147,7 +1341,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 洛必达法则\n\n洛必达法则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了洛必达法则的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-063",
+      "hm-kp-064"
+    ]
   },
   {
     "id": "hm-lesson-046",
@@ -1175,7 +1374,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数连续性的定义\n\n函数连续性的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数连续性的定义的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-065",
+      "hm-kp-066"
+    ]
   },
   {
     "id": "hm-lesson-047",
@@ -1202,7 +1406,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 连续函数的运算\n\n连续函数的运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了连续函数的运算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-067"
+    ]
   },
   {
     "id": "hm-lesson-048",
@@ -1229,7 +1437,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等函数的连续性\n\n初等函数的连续性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了初等函数的连续性的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-068"
+    ]
   },
   {
     "id": "hm-lesson-049",
@@ -1256,7 +1468,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 间断点的概念\n\n间断点的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了间断点的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-069"
+    ]
   },
   {
     "id": "hm-lesson-050",
@@ -1284,7 +1500,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第一类间断点\n\n第一类间断点的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了第一类间断点的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-070",
+      "hm-kp-071"
+    ]
   },
   {
     "id": "hm-lesson-051",
@@ -1312,7 +1533,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第二类间断点\n\n第二类间断点的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了第二类间断点的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-072",
+      "hm-kp-073"
+    ]
   },
   {
     "id": "hm-lesson-052",
@@ -1339,7 +1565,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 闭区间上连续函数性质\n\n闭区间上连续函数性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了闭区间上连续函数性质的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-074"
+    ]
   },
   {
     "id": "hm-lesson-053",
@@ -1366,7 +1596,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 介值定理\n\n介值定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了介值定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-075"
+    ]
   },
   {
     "id": "hm-lesson-054",
@@ -1393,7 +1627,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 零点定理\n\n零点定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了零点定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-076"
+    ]
   },
   {
     "id": "hm-lesson-055",
@@ -1420,7 +1658,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 一致连续性\n\n一致连续性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了一致连续性的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-077"
+    ]
   },
   {
     "id": "hm-lesson-056",
@@ -1448,7 +1690,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 导数的定义\n\n导数的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了导数的定义的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-078",
+      "hm-kp-079"
+    ]
   },
   {
     "id": "hm-lesson-057",
@@ -1475,7 +1722,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 导数的几何意义\n\n导数的几何意义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了导数的几何意义的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-080"
+    ]
   },
   {
     "id": "hm-lesson-058",
@@ -1503,7 +1754,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基本求导公式\n\n基本求导公式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了基本求导公式的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-081",
+      "hm-kp-082"
+    ]
   },
   {
     "id": "hm-lesson-059",
@@ -1530,7 +1786,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 导数四则运算法则\n\n导数四则运算法则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了导数四则运算法则的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-083"
+    ]
   },
   {
     "id": "hm-lesson-060",
@@ -1558,7 +1818,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复合函数求导\n\n复合函数求导的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了复合函数求导的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-084",
+      "hm-kp-085"
+    ]
   },
   {
     "id": "hm-lesson-061",
@@ -1586,7 +1851,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 隐函数求导\n\n隐函数求导的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了隐函数求导的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-086",
+      "hm-kp-087"
+    ]
   },
   {
     "id": "hm-lesson-062",
@@ -1614,7 +1884,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 参数方程求导\n\n参数方程求导的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了参数方程求导的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-088",
+      "hm-kp-089"
+    ]
   },
   {
     "id": "hm-lesson-063",
@@ -1642,7 +1917,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高阶导数\n\n高阶导数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了高阶导数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-090",
+      "hm-kp-091"
+    ]
   },
   {
     "id": "hm-lesson-064",
@@ -1670,7 +1950,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微分的概念\n\n微分的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了微分的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-092",
+      "hm-kp-093"
+    ]
   },
   {
     "id": "hm-lesson-065",
@@ -1697,7 +1982,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微分在近似计算中的应用\n\n微分在近似计算中的应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了微分在近似计算中的应用的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-094"
+    ]
   },
   {
     "id": "hm-lesson-066",
@@ -1724,7 +2013,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 费马引理\n\n费马引理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了费马引理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-095"
+    ]
   },
   {
     "id": "hm-lesson-067",
@@ -1752,7 +2045,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 罗尔定理\n\n罗尔定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了罗尔定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-096",
+      "hm-kp-097"
+    ]
   },
   {
     "id": "hm-lesson-068",
@@ -1780,7 +2078,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 拉格朗日中值定理\n\n拉格朗日中值定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了拉格朗日中值定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-098",
+      "hm-kp-099"
+    ]
   },
   {
     "id": "hm-lesson-069",
@@ -1807,7 +2110,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 柯西中值定理\n\n柯西中值定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了柯西中值定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-100"
+    ]
   },
   {
     "id": "hm-lesson-070",
@@ -1834,7 +2141,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泰勒中值定理\n\n泰勒中值定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了泰勒中值定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-101"
+    ]
   },
   {
     "id": "hm-lesson-071",
@@ -1862,7 +2173,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数单调性的判别\n\n函数单调性的判别的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数单调性的判别的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-102",
+      "hm-kp-103"
+    ]
   },
   {
     "id": "hm-lesson-072",
@@ -1890,7 +2206,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数的极值\n\n函数的极值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数的极值的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-104",
+      "hm-kp-105"
+    ]
   },
   {
     "id": "hm-lesson-073",
@@ -1917,7 +2238,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数的最值\n\n函数的最值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数的最值的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-106"
+    ]
   },
   {
     "id": "hm-lesson-074",
@@ -1945,7 +2270,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 曲线的凹凸性\n\n曲线的凹凸性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了曲线的凹凸性的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-107",
+      "hm-kp-108"
+    ]
   },
   {
     "id": "hm-lesson-075",
@@ -1973,7 +2303,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 拐点\n\n拐点的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了拐点的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-109",
+      "hm-kp-110"
+    ]
   },
   {
     "id": "hm-lesson-076",
@@ -2001,7 +2336,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 渐近线\n\n渐近线的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了渐近线的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-111",
+      "hm-kp-112"
+    ]
   },
   {
     "id": "hm-lesson-077",
@@ -2028,7 +2368,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数作图\n\n函数作图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数作图的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-113"
+    ]
   },
   {
     "id": "hm-lesson-078",
@@ -2055,7 +2399,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 曲率\n\n曲率的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了曲率的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-114"
+    ]
   },
   {
     "id": "hm-lesson-079",
@@ -2083,7 +2431,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不定积分的概念\n\n不定积分的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了不定积分的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-115",
+      "hm-kp-116"
+    ]
   },
   {
     "id": "hm-lesson-080",
@@ -2111,7 +2464,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基本积分公式\n\n基本积分公式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了基本积分公式的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-117",
+      "hm-kp-118"
+    ]
   },
   {
     "id": "hm-lesson-081",
@@ -2138,7 +2496,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不定积分的线性性质\n\n不定积分的线性性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了不定积分的线性性质的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-119"
+    ]
   },
   {
     "id": "hm-lesson-082",
@@ -2166,7 +2528,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第一类换元积分法\n\n第一类换元积分法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了第一类换元积分法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-120",
+      "hm-kp-121"
+    ]
   },
   {
     "id": "hm-lesson-083",
@@ -2194,7 +2561,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第二类换元积分法\n\n第二类换元积分法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了第二类换元积分法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-122",
+      "hm-kp-123"
+    ]
   },
   {
     "id": "hm-lesson-084",
@@ -2222,7 +2594,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分部积分法\n\n分部积分法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了分部积分法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-124",
+      "hm-kp-125"
+    ]
   },
   {
     "id": "hm-lesson-085",
@@ -2250,7 +2627,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 有理函数的积分\n\n有理函数的积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了有理函数的积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-126",
+      "hm-kp-127"
+    ]
   },
   {
     "id": "hm-lesson-086",
@@ -2278,7 +2660,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三角函数的积分\n\n三角函数的积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了三角函数的积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-128",
+      "hm-kp-129"
+    ]
   },
   {
     "id": "hm-lesson-087",
@@ -2305,7 +2692,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 简单无理函数积分\n\n简单无理函数积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了简单无理函数积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-130"
+    ]
   },
   {
     "id": "hm-lesson-088",
@@ -2333,7 +2724,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分的定义\n\n定积分的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分的定义的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-131",
+      "hm-kp-132"
+    ]
   },
   {
     "id": "hm-lesson-089",
@@ -2360,7 +2756,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分的性质\n\n定积分的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分的性质的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-133"
+    ]
   },
   {
     "id": "hm-lesson-090",
@@ -2387,7 +2787,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微积分基本定理\n\n微积分基本定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了微积分基本定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-134"
+    ]
   },
   {
     "id": "hm-lesson-091",
@@ -2415,7 +2819,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 牛顿-莱布尼茨公式\n\n牛顿-莱布尼茨公式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了牛顿-莱布尼茨公式的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-135",
+      "hm-kp-136"
+    ]
   },
   {
     "id": "hm-lesson-092",
@@ -2443,7 +2852,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分换元法\n\n定积分换元法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分换元法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-137",
+      "hm-kp-138"
+    ]
   },
   {
     "id": "hm-lesson-093",
@@ -2470,7 +2884,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分分部积分法\n\n定积分分部积分法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分分部积分法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-139"
+    ]
   },
   {
     "id": "hm-lesson-094",
@@ -2498,7 +2916,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分求面积\n\n定积分求面积的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分求面积的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-140",
+      "hm-kp-141"
+    ]
   },
   {
     "id": "hm-lesson-095",
@@ -2526,7 +2949,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分求旋转体体积\n\n定积分求旋转体体积的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分求旋转体体积的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-142",
+      "hm-kp-143"
+    ]
   },
   {
     "id": "hm-lesson-096",
@@ -2553,7 +2981,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分求曲线长度\n\n定积分求曲线长度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分求曲线长度的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-144"
+    ]
   },
   {
     "id": "hm-lesson-097",
@@ -2581,7 +3013,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 反常积分\n\n反常积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了反常积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-145",
+      "hm-kp-146"
+    ]
   },
   {
     "id": "hm-lesson-098",
@@ -2608,7 +3045,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 反常积分审敛法\n\n反常积分审敛法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了反常积分审敛法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-147"
+    ]
   },
   {
     "id": "hm-lesson-099",
@@ -2635,7 +3076,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 伽马函数与贝塔函数\n\n伽马函数与贝塔函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了伽马函数与贝塔函数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-148"
+    ]
   },
   {
     "id": "hm-lesson-100",
@@ -2663,7 +3108,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微分方程的基本概念\n\n微分方程的基本概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了微分方程的基本概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-149",
+      "hm-kp-150"
+    ]
   },
   {
     "id": "hm-lesson-101",
@@ -2691,7 +3141,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可分离变量方程\n\n可分离变量方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了可分离变量方程的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-151",
+      "hm-kp-152"
+    ]
   },
   {
     "id": "hm-lesson-102",
@@ -2718,7 +3173,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 齐次微分方程\n\n齐次微分方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了齐次微分方程的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-153"
+    ]
   },
   {
     "id": "hm-lesson-103",
@@ -2746,7 +3205,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 一阶线性微分方程\n\n一阶线性微分方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了一阶线性微分方程的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-154",
+      "hm-kp-155"
+    ]
   },
   {
     "id": "hm-lesson-104",
@@ -2773,7 +3237,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 伯努利方程\n\n伯努利方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了伯努利方程的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-156"
+    ]
   },
   {
     "id": "hm-lesson-105",
@@ -2801,7 +3269,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可降阶的高阶方程\n\n可降阶的高阶方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了可降阶的高阶方程的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-157",
+      "hm-kp-158"
+    ]
   },
   {
     "id": "hm-lesson-106",
@@ -2829,7 +3302,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常系数齐次线性方程\n\n常系数齐次线性方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了常系数齐次线性方程的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-159",
+      "hm-kp-160"
+    ]
   },
   {
     "id": "hm-lesson-107",
@@ -2857,7 +3335,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常系数非齐次线性方程\n\n常系数非齐次线性方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了常系数非齐次线性方程的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-161",
+      "hm-kp-162"
+    ]
   },
   {
     "id": "hm-lesson-108",
@@ -2885,7 +3368,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元函数的概念\n\n多元函数的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多元函数的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-163",
+      "hm-kp-164"
+    ]
   },
   {
     "id": "hm-lesson-109",
@@ -2913,7 +3401,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元函数的极限\n\n多元函数的极限的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多元函数的极限的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-165",
+      "hm-kp-166"
+    ]
   },
   {
     "id": "hm-lesson-110",
@@ -2940,7 +3433,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元函数的连续性\n\n多元函数的连续性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多元函数的连续性的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-167"
+    ]
   },
   {
     "id": "hm-lesson-111",
@@ -2968,7 +3465,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 偏导数的定义\n\n偏导数的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了偏导数的定义的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-168",
+      "hm-kp-169"
+    ]
   },
   {
     "id": "hm-lesson-112",
@@ -2995,7 +3497,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高阶偏导数\n\n高阶偏导数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了高阶偏导数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-170"
+    ]
   },
   {
     "id": "hm-lesson-113",
@@ -3023,7 +3529,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 全微分\n\n全微分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了全微分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-171",
+      "hm-kp-172"
+    ]
   },
   {
     "id": "hm-lesson-114",
@@ -3051,7 +3562,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元复合函数求导\n\n多元复合函数求导的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多元复合函数求导的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-173",
+      "hm-kp-174"
+    ]
   },
   {
     "id": "hm-lesson-115",
@@ -3079,7 +3595,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 隐函数求导\n\n隐函数求导的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了隐函数求导的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-175",
+      "hm-kp-176"
+    ]
   },
   {
     "id": "hm-lesson-116",
@@ -3107,7 +3628,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方向导数与梯度\n\n方向导数与梯度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了方向导数与梯度的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-177",
+      "hm-kp-178"
+    ]
   },
   {
     "id": "hm-lesson-117",
@@ -3135,7 +3661,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元函数的极值\n\n多元函数的极值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多元函数的极值的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-179",
+      "hm-kp-180"
+    ]
   },
   {
     "id": "hm-lesson-118",
@@ -3163,7 +3694,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件极值与拉格朗日乘数法\n\n条件极值与拉格朗日乘数法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了条件极值与拉格朗日乘数法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-181",
+      "hm-kp-182"
+    ]
   },
   {
     "id": "hm-lesson-119",
@@ -3191,7 +3727,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二重积分的概念\n\n二重积分的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二重积分的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-183",
+      "hm-kp-184"
+    ]
   },
   {
     "id": "hm-lesson-120",
@@ -3218,7 +3759,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二重积分的性质\n\n二重积分的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二重积分的性质的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-185"
+    ]
   },
   {
     "id": "hm-lesson-121",
@@ -3246,7 +3791,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 直角坐标下二重积分\n\n直角坐标下二重积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了直角坐标下二重积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-186",
+      "hm-kp-187"
+    ]
   },
   {
     "id": "hm-lesson-122",
@@ -3274,7 +3824,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 极坐标下二重积分\n\n极坐标下二重积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了极坐标下二重积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-188",
+      "hm-kp-189"
+    ]
   },
   {
     "id": "hm-lesson-123",
@@ -3301,7 +3856,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 交换积分次序\n\n交换积分次序的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了交换积分次序的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-190"
+    ]
   },
   {
     "id": "hm-lesson-124",
@@ -3328,7 +3887,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三重积分的概念\n\n三重积分的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了三重积分的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-191"
+    ]
   },
   {
     "id": "hm-lesson-125",
@@ -3355,7 +3918,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 直角坐标下三重积分\n\n直角坐标下三重积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了直角坐标下三重积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-192"
+    ]
   },
   {
     "id": "hm-lesson-126",
@@ -3382,7 +3949,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 柱坐标下三重积分\n\n柱坐标下三重积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了柱坐标下三重积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-193"
+    ]
   },
   {
     "id": "hm-lesson-127",
@@ -3409,7 +3980,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 球坐标下三重积分\n\n球坐标下三重积分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了球坐标下三重积分的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-194"
+    ]
   },
   {
     "id": "hm-lesson-128",
@@ -3436,7 +4011,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 重积分的应用\n\n重积分的应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了重积分的应用的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-195"
+    ]
   },
   {
     "id": "hm-lesson-129",
@@ -3464,7 +4043,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常数项级数的概念\n\n常数项级数的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了常数项级数的概念的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-196",
+      "hm-kp-197"
+    ]
   },
   {
     "id": "hm-lesson-130",
@@ -3491,7 +4075,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 级数的基本性质\n\n级数的基本性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了级数的基本性质的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-198"
+    ]
   },
   {
     "id": "hm-lesson-131",
@@ -3519,7 +4107,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正项级数比较判别法\n\n正项级数比较判别法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正项级数比较判别法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-199",
+      "hm-kp-200"
+    ]
   },
   {
     "id": "hm-lesson-132",
@@ -3547,7 +4140,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 比值判别法根值判别法\n\n比值判别法根值判别法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了比值判别法根值判别法的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-201",
+      "hm-kp-202"
+    ]
   },
   {
     "id": "hm-lesson-133",
@@ -3575,7 +4173,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 交错级数与莱布尼茨定理\n\n交错级数与莱布尼茨定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了交错级数与莱布尼茨定理的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-203",
+      "hm-kp-204"
+    ]
   },
   {
     "id": "hm-lesson-134",
@@ -3602,7 +4205,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 绝对收敛与条件收敛\n\n绝对收敛与条件收敛的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了绝对收敛与条件收敛的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-205"
+    ]
   },
   {
     "id": "hm-lesson-135",
@@ -3630,7 +4237,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 幂级数\n\n幂级数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了幂级数的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-206",
+      "hm-kp-207"
+    ]
   },
   {
     "id": "hm-lesson-136",
@@ -3658,7 +4270,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 收敛半径与收敛区间\n\n收敛半径与收敛区间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了收敛半径与收敛区间的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-208",
+      "hm-kp-209"
+    ]
   },
   {
     "id": "hm-lesson-137",
@@ -3685,7 +4302,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 幂级数运算\n\n幂级数运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了幂级数运算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-210"
+    ]
   },
   {
     "id": "hm-lesson-138",
@@ -3713,7 +4334,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泰勒公式\n\n泰勒公式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了泰勒公式的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-211",
+      "hm-kp-212"
+    ]
   },
   {
     "id": "hm-lesson-139",
@@ -3741,7 +4367,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数幂级数展开\n\n函数幂级数展开的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数幂级数展开的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-213",
+      "hm-kp-214"
+    ]
   },
   {
     "id": "hm-lesson-140",
@@ -3769,7 +4400,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 极限综合计算\n\n极限综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了极限综合计算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-215",
+      "hm-kp-216"
+    ]
   },
   {
     "id": "hm-lesson-141",
@@ -3796,7 +4432,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 导数综合计算\n\n导数综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了导数综合计算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-217"
+    ]
   },
   {
     "id": "hm-lesson-142",
@@ -3824,7 +4464,12 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不定积分综合计算\n\n不定积分综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了不定积分综合计算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-218",
+      "hm-kp-219"
+    ]
   },
   {
     "id": "hm-lesson-143",
@@ -3851,7 +4496,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分综合计算\n\n定积分综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分综合计算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-220"
+    ]
   },
   {
     "id": "hm-lesson-144",
@@ -3878,7 +4527,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微分方程综合求解\n\n微分方程综合求解的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了微分方程综合求解的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-221"
+    ]
   },
   {
     "id": "hm-lesson-145",
@@ -3905,7 +4558,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元函数综合计算\n\n多元函数综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多元函数综合计算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-222"
+    ]
   },
   {
     "id": "hm-lesson-146",
@@ -3932,7 +4589,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二重积分综合计算\n\n二重积分综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二重积分综合计算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-223"
+    ]
   },
   {
     "id": "hm-lesson-147",
@@ -3959,7 +4620,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 级数综合计算\n\n级数综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了级数综合计算的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-224"
+    ]
   },
   {
     "id": "hm-lesson-148",
@@ -3986,7 +4651,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中值定理证明题\n\n中值定理证明题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了中值定理证明题的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-225"
+    ]
   },
   {
     "id": "hm-lesson-149",
@@ -4013,7 +4682,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 积分不等式证明\n\n积分不等式证明的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了积分不等式证明的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-226"
+    ]
   },
   {
     "id": "hm-lesson-150",
@@ -4040,7 +4713,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合应用题\n\n综合应用题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了综合应用题的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-227"
+    ]
   },
   {
     "id": "hm-lesson-151",
@@ -4067,7 +4744,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 易错题辨析\n\n易错题辨析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了易错题辨析的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-228"
+    ]
   },
   {
     "id": "hm-lesson-152",
@@ -4094,7 +4775,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数与极限复习\n\n函数与极限复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了函数与极限复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-229"
+    ]
   },
   {
     "id": "hm-lesson-153",
@@ -4121,7 +4806,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 导数与微分复习\n\n导数与微分复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了导数与微分复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-230"
+    ]
   },
   {
     "id": "hm-lesson-154",
@@ -4148,7 +4837,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中值定理与应用复习\n\n中值定理与应用复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了中值定理与应用复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-231"
+    ]
   },
   {
     "id": "hm-lesson-155",
@@ -4175,7 +4868,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不定积分复习\n\n不定积分复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了不定积分复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-232"
+    ]
   },
   {
     "id": "hm-lesson-156",
@@ -4202,7 +4899,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分复习\n\n定积分复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了定积分复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-233"
+    ]
   },
   {
     "id": "hm-lesson-157",
@@ -4229,7 +4930,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微分方程复习\n\n微分方程复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了微分方程复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-234"
+    ]
   },
   {
     "id": "hm-lesson-158",
@@ -4256,7 +4961,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元函数复习\n\n多元函数复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多元函数复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-235"
+    ]
   },
   {
     "id": "hm-lesson-159",
@@ -4283,7 +4992,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 重积分复习\n\n重积分复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了重积分复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-236"
+    ]
   },
   {
     "id": "hm-lesson-160",
@@ -4310,7 +5023,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 级数复习\n\n级数复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了级数复习的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-237"
+    ]
   },
   {
     "id": "hm-lesson-161",
@@ -4337,7 +5054,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合模拟考试\n\n综合模拟考试的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了综合模拟考试的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-238"
+    ]
   },
   {
     "id": "hm-lesson-162",
@@ -4364,7 +5085,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考研数学基础重点\n\n考研数学基础重点的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了考研数学基础重点的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-239"
+    ]
   },
   {
     "id": "hm-lesson-163",
@@ -4391,7 +5116,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺策略\n\n考前冲刺策略的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了考前冲刺策略的核心知识。",
+    "knowledgePoints": [
+      "hm-kp-240"
+    ]
   },
   {
     "id": "hm-lesson-164",
@@ -4412,7 +5141,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高等数学与后续课程的衔接\\n\\n高等数学与后续课程的衔接的讲义内容。\\n\\n高等数学与后续课程的衔接",
+    "knowledgePoints": [
+      "hm-kp-3164"
+    ]
   },
   {
     "id": "hm-lesson-165",
@@ -4433,7 +5166,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微积分思想的核心价值\\n\\n微积分思想的核心价值的讲义内容。\\n\\n微积分思想的核心价值",
+    "knowledgePoints": [
+      "hm-kp-3165"
+    ]
   },
   {
     "id": "hm-lesson-166",
@@ -4454,7 +5191,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数的运算与变换\\n\\n函数的运算与变换的讲义内容。\\n\\n函数的运算与变换",
+    "knowledgePoints": [
+      "hm-kp-3166"
+    ]
   },
   {
     "id": "hm-lesson-167",
@@ -4475,7 +5216,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等函数的图像性质\\n\\n初等函数的图像性质的讲义内容。\\n\\n初等函数的图像性质",
+    "knowledgePoints": [
+      "hm-kp-3167"
+    ]
   },
   {
     "id": "hm-lesson-168",
@@ -4496,7 +5241,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 极限存在性的判定方法\\n\\n极限存在性的判定方法的讲义内容。\\n\\n极限存在性的判定方法",
+    "knowledgePoints": [
+      "hm-kp-3168"
+    ]
   },
   {
     "id": "hm-lesson-169",
@@ -4517,7 +5266,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 无穷小阶的比较与应用\\n\\n无穷小阶的比较与应用的讲义内容。\\n\\n无穷小阶的比较与应用",
+    "knowledgePoints": [
+      "hm-kp-3169"
+    ]
   },
   {
     "id": "hm-lesson-170",
@@ -4538,7 +5291,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数连续性的判定技巧\\n\\n函数连续性的判定技巧的讲义内容。\\n\\n函数连续性的判定技巧",
+    "knowledgePoints": [
+      "hm-kp-3170"
+    ]
   },
   {
     "id": "hm-lesson-171",
@@ -4559,7 +5316,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 闭区间性质的应用\\n\\n闭区间性质的应用的讲义内容。\\n\\n闭区间性质的应用",
+    "knowledgePoints": [
+      "hm-kp-3171"
+    ]
   },
   {
     "id": "hm-lesson-172",
@@ -4580,7 +5341,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常用求导技巧总结\\n\\n常用求导技巧总结的讲义内容。\\n\\n常用求导技巧总结",
+    "knowledgePoints": [
+      "hm-kp-3172"
+    ]
   },
   {
     "id": "hm-lesson-173",
@@ -4601,7 +5366,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 对数求导法\\n\\n对数求导法的讲义内容。\\n\\n对数求导法",
+    "knowledgePoints": [
+      "hm-kp-3173"
+    ]
   },
   {
     "id": "hm-lesson-174",
@@ -4622,7 +5391,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中值定理的几何解释\\n\\n中值定理的几何解释的讲义内容。\\n\\n中值定理的几何解释",
+    "knowledgePoints": [
+      "hm-kp-3174"
+    ]
   },
   {
     "id": "hm-lesson-175",
@@ -4643,7 +5416,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 导数在经济学中的应用\\n\\n导数在经济学中的应用的讲义内容。\\n\\n导数在经济学中的应用",
+    "knowledgePoints": [
+      "hm-kp-3175"
+    ]
   },
   {
     "id": "hm-lesson-176",
@@ -4664,7 +5441,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分部积分的递推应用\\n\\n分部积分的递推应用的讲义内容。\\n\\n分部积分的递推应用",
+    "knowledgePoints": [
+      "hm-kp-3176"
+    ]
   },
   {
     "id": "hm-lesson-177",
@@ -4685,7 +5466,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 有理函数积分的典型题\\n\\n有理函数积分的典型题的讲义内容。\\n\\n有理函数积分的典型题",
+    "knowledgePoints": [
+      "hm-kp-3177"
+    ]
   },
   {
     "id": "hm-lesson-178",
@@ -4706,7 +5491,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分的数值计算\\n\\n定积分的数值计算的讲义内容。\\n\\n定积分的数值计算",
+    "knowledgePoints": [
+      "hm-kp-3178"
+    ]
   },
   {
     "id": "hm-lesson-179",
@@ -4727,7 +5516,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 定积分的经济应用\\n\\n定积分的经济应用的讲义内容。\\n\\n定积分的经济应用",
+    "knowledgePoints": [
+      "hm-kp-3179"
+    ]
   },
   {
     "id": "hm-lesson-180",
@@ -4748,7 +5541,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微分方程的实际建模\\n\\n微分方程的实际建模的讲义内容。\\n\\n微分方程的实际建模",
+    "knowledgePoints": [
+      "hm-kp-3180"
+    ]
   },
   {
     "id": "hm-lesson-181",
@@ -4769,7 +5566,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 欧拉方程解法\\n\\n欧拉方程解法的讲义内容。\\n\\n欧拉方程解法",
+    "knowledgePoints": [
+      "hm-kp-3181"
+    ]
   },
   {
     "id": "hm-lesson-182",
@@ -4790,7 +5591,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方向导数与极值的关系\\n\\n方向导数与极值的关系的讲义内容。\\n\\n方向导数与极值的关系",
+    "knowledgePoints": [
+      "hm-kp-3182"
+    ]
   },
   {
     "id": "hm-lesson-183",
@@ -4811,7 +5616,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元函数的泰勒展开\\n\\n多元函数的泰勒展开的讲义内容。\\n\\n多元函数的泰勒展开",
+    "knowledgePoints": [
+      "hm-kp-3183"
+    ]
   },
   {
     "id": "hm-lesson-184",
@@ -4832,7 +5641,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二重积分的对称性应用\\n\\n二重积分的对称性应用的讲义内容。\\n\\n二重积分的对称性应用",
+    "knowledgePoints": [
+      "hm-kp-3184"
+    ]
   },
   {
     "id": "hm-lesson-185",
@@ -4853,7 +5666,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三重积分的计算技巧\\n\\n三重积分的计算技巧的讲义内容。\\n\\n三重积分的计算技巧",
+    "knowledgePoints": [
+      "hm-kp-3185"
+    ]
   },
   {
     "id": "hm-lesson-186",
@@ -4874,7 +5691,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数项级数的一致收敛\\n\\n函数项级数的一致收敛的讲义内容。\\n\\n函数项级数的一致收敛",
+    "knowledgePoints": [
+      "hm-kp-3186"
+    ]
   },
   {
     "id": "hm-lesson-187",
@@ -4895,7 +5716,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合题解题策略\\n\\n综合题解题策略的讲义内容。\\n\\n综合题解题策略",
+    "knowledgePoints": [
+      "hm-kp-3187"
+    ]
   },
   {
     "id": "hm-lesson-188",
@@ -4916,7 +5741,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考研经典题型分析\\n\\n考研经典题型分析的讲义内容。\\n\\n考研经典题型分析",
+    "knowledgePoints": [
+      "hm-kp-3188"
+    ]
   },
   {
     "id": "hm-lesson-189",
@@ -4937,7 +5766,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高数高频错题总结\\n\\n高数高频错题总结的讲义内容。\\n\\n高数高频错题总结",
+    "knowledgePoints": [
+      "hm-kp-3189"
+    ]
   },
   {
     "id": "hm-lesson-190",
@@ -4958,7 +5791,11 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前模拟测试一\\n\\n考前模拟测试一的讲义内容。\\n\\n考前模拟测试一",
+    "knowledgePoints": [
+      "hm-kp-3190"
+    ]
   },
   {
     "id": "hm-lesson-191",
@@ -4979,6 +5816,10 @@
       "高等数学"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前模拟测试二\\n\\n考前模拟测试二的讲义内容。\\n\\n考前模拟测试二",
+    "knowledgePoints": [
+      "hm-kp-3191"
+    ]
   }
 ]

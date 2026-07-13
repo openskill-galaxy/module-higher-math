@@ -35,7 +35,24 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-001",
+      "hm-lesson-002",
+      "hm-lesson-003",
+      "hm-lesson-004",
+      "hm-lesson-005",
+      "hm-lesson-006",
+      "hm-lesson-007",
+      "hm-lesson-008",
+      "hm-lesson-009",
+      "hm-lesson-010",
+      "hm-lesson-011",
+      "hm-lesson-012",
+      "hm-lesson-013",
+      "hm-lesson-014"
+    ],
+    "summary": "了解高等数学的学科体系、学习方法与基本数学工具。"
   },
   {
     "id": "hm-course-02",
@@ -73,7 +90,24 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-015",
+      "hm-lesson-016",
+      "hm-lesson-017",
+      "hm-lesson-018",
+      "hm-lesson-019",
+      "hm-lesson-020",
+      "hm-lesson-021",
+      "hm-lesson-022",
+      "hm-lesson-023",
+      "hm-lesson-024",
+      "hm-lesson-025",
+      "hm-lesson-026",
+      "hm-lesson-027",
+      "hm-lesson-028"
+    ],
+    "summary": "函数定义、初等函数、复合函数、反函数、基本初等函数回顾。"
   },
   {
     "id": "hm-course-03",
@@ -114,7 +148,27 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-029",
+      "hm-lesson-030",
+      "hm-lesson-031",
+      "hm-lesson-032",
+      "hm-lesson-033",
+      "hm-lesson-034",
+      "hm-lesson-035",
+      "hm-lesson-036",
+      "hm-lesson-037",
+      "hm-lesson-038",
+      "hm-lesson-039",
+      "hm-lesson-040",
+      "hm-lesson-041",
+      "hm-lesson-042",
+      "hm-lesson-043",
+      "hm-lesson-044",
+      "hm-lesson-045"
+    ],
+    "summary": "数列极限、函数极限、左极限右极限、无穷小无穷大、等价无穷小、洛必达法则、重要极限。"
   },
   {
     "id": "hm-course-04",
@@ -148,7 +202,20 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-046",
+      "hm-lesson-047",
+      "hm-lesson-048",
+      "hm-lesson-049",
+      "hm-lesson-050",
+      "hm-lesson-051",
+      "hm-lesson-052",
+      "hm-lesson-053",
+      "hm-lesson-054",
+      "hm-lesson-055"
+    ],
+    "summary": "函数连续性定义、间断点分类、闭区间连续函数性质、零点定理、介值定理。"
   },
   {
     "id": "hm-course-05",
@@ -182,7 +249,20 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-056",
+      "hm-lesson-057",
+      "hm-lesson-058",
+      "hm-lesson-059",
+      "hm-lesson-060",
+      "hm-lesson-061",
+      "hm-lesson-062",
+      "hm-lesson-063",
+      "hm-lesson-064",
+      "hm-lesson-065"
+    ],
+    "summary": "导数定义、求导公式、复合函数求导、隐函数求导、参数方程求导、高阶导数、微分。"
   },
   {
     "id": "hm-course-06",
@@ -219,7 +299,23 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-066",
+      "hm-lesson-067",
+      "hm-lesson-068",
+      "hm-lesson-069",
+      "hm-lesson-070",
+      "hm-lesson-071",
+      "hm-lesson-072",
+      "hm-lesson-073",
+      "hm-lesson-074",
+      "hm-lesson-075",
+      "hm-lesson-076",
+      "hm-lesson-077",
+      "hm-lesson-078"
+    ],
+    "summary": "罗尔定理、拉格朗日中值定理、柯西中值定理、单调性、极值、最值、凹凸性、拐点、渐近线。"
   },
   {
     "id": "hm-course-07",
@@ -252,7 +348,19 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-079",
+      "hm-lesson-080",
+      "hm-lesson-081",
+      "hm-lesson-082",
+      "hm-lesson-083",
+      "hm-lesson-084",
+      "hm-lesson-085",
+      "hm-lesson-086",
+      "hm-lesson-087"
+    ],
+    "summary": "不定积分的概念与性质、换元积分法、分部积分法、有理函数积分、三角函数积分。"
   },
   {
     "id": "hm-course-08",
@@ -288,7 +396,22 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-088",
+      "hm-lesson-089",
+      "hm-lesson-090",
+      "hm-lesson-091",
+      "hm-lesson-092",
+      "hm-lesson-093",
+      "hm-lesson-094",
+      "hm-lesson-095",
+      "hm-lesson-096",
+      "hm-lesson-097",
+      "hm-lesson-098",
+      "hm-lesson-099"
+    ],
+    "summary": "定积分的定义、牛顿-莱布尼茨公式、定积分换元与分部积分、面积、旋转体体积、反常积分。"
   },
   {
     "id": "hm-course-09",
@@ -320,7 +443,18 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-100",
+      "hm-lesson-101",
+      "hm-lesson-102",
+      "hm-lesson-103",
+      "hm-lesson-104",
+      "hm-lesson-105",
+      "hm-lesson-106",
+      "hm-lesson-107"
+    ],
+    "summary": "微分方程基本概念、可分离变量方程、一阶线性微分方程、齐次方程、常系数线性微分方程。"
   },
   {
     "id": "hm-course-10",
@@ -355,7 +489,21 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-108",
+      "hm-lesson-109",
+      "hm-lesson-110",
+      "hm-lesson-111",
+      "hm-lesson-112",
+      "hm-lesson-113",
+      "hm-lesson-114",
+      "hm-lesson-115",
+      "hm-lesson-116",
+      "hm-lesson-117",
+      "hm-lesson-118"
+    ],
+    "summary": "多元函数极限与连续、偏导数、全微分、多元复合函数求导、隐函数求导、多元函数极值与条件极值。"
   },
   {
     "id": "hm-course-11",
@@ -389,7 +537,20 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-119",
+      "hm-lesson-120",
+      "hm-lesson-121",
+      "hm-lesson-122",
+      "hm-lesson-123",
+      "hm-lesson-124",
+      "hm-lesson-125",
+      "hm-lesson-126",
+      "hm-lesson-127",
+      "hm-lesson-128"
+    ],
+    "summary": "二重积分的概念与计算、极坐标变换、交换积分次序、三重积分入门、柱坐标与球坐标。"
   },
   {
     "id": "hm-course-12",
@@ -424,7 +585,21 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-129",
+      "hm-lesson-130",
+      "hm-lesson-131",
+      "hm-lesson-132",
+      "hm-lesson-133",
+      "hm-lesson-134",
+      "hm-lesson-135",
+      "hm-lesson-136",
+      "hm-lesson-137",
+      "hm-lesson-138",
+      "hm-lesson-139"
+    ],
+    "summary": "常数项级数、正项级数判别法、交错级数、幂级数、泰勒公式、函数的幂级数展开。"
   },
   {
     "id": "hm-course-13",
@@ -460,7 +635,22 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-140",
+      "hm-lesson-141",
+      "hm-lesson-142",
+      "hm-lesson-143",
+      "hm-lesson-144",
+      "hm-lesson-145",
+      "hm-lesson-146",
+      "hm-lesson-147",
+      "hm-lesson-148",
+      "hm-lesson-149",
+      "hm-lesson-150",
+      "hm-lesson-151"
+    ],
+    "summary": "极限综合计算、导数综合计算、积分综合计算、微分方程综合求解、多元函数综合计算、级数综合计算。"
   },
   {
     "id": "hm-course-14",
@@ -496,6 +686,21 @@
       "理解理论证明",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "hm-lesson-152",
+      "hm-lesson-153",
+      "hm-lesson-154",
+      "hm-lesson-155",
+      "hm-lesson-156",
+      "hm-lesson-157",
+      "hm-lesson-158",
+      "hm-lesson-159",
+      "hm-lesson-160",
+      "hm-lesson-161",
+      "hm-lesson-162",
+      "hm-lesson-163"
+    ],
+    "summary": "系统复习规划、重点题型突破、知识点串联、典型题精讲、模拟考试与复盘。"
   }
 ]

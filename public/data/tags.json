@@ -5,7 +5,8 @@
     "category": "高等数学",
     "description": "高等数学标签：高等数学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高等数学"
   },
   {
     "id": "hm-tag-002",
@@ -13,7 +14,8 @@
     "category": "高等数学",
     "description": "高等数学标签：函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数"
   },
   {
     "id": "hm-tag-003",
@@ -21,7 +23,8 @@
     "category": "高等数学",
     "description": "高等数学标签：极限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极限"
   },
   {
     "id": "hm-tag-004",
@@ -29,7 +32,8 @@
     "category": "高等数学",
     "description": "高等数学标签：连续",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连续"
   },
   {
     "id": "hm-tag-005",
@@ -37,7 +41,8 @@
     "category": "高等数学",
     "description": "高等数学标签：导数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "导数"
   },
   {
     "id": "hm-tag-006",
@@ -45,7 +50,8 @@
     "category": "高等数学",
     "description": "高等数学标签：微分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "微分"
   },
   {
     "id": "hm-tag-007",
@@ -53,7 +59,8 @@
     "category": "高等数学",
     "description": "高等数学标签：中值定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "中值定理"
   },
   {
     "id": "hm-tag-008",
@@ -61,7 +68,8 @@
     "category": "高等数学",
     "description": "高等数学标签：不定积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不定积分"
   },
   {
     "id": "hm-tag-009",
@@ -69,7 +77,8 @@
     "category": "高等数学",
     "description": "高等数学标签：定积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "定积分"
   },
   {
     "id": "hm-tag-010",
@@ -77,7 +86,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多元函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多元函数"
   },
   {
     "id": "hm-tag-011",
@@ -85,7 +95,8 @@
     "category": "高等数学",
     "description": "高等数学标签：微分方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "微分方程"
   },
   {
     "id": "hm-tag-012",
@@ -93,7 +104,8 @@
     "category": "高等数学",
     "description": "高等数学标签：级数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "级数"
   },
   {
     "id": "hm-tag-013",
@@ -101,7 +113,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数列极限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数列极限"
   },
   {
     "id": "hm-tag-014",
@@ -109,7 +122,8 @@
     "category": "高等数学",
     "description": "高等数学标签：函数极限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数极限"
   },
   {
     "id": "hm-tag-015",
@@ -117,7 +131,8 @@
     "category": "高等数学",
     "description": "高等数学标签：左极限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "左极限"
   },
   {
     "id": "hm-tag-016",
@@ -125,7 +140,8 @@
     "category": "高等数学",
     "description": "高等数学标签：右极限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "右极限"
   },
   {
     "id": "hm-tag-017",
@@ -133,7 +149,8 @@
     "category": "高等数学",
     "description": "高等数学标签：无穷小",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "无穷小"
   },
   {
     "id": "hm-tag-018",
@@ -141,7 +158,8 @@
     "category": "高等数学",
     "description": "高等数学标签：无穷大",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "无穷大"
   },
   {
     "id": "hm-tag-019",
@@ -149,7 +167,8 @@
     "category": "高等数学",
     "description": "高等数学标签：等价无穷小",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "等价无穷小"
   },
   {
     "id": "hm-tag-020",
@@ -157,7 +176,8 @@
     "category": "高等数学",
     "description": "高等数学标签：洛必达法则",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "洛必达法则"
   },
   {
     "id": "hm-tag-021",
@@ -165,7 +185,8 @@
     "category": "高等数学",
     "description": "高等数学标签：重要极限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "重要极限"
   },
   {
     "id": "hm-tag-022",
@@ -173,7 +194,8 @@
     "category": "高等数学",
     "description": "高等数学标签：连续性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连续性"
   },
   {
     "id": "hm-tag-023",
@@ -181,7 +203,8 @@
     "category": "高等数学",
     "description": "高等数学标签：间断点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "间断点"
   },
   {
     "id": "hm-tag-024",
@@ -189,7 +212,8 @@
     "category": "高等数学",
     "description": "高等数学标签：间断点分类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "间断点分类"
   },
   {
     "id": "hm-tag-025",
@@ -197,7 +221,8 @@
     "category": "高等数学",
     "description": "高等数学标签：可去间断点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "可去间断点"
   },
   {
     "id": "hm-tag-026",
@@ -205,7 +230,8 @@
     "category": "高等数学",
     "description": "高等数学标签：跳跃间断点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "跳跃间断点"
   },
   {
     "id": "hm-tag-027",
@@ -213,7 +239,8 @@
     "category": "高等数学",
     "description": "高等数学标签：无穷间断点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "无穷间断点"
   },
   {
     "id": "hm-tag-028",
@@ -221,7 +248,8 @@
     "category": "高等数学",
     "description": "高等数学标签：振荡间断点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "振荡间断点"
   },
   {
     "id": "hm-tag-029",
@@ -229,7 +257,8 @@
     "category": "高等数学",
     "description": "高等数学标签：导数定义",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "导数定义"
   },
   {
     "id": "hm-tag-030",
@@ -237,7 +266,8 @@
     "category": "高等数学",
     "description": "高等数学标签：求导公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "求导公式"
   },
   {
     "id": "hm-tag-031",
@@ -245,7 +275,8 @@
     "category": "高等数学",
     "description": "高等数学标签：复合函数求导",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复合函数求导"
   },
   {
     "id": "hm-tag-032",
@@ -253,7 +284,8 @@
     "category": "高等数学",
     "description": "高等数学标签：隐函数求导",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "隐函数求导"
   },
   {
     "id": "hm-tag-033",
@@ -261,7 +293,8 @@
     "category": "高等数学",
     "description": "高等数学标签：参数方程求导",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "参数方程求导"
   },
   {
     "id": "hm-tag-034",
@@ -269,7 +302,8 @@
     "category": "高等数学",
     "description": "高等数学标签：高阶导数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高阶导数"
   },
   {
     "id": "hm-tag-035",
@@ -277,7 +311,8 @@
     "category": "高等数学",
     "description": "高等数学标签：罗尔定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "罗尔定理"
   },
   {
     "id": "hm-tag-036",
@@ -285,7 +320,8 @@
     "category": "高等数学",
     "description": "高等数学标签：拉格朗日中值定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉格朗日中值定理"
   },
   {
     "id": "hm-tag-037",
@@ -293,7 +329,8 @@
     "category": "高等数学",
     "description": "高等数学标签：柯西中值定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柯西中值定理"
   },
   {
     "id": "hm-tag-038",
@@ -301,7 +338,8 @@
     "category": "高等数学",
     "description": "高等数学标签：泰勒中值定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泰勒中值定理"
   },
   {
     "id": "hm-tag-039",
@@ -309,7 +347,8 @@
     "category": "高等数学",
     "description": "高等数学标签：单调性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单调性"
   },
   {
     "id": "hm-tag-040",
@@ -317,7 +356,8 @@
     "category": "高等数学",
     "description": "高等数学标签：极值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极值"
   },
   {
     "id": "hm-tag-041",
@@ -325,7 +365,8 @@
     "category": "高等数学",
     "description": "高等数学标签：最值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最值"
   },
   {
     "id": "hm-tag-042",
@@ -333,7 +374,8 @@
     "category": "高等数学",
     "description": "高等数学标签：凹凸性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "凹凸性"
   },
   {
     "id": "hm-tag-043",
@@ -341,7 +383,8 @@
     "category": "高等数学",
     "description": "高等数学标签：拐点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拐点"
   },
   {
     "id": "hm-tag-044",
@@ -349,7 +392,8 @@
     "category": "高等数学",
     "description": "高等数学标签：渐近线",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "渐近线"
   },
   {
     "id": "hm-tag-045",
@@ -357,7 +401,8 @@
     "category": "高等数学",
     "description": "高等数学标签：水平渐近线",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "水平渐近线"
   },
   {
     "id": "hm-tag-046",
@@ -365,7 +410,8 @@
     "category": "高等数学",
     "description": "高等数学标签：垂直渐近线",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "垂直渐近线"
   },
   {
     "id": "hm-tag-047",
@@ -373,7 +419,8 @@
     "category": "高等数学",
     "description": "高等数学标签：斜渐近线",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "斜渐近线"
   },
   {
     "id": "hm-tag-048",
@@ -381,7 +428,8 @@
     "category": "高等数学",
     "description": "高等数学标签：换元积分法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "换元积分法"
   },
   {
     "id": "hm-tag-049",
@@ -389,7 +437,8 @@
     "category": "高等数学",
     "description": "高等数学标签：分部积分法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分部积分法"
   },
   {
     "id": "hm-tag-050",
@@ -397,7 +446,8 @@
     "category": "高等数学",
     "description": "高等数学标签：有理函数积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "有理函数积分"
   },
   {
     "id": "hm-tag-051",
@@ -405,7 +455,8 @@
     "category": "高等数学",
     "description": "高等数学标签：牛顿莱布尼茨公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "牛顿莱布尼茨公式"
   },
   {
     "id": "hm-tag-052",
@@ -413,7 +464,8 @@
     "category": "高等数学",
     "description": "高等数学标签：定积分换元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "定积分换元"
   },
   {
     "id": "hm-tag-053",
@@ -421,7 +473,8 @@
     "category": "高等数学",
     "description": "高等数学标签：定积分分部积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "定积分分部积分"
   },
   {
     "id": "hm-tag-054",
@@ -429,7 +482,8 @@
     "category": "高等数学",
     "description": "高等数学标签：面积计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "面积计算"
   },
   {
     "id": "hm-tag-055",
@@ -437,7 +491,8 @@
     "category": "高等数学",
     "description": "高等数学标签：旋转体体积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "旋转体体积"
   },
   {
     "id": "hm-tag-056",
@@ -445,7 +500,8 @@
     "category": "高等数学",
     "description": "高等数学标签：反常积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反常积分"
   },
   {
     "id": "hm-tag-057",
@@ -453,7 +509,8 @@
     "category": "高等数学",
     "description": "高等数学标签：一阶微分方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一阶微分方程"
   },
   {
     "id": "hm-tag-058",
@@ -461,7 +518,8 @@
     "category": "高等数学",
     "description": "高等数学标签：可分离变量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "可分离变量"
   },
   {
     "id": "hm-tag-059",
@@ -469,7 +527,8 @@
     "category": "高等数学",
     "description": "高等数学标签：一阶线性微分方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一阶线性微分方程"
   },
   {
     "id": "hm-tag-060",
@@ -477,7 +536,8 @@
     "category": "高等数学",
     "description": "高等数学标签：伯努利方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伯努利方程"
   },
   {
     "id": "hm-tag-061",
@@ -485,7 +545,8 @@
     "category": "高等数学",
     "description": "高等数学标签：齐次方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "齐次方程"
   },
   {
     "id": "hm-tag-062",
@@ -493,7 +554,8 @@
     "category": "高等数学",
     "description": "高等数学标签：非齐次方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非齐次方程"
   },
   {
     "id": "hm-tag-063",
@@ -501,7 +563,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多元函数极限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多元函数极限"
   },
   {
     "id": "hm-tag-064",
@@ -509,7 +572,8 @@
     "category": "高等数学",
     "description": "高等数学标签：偏导数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "偏导数"
   },
   {
     "id": "hm-tag-065",
@@ -517,7 +581,8 @@
     "category": "高等数学",
     "description": "高等数学标签：全微分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全微分"
   },
   {
     "id": "hm-tag-066",
@@ -525,7 +590,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多元复合函数求导",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多元复合函数求导"
   },
   {
     "id": "hm-tag-067",
@@ -533,7 +599,8 @@
     "category": "高等数学",
     "description": "高等数学标签：隐函数组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "隐函数组"
   },
   {
     "id": "hm-tag-068",
@@ -541,7 +608,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多元函数极值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多元函数极值"
   },
   {
     "id": "hm-tag-069",
@@ -549,7 +617,8 @@
     "category": "高等数学",
     "description": "高等数学标签：条件极值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "条件极值"
   },
   {
     "id": "hm-tag-070",
@@ -557,7 +626,8 @@
     "category": "高等数学",
     "description": "高等数学标签：拉格朗日乘数法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉格朗日乘数法"
   },
   {
     "id": "hm-tag-071",
@@ -565,7 +635,8 @@
     "category": "高等数学",
     "description": "高等数学标签：二重积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二重积分"
   },
   {
     "id": "hm-tag-072",
@@ -573,7 +644,8 @@
     "category": "高等数学",
     "description": "高等数学标签：极坐标变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极坐标变换"
   },
   {
     "id": "hm-tag-073",
@@ -581,7 +653,8 @@
     "category": "高等数学",
     "description": "高等数学标签：三重积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "三重积分"
   },
   {
     "id": "hm-tag-074",
@@ -589,7 +662,8 @@
     "category": "高等数学",
     "description": "高等数学标签：柱坐标",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柱坐标"
   },
   {
     "id": "hm-tag-075",
@@ -597,7 +671,8 @@
     "category": "高等数学",
     "description": "高等数学标签：球坐标",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "球坐标"
   },
   {
     "id": "hm-tag-076",
@@ -605,7 +680,8 @@
     "category": "高等数学",
     "description": "高等数学标签：常数项级数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "常数项级数"
   },
   {
     "id": "hm-tag-077",
@@ -613,7 +689,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正项级数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正项级数"
   },
   {
     "id": "hm-tag-078",
@@ -621,7 +698,8 @@
     "category": "高等数学",
     "description": "高等数学标签：交错级数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "交错级数"
   },
   {
     "id": "hm-tag-079",
@@ -629,7 +707,8 @@
     "category": "高等数学",
     "description": "高等数学标签：幂级数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "幂级数"
   },
   {
     "id": "hm-tag-080",
@@ -637,7 +716,8 @@
     "category": "高等数学",
     "description": "高等数学标签：收敛半径",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "收敛半径"
   },
   {
     "id": "hm-tag-081",
@@ -645,7 +725,8 @@
     "category": "高等数学",
     "description": "高等数学标签：收敛区间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "收敛区间"
   },
   {
     "id": "hm-tag-082",
@@ -653,7 +734,8 @@
     "category": "高等数学",
     "description": "高等数学标签：泰勒公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泰勒公式"
   },
   {
     "id": "hm-tag-083",
@@ -661,7 +743,8 @@
     "category": "高等数学",
     "description": "高等数学标签：麦克劳林公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "麦克劳林公式"
   },
   {
     "id": "hm-tag-084",
@@ -669,7 +752,8 @@
     "category": "高等数学",
     "description": "高等数学标签：定义域",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "定义域"
   },
   {
     "id": "hm-tag-085",
@@ -677,7 +761,8 @@
     "category": "高等数学",
     "description": "高等数学标签：值域",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "值域"
   },
   {
     "id": "hm-tag-086",
@@ -685,7 +770,8 @@
     "category": "高等数学",
     "description": "高等数学标签：复合函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复合函数"
   },
   {
     "id": "hm-tag-087",
@@ -693,7 +779,8 @@
     "category": "高等数学",
     "description": "高等数学标签：反函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反函数"
   },
   {
     "id": "hm-tag-088",
@@ -701,7 +788,8 @@
     "category": "高等数学",
     "description": "高等数学标签：初等函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "初等函数"
   },
   {
     "id": "hm-tag-089",
@@ -709,7 +797,8 @@
     "category": "高等数学",
     "description": "高等数学标签：幂函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "幂函数"
   },
   {
     "id": "hm-tag-090",
@@ -717,7 +806,8 @@
     "category": "高等数学",
     "description": "高等数学标签：指数函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "指数函数"
   },
   {
     "id": "hm-tag-091",
@@ -725,7 +815,8 @@
     "category": "高等数学",
     "description": "高等数学标签：对数函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对数函数"
   },
   {
     "id": "hm-tag-092",
@@ -733,7 +824,8 @@
     "category": "高等数学",
     "description": "高等数学标签：三角函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "三角函数"
   },
   {
     "id": "hm-tag-093",
@@ -741,7 +833,8 @@
     "category": "高等数学",
     "description": "高等数学标签：反三角函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反三角函数"
   },
   {
     "id": "hm-tag-094",
@@ -749,7 +842,8 @@
     "category": "高等数学",
     "description": "高等数学标签：收敛",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "收敛"
   },
   {
     "id": "hm-tag-095",
@@ -757,7 +851,8 @@
     "category": "高等数学",
     "description": "高等数学标签：发散",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "发散"
   },
   {
     "id": "hm-tag-096",
@@ -765,7 +860,8 @@
     "category": "高等数学",
     "description": "高等数学标签：单调有界",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单调有界"
   },
   {
     "id": "hm-tag-097",
@@ -773,7 +869,8 @@
     "category": "高等数学",
     "description": "高等数学标签：夹逼准则",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "夹逼准则"
   },
   {
     "id": "hm-tag-098",
@@ -781,7 +878,8 @@
     "category": "高等数学",
     "description": "高等数学标签：介值定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "介值定理"
   },
   {
     "id": "hm-tag-099",
@@ -789,7 +887,8 @@
     "category": "高等数学",
     "description": "高等数学标签：零点定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "零点定理"
   },
   {
     "id": "hm-tag-100",
@@ -797,7 +896,8 @@
     "category": "高等数学",
     "description": "高等数学标签：曲率",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "曲率"
   },
   {
     "id": "hm-tag-101",
@@ -805,7 +905,8 @@
     "category": "高等数学",
     "description": "高等数学标签：原函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "原函数"
   },
   {
     "id": "hm-tag-102",
@@ -813,7 +914,8 @@
     "category": "高等数学",
     "description": "高等数学标签：广义积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "广义积分"
   },
   {
     "id": "hm-tag-103",
@@ -821,7 +923,8 @@
     "category": "高等数学",
     "description": "高等数学标签：瑕积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "瑕积分"
   },
   {
     "id": "hm-tag-104",
@@ -829,7 +932,8 @@
     "category": "高等数学",
     "description": "高等数学标签：微分方程通解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "微分方程通解"
   },
   {
     "id": "hm-tag-105",
@@ -837,7 +941,8 @@
     "category": "高等数学",
     "description": "高等数学标签：特解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特解"
   },
   {
     "id": "hm-tag-106",
@@ -845,7 +950,8 @@
     "category": "高等数学",
     "description": "高等数学标签：常系数齐次",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "常系数齐次"
   },
   {
     "id": "hm-tag-107",
@@ -853,7 +959,8 @@
     "category": "高等数学",
     "description": "高等数学标签：常系数非齐次",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "常系数非齐次"
   },
   {
     "id": "hm-tag-108",
@@ -861,7 +968,8 @@
     "category": "高等数学",
     "description": "高等数学标签：方向导数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "方向导数"
   },
   {
     "id": "hm-tag-109",
@@ -869,7 +977,8 @@
     "category": "高等数学",
     "description": "高等数学标签：梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "梯度"
   },
   {
     "id": "hm-tag-110",
@@ -877,7 +986,8 @@
     "category": "高等数学",
     "description": "高等数学标签：拉普拉斯算子",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉普拉斯算子"
   },
   {
     "id": "hm-tag-111",
@@ -885,7 +995,8 @@
     "category": "高等数学",
     "description": "高等数学标签：格林公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "格林公式"
   },
   {
     "id": "hm-tag-112",
@@ -893,7 +1004,8 @@
     "category": "高等数学",
     "description": "高等数学标签：高斯公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高斯公式"
   },
   {
     "id": "hm-tag-113",
@@ -901,7 +1013,8 @@
     "category": "高等数学",
     "description": "高等数学标签：斯托克斯公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "斯托克斯公式"
   },
   {
     "id": "hm-tag-114",
@@ -909,7 +1022,8 @@
     "category": "高等数学",
     "description": "高等数学标签：比较判别法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "比较判别法"
   },
   {
     "id": "hm-tag-115",
@@ -917,7 +1031,8 @@
     "category": "高等数学",
     "description": "高等数学标签：比值判别法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "比值判别法"
   },
   {
     "id": "hm-tag-116",
@@ -925,7 +1040,8 @@
     "category": "高等数学",
     "description": "高等数学标签：根值判别法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "根值判别法"
   },
   {
     "id": "hm-tag-117",
@@ -933,7 +1049,8 @@
     "category": "高等数学",
     "description": "高等数学标签：条件收敛",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "条件收敛"
   },
   {
     "id": "hm-tag-118",
@@ -941,7 +1058,8 @@
     "category": "高等数学",
     "description": "高等数学标签：绝对收敛",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "绝对收敛"
   },
   {
     "id": "hm-tag-119",
@@ -949,7 +1067,8 @@
     "category": "高等数学",
     "description": "高等数学标签：和函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "和函数"
   },
   {
     "id": "hm-tag-120",
@@ -957,7 +1076,8 @@
     "category": "高等数学",
     "description": "高等数学标签：幂级数展开",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "幂级数展开"
   },
   {
     "id": "hm-tag-121",
@@ -965,7 +1085,8 @@
     "category": "高等数学",
     "description": "高等数学标签：傅里叶级数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "傅里叶级数"
   },
   {
     "id": "hm-tag-122",
@@ -973,7 +1094,8 @@
     "category": "高等数学",
     "description": "高等数学标签：综合计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "综合计算"
   },
   {
     "id": "hm-tag-123",
@@ -981,7 +1103,8 @@
     "category": "高等数学",
     "description": "高等数学标签：证明题",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "证明题"
   },
   {
     "id": "hm-tag-124",
@@ -989,7 +1112,8 @@
     "category": "高等数学",
     "description": "高等数学标签：易错题",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "易错题"
   },
   {
     "id": "hm-tag-125",
@@ -997,7 +1121,8 @@
     "category": "高等数学",
     "description": "高等数学标签：期末复习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "期末复习"
   },
   {
     "id": "hm-tag-126",
@@ -1005,7 +1130,8 @@
     "category": "高等数学",
     "description": "高等数学标签：考研数学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "考研数学"
   },
   {
     "id": "hm-tag-127",
@@ -1013,7 +1139,8 @@
     "category": "高等数学",
     "description": "高等数学标签：专升本",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "专升本"
   },
   {
     "id": "hm-tag-128",
@@ -1021,7 +1148,8 @@
     "category": "高等数学",
     "description": "高等数学标签：工科数学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "工科数学"
   },
   {
     "id": "hm-tag-129",
@@ -1029,7 +1157,8 @@
     "category": "高等数学",
     "description": "高等数学标签：微积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "微积分"
   },
   {
     "id": "hm-tag-130",
@@ -1037,7 +1166,8 @@
     "category": "高等数学",
     "description": "高等数学标签：极限计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极限计算"
   },
   {
     "id": "hm-tag-131",
@@ -1045,7 +1175,8 @@
     "category": "高等数学",
     "description": "高等数学标签：导数计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "导数计算"
   },
   {
     "id": "hm-tag-132",
@@ -1053,7 +1184,8 @@
     "category": "高等数学",
     "description": "高等数学标签：积分计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "积分计算"
   },
   {
     "id": "hm-tag-133",
@@ -1061,7 +1193,8 @@
     "category": "高等数学",
     "description": "高等数学标签：微分方程求解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "微分方程求解"
   },
   {
     "id": "hm-tag-134",
@@ -1069,7 +1202,8 @@
     "category": "高等数学",
     "description": "高等数学标签：偏导计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "偏导计算"
   },
   {
     "id": "hm-tag-135",
@@ -1077,7 +1211,8 @@
     "category": "高等数学",
     "description": "高等数学标签：级数判别",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "级数判别"
   },
   {
     "id": "hm-tag-136",
@@ -1085,7 +1220,8 @@
     "category": "高等数学",
     "description": "高等数学标签：单调区间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单调区间"
   },
   {
     "id": "hm-tag-137",
@@ -1093,7 +1229,8 @@
     "category": "高等数学",
     "description": "高等数学标签：凹凸区间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "凹凸区间"
   },
   {
     "id": "hm-tag-138",
@@ -1101,7 +1238,8 @@
     "category": "高等数学",
     "description": "高等数学标签：函数作图",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数作图"
   },
   {
     "id": "hm-tag-139",
@@ -1109,7 +1247,8 @@
     "category": "高等数学",
     "description": "高等数学标签：计算技巧",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "计算技巧"
   },
   {
     "id": "hm-tag-140",
@@ -1117,7 +1256,8 @@
     "category": "高等数学",
     "description": "高等数学标签：解题方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "解题方法"
   },
   {
     "id": "hm-tag-141",
@@ -1125,7 +1265,8 @@
     "category": "高等数学",
     "description": "高等数学标签：中值定理证明",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "中值定理证明"
   },
   {
     "id": "hm-tag-142",
@@ -1133,7 +1274,8 @@
     "category": "高等数学",
     "description": "高等数学标签：不等式证明",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不等式证明"
   },
   {
     "id": "hm-tag-143",
@@ -1141,7 +1283,8 @@
     "category": "高等数学",
     "description": "高等数学标签：积分不等式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "积分不等式"
   },
   {
     "id": "hm-tag-144",
@@ -1149,7 +1292,8 @@
     "category": "高等数学",
     "description": "高等数学标签：综合应用",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "综合应用"
   },
   {
     "id": "hm-tag-145",
@@ -1157,7 +1301,8 @@
     "category": "高等数学",
     "description": "高等数学标签：定义域求解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "定义域求解"
   },
   {
     "id": "hm-tag-146",
@@ -1165,7 +1310,8 @@
     "category": "高等数学",
     "description": "高等数学标签：极限综合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极限综合"
   },
   {
     "id": "hm-tag-147",
@@ -1173,7 +1319,8 @@
     "category": "高等数学",
     "description": "高等数学标签：导数综合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "导数综合"
   },
   {
     "id": "hm-tag-148",
@@ -1181,7 +1328,8 @@
     "category": "高等数学",
     "description": "高等数学标签：积分综合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "积分综合"
   },
   {
     "id": "hm-tag-149",
@@ -1189,7 +1337,8 @@
     "category": "高等数学",
     "description": "高等数学标签：级数综合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "级数综合"
   },
   {
     "id": "hm-tag-150",
@@ -1197,7 +1346,8 @@
     "category": "高等数学",
     "description": "高等数学标签：函数性质",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数性质"
   },
   {
     "id": "hm-tag-151",
@@ -1205,7 +1355,8 @@
     "category": "高等数学",
     "description": "高等数学标签：一致连续",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一致连续"
   },
   {
     "id": "hm-tag-152",
@@ -1213,7 +1364,8 @@
     "category": "高等数学",
     "description": "高等数学标签：利普希茨条件",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "利普希茨条件"
   },
   {
     "id": "hm-tag-153",
@@ -1221,7 +1373,8 @@
     "category": "高等数学",
     "description": "高等数学标签：隐函数定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "隐函数定理"
   },
   {
     "id": "hm-tag-154",
@@ -1229,7 +1382,8 @@
     "category": "高等数学",
     "description": "高等数学标签：反函数定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反函数定理"
   },
   {
     "id": "hm-tag-155",
@@ -1237,7 +1391,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正交多项式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交多项式"
   },
   {
     "id": "hm-tag-156",
@@ -1245,7 +1400,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数值积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数值积分"
   },
   {
     "id": "hm-tag-157",
@@ -1253,7 +1409,8 @@
     "category": "高等数学",
     "description": "高等数学标签：梯形公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "梯形公式"
   },
   {
     "id": "hm-tag-158",
@@ -1261,7 +1418,8 @@
     "category": "高等数学",
     "description": "高等数学标签：辛普森公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "辛普森公式"
   },
   {
     "id": "hm-tag-159",
@@ -1269,7 +1427,8 @@
     "category": "高等数学",
     "description": "高等数学标签：欧拉方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "欧拉方法"
   },
   {
     "id": "hm-tag-160",
@@ -1277,7 +1436,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数项级数求和",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数项级数求和"
   },
   {
     "id": "hm-tag-161",
@@ -1285,7 +1445,8 @@
     "category": "高等数学",
     "description": "高等数学标签：函数项级数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数项级数"
   },
   {
     "id": "hm-tag-162",
@@ -1293,7 +1454,8 @@
     "category": "高等数学",
     "description": "高等数学标签：阿贝尔定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "阿贝尔定理"
   },
   {
     "id": "hm-tag-163",
@@ -1301,7 +1463,8 @@
     "category": "高等数学",
     "description": "高等数学标签：解析函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "解析函数"
   },
   {
     "id": "hm-tag-164",
@@ -1309,7 +1472,8 @@
     "category": "高等数学",
     "description": "高等数学标签：调和函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "调和函数"
   },
   {
     "id": "hm-tag-165",
@@ -1317,7 +1481,8 @@
     "category": "高等数学",
     "description": "高等数学标签：共形映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "共形映射"
   },
   {
     "id": "hm-tag-166",
@@ -1325,7 +1490,8 @@
     "category": "高等数学",
     "description": "高等数学标签：留数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "留数"
   },
   {
     "id": "hm-tag-167",
@@ -1333,7 +1499,8 @@
     "category": "高等数学",
     "description": "高等数学标签：柯西积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柯西积分"
   },
   {
     "id": "hm-tag-168",
@@ -1341,7 +1508,8 @@
     "category": "高等数学",
     "description": "高等数学标签：直接证明",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "直接证明"
   },
   {
     "id": "hm-tag-169",
@@ -1349,7 +1517,8 @@
     "category": "高等数学",
     "description": "高等数学标签：反证法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反证法"
   },
   {
     "id": "hm-tag-170",
@@ -1357,7 +1526,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数学归纳法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数学归纳法"
   },
   {
     "id": "hm-tag-171",
@@ -1365,7 +1535,8 @@
     "category": "高等数学",
     "description": "高等数学标签：构造法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "构造法"
   },
   {
     "id": "hm-tag-172",
@@ -1373,7 +1544,8 @@
     "category": "高等数学",
     "description": "高等数学标签：分析法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分析法"
   },
   {
     "id": "hm-tag-173",
@@ -1381,7 +1553,8 @@
     "category": "高等数学",
     "description": "高等数学标签：放缩法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "放缩法"
   },
   {
     "id": "hm-tag-174",
@@ -1389,7 +1562,8 @@
     "category": "高等数学",
     "description": "高等数学标签：换元法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "换元法"
   },
   {
     "id": "hm-tag-175",
@@ -1397,7 +1571,8 @@
     "category": "高等数学",
     "description": "高等数学标签：配方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "配方法"
   },
   {
     "id": "hm-tag-176",
@@ -1405,7 +1580,8 @@
     "category": "高等数学",
     "description": "高等数学标签：判别式法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "判别式法"
   },
   {
     "id": "hm-tag-177",
@@ -1413,7 +1589,8 @@
     "category": "高等数学",
     "description": "高等数学标签：待定系数法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "待定系数法"
   },
   {
     "id": "hm-tag-178",
@@ -1421,7 +1598,8 @@
     "category": "高等数学",
     "description": "高等数学标签：参数法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "参数法"
   },
   {
     "id": "hm-tag-179",
@@ -1429,7 +1607,8 @@
     "category": "高等数学",
     "description": "高等数学标签：消元法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "消元法"
   },
   {
     "id": "hm-tag-180",
@@ -1437,7 +1616,8 @@
     "category": "高等数学",
     "description": "高等数学标签：代入法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代入法"
   },
   {
     "id": "hm-tag-181",
@@ -1445,7 +1625,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多项式的根",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多项式的根"
   },
   {
     "id": "hm-tag-182",
@@ -1453,7 +1634,8 @@
     "category": "高等数学",
     "description": "高等数学标签：因式分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "因式分解"
   },
   {
     "id": "hm-tag-183",
@@ -1461,7 +1643,8 @@
     "category": "高等数学",
     "description": "高等数学标签：部分分式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "部分分式"
   },
   {
     "id": "hm-tag-184",
@@ -1469,7 +1652,8 @@
     "category": "高等数学",
     "description": "高等数学标签：行列式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行列式"
   },
   {
     "id": "hm-tag-185",
@@ -1477,7 +1661,8 @@
     "category": "高等数学",
     "description": "高等数学标签：克莱姆法则",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "克莱姆法则"
   },
   {
     "id": "hm-tag-186",
@@ -1485,7 +1670,8 @@
     "category": "高等数学",
     "description": "高等数学标签：范德蒙行列式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "范德蒙行列式"
   },
   {
     "id": "hm-tag-187",
@@ -1493,7 +1679,8 @@
     "category": "高等数学",
     "description": "高等数学标签：矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵"
   },
   {
     "id": "hm-tag-188",
@@ -1501,7 +1688,8 @@
     "category": "高等数学",
     "description": "高等数学标签：线性方程组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性方程组"
   },
   {
     "id": "hm-tag-189",
@@ -1509,7 +1697,8 @@
     "category": "高等数学",
     "description": "高等数学标签：向量空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向量空间"
   },
   {
     "id": "hm-tag-190",
@@ -1517,7 +1706,8 @@
     "category": "高等数学",
     "description": "高等数学标签：线性无关",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性无关"
   },
   {
     "id": "hm-tag-191",
@@ -1525,7 +1715,8 @@
     "category": "高等数学",
     "description": "高等数学标签：基",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基"
   },
   {
     "id": "hm-tag-192",
@@ -1533,7 +1724,8 @@
     "category": "高等数学",
     "description": "高等数学标签：维数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "维数"
   },
   {
     "id": "hm-tag-193",
@@ -1541,7 +1733,8 @@
     "category": "高等数学",
     "description": "高等数学标签：线性变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性变换"
   },
   {
     "id": "hm-tag-194",
@@ -1549,7 +1742,8 @@
     "category": "高等数学",
     "description": "高等数学标签：特征向量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征向量"
   },
   {
     "id": "hm-tag-195",
@@ -1557,7 +1751,8 @@
     "category": "高等数学",
     "description": "高等数学标签：特征值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征值"
   },
   {
     "id": "hm-tag-196",
@@ -1565,7 +1760,8 @@
     "category": "高等数学",
     "description": "高等数学标签：二次型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二次型"
   },
   {
     "id": "hm-tag-197",
@@ -1573,7 +1769,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正定",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正定"
   },
   {
     "id": "hm-tag-198",
@@ -1581,7 +1778,8 @@
     "category": "高等数学",
     "description": "高等数学标签：标准形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "标准形"
   },
   {
     "id": "hm-tag-199",
@@ -1589,7 +1787,8 @@
     "category": "高等数学",
     "description": "高等数学标签：规范形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "规范形"
   },
   {
     "id": "hm-tag-200",
@@ -1597,7 +1796,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正交变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交变换"
   },
   {
     "id": "hm-tag-201",
@@ -1605,7 +1805,8 @@
     "category": "高等数学",
     "description": "高等数学标签：合同变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "合同变换"
   },
   {
     "id": "hm-tag-202",
@@ -1613,7 +1814,8 @@
     "category": "高等数学",
     "description": "高等数学标签：相似变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相似变换"
   },
   {
     "id": "hm-tag-203",
@@ -1621,7 +1823,8 @@
     "category": "高等数学",
     "description": "高等数学标签：对角化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对角化"
   },
   {
     "id": "hm-tag-204",
@@ -1629,7 +1832,8 @@
     "category": "高等数学",
     "description": "高等数学标签：概率论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "概率论"
   },
   {
     "id": "hm-tag-205",
@@ -1637,7 +1841,8 @@
     "category": "高等数学",
     "description": "高等数学标签：随机变量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机变量"
   },
   {
     "id": "hm-tag-206",
@@ -1645,7 +1850,8 @@
     "category": "高等数学",
     "description": "高等数学标签：分布函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分布函数"
   },
   {
     "id": "hm-tag-207",
@@ -1653,7 +1859,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数学期望",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数学期望"
   },
   {
     "id": "hm-tag-208",
@@ -1661,7 +1868,8 @@
     "category": "高等数学",
     "description": "高等数学标签：方差",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "方差"
   },
   {
     "id": "hm-tag-209",
@@ -1669,7 +1877,8 @@
     "category": "高等数学",
     "description": "高等数学标签：协方差",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "协方差"
   },
   {
     "id": "hm-tag-210",
@@ -1677,7 +1886,8 @@
     "category": "高等数学",
     "description": "高等数学标签：相关系数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相关系数"
   },
   {
     "id": "hm-tag-211",
@@ -1685,7 +1895,8 @@
     "category": "高等数学",
     "description": "高等数学标签：大数定律",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "大数定律"
   },
   {
     "id": "hm-tag-212",
@@ -1693,7 +1904,8 @@
     "category": "高等数学",
     "description": "高等数学标签：中心极限定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "中心极限定理"
   },
   {
     "id": "hm-tag-213",
@@ -1701,7 +1913,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数理统计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数理统计"
   },
   {
     "id": "hm-tag-214",
@@ -1709,7 +1922,8 @@
     "category": "高等数学",
     "description": "高等数学标签：参数估计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "参数估计"
   },
   {
     "id": "hm-tag-215",
@@ -1717,7 +1931,8 @@
     "category": "高等数学",
     "description": "高等数学标签：假设检验",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "假设检验"
   },
   {
     "id": "hm-tag-216",
@@ -1725,7 +1940,8 @@
     "category": "高等数学",
     "description": "高等数学标签：回归分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "回归分析"
   },
   {
     "id": "hm-tag-217",
@@ -1733,7 +1949,8 @@
     "category": "高等数学",
     "description": "高等数学标签：方差分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "方差分析"
   },
   {
     "id": "hm-tag-218",
@@ -1741,7 +1958,8 @@
     "category": "高等数学",
     "description": "高等数学标签：贝叶斯统计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "贝叶斯统计"
   },
   {
     "id": "hm-tag-219",
@@ -1749,7 +1967,8 @@
     "category": "高等数学",
     "description": "高等数学标签：置信区间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "置信区间"
   },
   {
     "id": "hm-tag-220",
@@ -1757,7 +1976,8 @@
     "category": "高等数学",
     "description": "高等数学标签：统计检验",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "统计检验"
   },
   {
     "id": "hm-tag-221",
@@ -1765,7 +1985,8 @@
     "category": "高等数学",
     "description": "高等数学标签：非参数统计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非参数统计"
   },
   {
     "id": "hm-tag-222",
@@ -1773,7 +1994,8 @@
     "category": "高等数学",
     "description": "高等数学标签：主成分分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主成分分析"
   },
   {
     "id": "hm-tag-223",
@@ -1781,7 +2003,8 @@
     "category": "高等数学",
     "description": "高等数学标签：因子分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "因子分析"
   },
   {
     "id": "hm-tag-224",
@@ -1789,7 +2012,8 @@
     "category": "高等数学",
     "description": "高等数学标签：聚类分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "聚类分析"
   },
   {
     "id": "hm-tag-225",
@@ -1797,7 +2021,8 @@
     "category": "高等数学",
     "description": "高等数学标签：判别分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "判别分析"
   },
   {
     "id": "hm-tag-226",
@@ -1805,7 +2030,8 @@
     "category": "高等数学",
     "description": "高等数学标签：时间序列",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "时间序列"
   },
   {
     "id": "hm-tag-227",
@@ -1813,7 +2039,8 @@
     "category": "高等数学",
     "description": "高等数学标签：平稳性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "平稳性"
   },
   {
     "id": "hm-tag-228",
@@ -1821,7 +2048,8 @@
     "category": "高等数学",
     "description": "高等数学标签：自相关",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自相关"
   },
   {
     "id": "hm-tag-229",
@@ -1829,7 +2057,8 @@
     "category": "高等数学",
     "description": "高等数学标签：偏自相关",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "偏自相关"
   },
   {
     "id": "hm-tag-230",
@@ -1837,7 +2066,8 @@
     "category": "高等数学",
     "description": "高等数学标签：ARMA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "arma"
   },
   {
     "id": "hm-tag-231",
@@ -1845,7 +2075,8 @@
     "category": "高等数学",
     "description": "高等数学标签：ARIMA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "arima"
   },
   {
     "id": "hm-tag-232",
@@ -1853,7 +2084,8 @@
     "category": "高等数学",
     "description": "高等数学标签：GARCH",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "garch"
   },
   {
     "id": "hm-tag-233",
@@ -1861,7 +2093,8 @@
     "category": "高等数学",
     "description": "高等数学标签：随机过程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机过程"
   },
   {
     "id": "hm-tag-234",
@@ -1869,7 +2102,8 @@
     "category": "高等数学",
     "description": "高等数学标签：马尔可夫链",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "马尔可夫链"
   },
   {
     "id": "hm-tag-235",
@@ -1877,7 +2111,8 @@
     "category": "高等数学",
     "description": "高等数学标签：泊松过程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泊松过程"
   },
   {
     "id": "hm-tag-236",
@@ -1885,7 +2120,8 @@
     "category": "高等数学",
     "description": "高等数学标签：布朗运动",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "布朗运动"
   },
   {
     "id": "hm-tag-237",
@@ -1893,7 +2129,8 @@
     "category": "高等数学",
     "description": "高等数学标签：维纳过程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "维纳过程"
   },
   {
     "id": "hm-tag-238",
@@ -1901,7 +2138,8 @@
     "category": "高等数学",
     "description": "高等数学标签：差分法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "差分法"
   },
   {
     "id": "hm-tag-239",
@@ -1909,7 +2147,8 @@
     "category": "高等数学",
     "description": "高等数学标签：有限元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "有限元"
   },
   {
     "id": "hm-tag-240",
@@ -1917,7 +2156,8 @@
     "category": "高等数学",
     "description": "高等数学标签：机器学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "机器学习"
   },
   {
     "id": "hm-tag-241",
@@ -1925,7 +2165,8 @@
     "category": "高等数学",
     "description": "高等数学标签：深度学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "深度学习"
   },
   {
     "id": "hm-tag-242",
@@ -1933,7 +2174,8 @@
     "category": "高等数学",
     "description": "高等数学标签：神经网络",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "神经网络"
   },
   {
     "id": "hm-tag-243",
@@ -1941,7 +2183,8 @@
     "category": "高等数学",
     "description": "高等数学标签：强化学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "强化学习"
   },
   {
     "id": "hm-tag-244",
@@ -1949,7 +2192,8 @@
     "category": "高等数学",
     "description": "高等数学标签：博弈论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "博弈论"
   },
   {
     "id": "hm-tag-245",
@@ -1957,7 +2201,8 @@
     "category": "高等数学",
     "description": "高等数学标签：纳什均衡",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "纳什均衡"
   },
   {
     "id": "hm-tag-246",
@@ -1965,7 +2210,8 @@
     "category": "高等数学",
     "description": "高等数学标签：信息经济学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "信息经济学"
   },
   {
     "id": "hm-tag-247",
@@ -1973,7 +2219,8 @@
     "category": "高等数学",
     "description": "高等数学标签：拍卖理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拍卖理论"
   },
   {
     "id": "hm-tag-248",
@@ -1981,7 +2228,8 @@
     "category": "高等数学",
     "description": "高等数学标签：机制设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "机制设计"
   },
   {
     "id": "hm-tag-249",
@@ -1989,7 +2237,8 @@
     "category": "高等数学",
     "description": "高等数学标签：网络效应",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "网络效应"
   },
   {
     "id": "hm-tag-250",
@@ -1997,7 +2246,8 @@
     "category": "高等数学",
     "description": "高等数学标签：平台经济",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "平台经济"
   },
   {
     "id": "hm-tag-251",
@@ -2005,7 +2255,8 @@
     "category": "高等数学",
     "description": "高等数学标签：定价策略",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "定价策略"
   },
   {
     "id": "hm-tag-252",
@@ -2013,7 +2264,8 @@
     "category": "高等数学",
     "description": "高等数学标签：需求弹性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "需求弹性"
   },
   {
     "id": "hm-tag-253",
@@ -2021,7 +2273,8 @@
     "category": "高等数学",
     "description": "高等数学标签：效用函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "效用函数"
   },
   {
     "id": "hm-tag-254",
@@ -2029,7 +2282,8 @@
     "category": "高等数学",
     "description": "高等数学标签：消费者均衡",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "消费者均衡"
   },
   {
     "id": "hm-tag-255",
@@ -2037,7 +2291,8 @@
     "category": "高等数学",
     "description": "高等数学标签：生产者理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "生产者理论"
   },
   {
     "id": "hm-tag-256",
@@ -2045,7 +2300,8 @@
     "category": "高等数学",
     "description": "高等数学标签：成本函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "成本函数"
   },
   {
     "id": "hm-tag-257",
@@ -2053,7 +2309,8 @@
     "category": "高等数学",
     "description": "高等数学标签：利润最大化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "利润最大化"
   },
   {
     "id": "hm-tag-258",
@@ -2061,7 +2318,8 @@
     "category": "高等数学",
     "description": "高等数学标签：市场结构",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "市场结构"
   },
   {
     "id": "hm-tag-259",
@@ -2069,7 +2327,8 @@
     "category": "高等数学",
     "description": "高等数学标签：垄断",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "垄断"
   },
   {
     "id": "hm-tag-260",
@@ -2077,7 +2336,8 @@
     "category": "高等数学",
     "description": "高等数学标签：竞争",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "竞争"
   },
   {
     "id": "hm-tag-261",
@@ -2085,7 +2345,8 @@
     "category": "高等数学",
     "description": "高等数学标签：寡头",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "寡头"
   },
   {
     "id": "hm-tag-262",
@@ -2093,7 +2354,8 @@
     "category": "高等数学",
     "description": "高等数学标签：信息不对称",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "信息不对称"
   },
   {
     "id": "hm-tag-263",
@@ -2101,7 +2363,8 @@
     "category": "高等数学",
     "description": "高等数学标签：逆向选择",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逆向选择"
   },
   {
     "id": "hm-tag-264",
@@ -2109,7 +2372,8 @@
     "category": "高等数学",
     "description": "高等数学标签：道德风险",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "道德风险"
   },
   {
     "id": "hm-tag-265",
@@ -2117,7 +2381,8 @@
     "category": "高等数学",
     "description": "高等数学标签：行为经济学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行为经济学"
   },
   {
     "id": "hm-tag-266",
@@ -2125,7 +2390,8 @@
     "category": "高等数学",
     "description": "高等数学标签：前景理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "前景理论"
   },
   {
     "id": "hm-tag-267",
@@ -2133,7 +2399,8 @@
     "category": "高等数学",
     "description": "高等数学标签：损失厌恶",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "损失厌恶"
   },
   {
     "id": "hm-tag-268",
@@ -2141,7 +2408,8 @@
     "category": "高等数学",
     "description": "高等数学标签：确认偏误",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "确认偏误"
   },
   {
     "id": "hm-tag-269",
@@ -2149,7 +2417,8 @@
     "category": "高等数学",
     "description": "高等数学标签：锚定效应",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "锚定效应"
   },
   {
     "id": "hm-tag-270",
@@ -2157,7 +2426,8 @@
     "category": "高等数学",
     "description": "高等数学标签：框架效应",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "框架效应"
   },
   {
     "id": "hm-tag-271",
@@ -2165,7 +2435,8 @@
     "category": "高等数学",
     "description": "高等数学标签：辛普森悖论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "辛普森悖论"
   },
   {
     "id": "hm-tag-272",
@@ -2173,7 +2444,8 @@
     "category": "高等数学",
     "description": "高等数学标签：选择偏见",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "选择偏见"
   },
   {
     "id": "hm-tag-273",
@@ -2181,7 +2453,8 @@
     "category": "高等数学",
     "description": "高等数学标签：幸存者偏差",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "幸存者偏差"
   },
   {
     "id": "hm-tag-274",
@@ -2189,7 +2462,8 @@
     "category": "高等数学",
     "description": "高等数学标签：回归均值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "回归均值"
   },
   {
     "id": "hm-tag-275",
@@ -2197,7 +2471,8 @@
     "category": "高等数学",
     "description": "高等数学标签：因果推断",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "因果推断"
   },
   {
     "id": "hm-tag-276",
@@ -2205,7 +2480,8 @@
     "category": "高等数学",
     "description": "高等数学标签：工具变量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "工具变量"
   },
   {
     "id": "hm-tag-277",
@@ -2213,7 +2489,8 @@
     "category": "高等数学",
     "description": "高等数学标签：断点回归",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "断点回归"
   },
   {
     "id": "hm-tag-278",
@@ -2221,7 +2498,8 @@
     "category": "高等数学",
     "description": "高等数学标签：双重差分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双重差分"
   },
   {
     "id": "hm-tag-279",
@@ -2229,7 +2507,8 @@
     "category": "高等数学",
     "description": "高等数学标签：自然实验",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自然实验"
   },
   {
     "id": "hm-tag-280",
@@ -2237,7 +2516,8 @@
     "category": "高等数学",
     "description": "高等数学标签：面板数据",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "面板数据"
   },
   {
     "id": "hm-tag-281",
@@ -2245,7 +2525,8 @@
     "category": "高等数学",
     "description": "高等数学标签：固定效应",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "固定效应"
   },
   {
     "id": "hm-tag-282",
@@ -2253,7 +2534,8 @@
     "category": "高等数学",
     "description": "高等数学标签：随机效应",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机效应"
   },
   {
     "id": "hm-tag-283",
@@ -2261,7 +2543,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多层次模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多层次模型"
   },
   {
     "id": "hm-tag-284",
@@ -2269,7 +2552,8 @@
     "category": "高等数学",
     "description": "高等数学标签：生存分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "生存分析"
   },
   {
     "id": "hm-tag-285",
@@ -2277,7 +2561,8 @@
     "category": "高等数学",
     "description": "高等数学标签：COX回归",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cox回归"
   },
   {
     "id": "hm-tag-286",
@@ -2285,7 +2570,8 @@
     "category": "高等数学",
     "description": "高等数学标签：自助法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自助法"
   },
   {
     "id": "hm-tag-287",
@@ -2293,7 +2579,8 @@
     "category": "高等数学",
     "description": "高等数学标签：交叉验证",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "交叉验证"
   },
   {
     "id": "hm-tag-288",
@@ -2301,7 +2588,8 @@
     "category": "高等数学",
     "description": "高等数学标签：随机森林",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机森林"
   },
   {
     "id": "hm-tag-289",
@@ -2309,7 +2597,8 @@
     "category": "高等数学",
     "description": "高等数学标签：提升方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "提升方法"
   },
   {
     "id": "hm-tag-290",
@@ -2317,7 +2606,8 @@
     "category": "高等数学",
     "description": "高等数学标签：XGBoost",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "xgboost"
   },
   {
     "id": "hm-tag-291",
@@ -2325,7 +2615,8 @@
     "category": "高等数学",
     "description": "高等数学标签：LightGBM",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lightgbm"
   },
   {
     "id": "hm-tag-292",
@@ -2333,7 +2624,8 @@
     "category": "高等数学",
     "description": "高等数学标签：迁移学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迁移学习"
   },
   {
     "id": "hm-tag-293",
@@ -2341,7 +2633,8 @@
     "category": "高等数学",
     "description": "高等数学标签：元学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "元学习"
   },
   {
     "id": "hm-tag-294",
@@ -2349,7 +2642,8 @@
     "category": "高等数学",
     "description": "高等数学标签：自监督学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自监督学习"
   },
   {
     "id": "hm-tag-295",
@@ -2357,7 +2651,8 @@
     "category": "高等数学",
     "description": "高等数学标签：半监督学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "半监督学习"
   },
   {
     "id": "hm-tag-296",
@@ -2365,7 +2660,8 @@
     "category": "高等数学",
     "description": "高等数学标签：主动学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主动学习"
   },
   {
     "id": "hm-tag-297",
@@ -2373,7 +2669,8 @@
     "category": "高等数学",
     "description": "高等数学标签：在线学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "在线学习"
   },
   {
     "id": "hm-tag-298",
@@ -2381,7 +2678,8 @@
     "category": "高等数学",
     "description": "高等数学标签：概念漂移",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "概念漂移"
   },
   {
     "id": "hm-tag-299",
@@ -2389,7 +2687,8 @@
     "category": "高等数学",
     "description": "高等数学标签：词嵌入",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "词嵌入"
   },
   {
     "id": "hm-tag-300",
@@ -2397,7 +2696,8 @@
     "category": "高等数学",
     "description": "高等数学标签：知识图谱",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "知识图谱"
   },
   {
     "id": "hm-tag-301",
@@ -2405,7 +2705,8 @@
     "category": "高等数学",
     "description": "高等数学标签：因果推理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "因果推理"
   },
   {
     "id": "hm-tag-302",
@@ -2413,7 +2714,8 @@
     "category": "高等数学",
     "description": "高等数学标签：反事实推理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反事实推理"
   },
   {
     "id": "hm-tag-303",
@@ -2421,7 +2723,8 @@
     "category": "高等数学",
     "description": "高等数学标签：结构因果模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "结构因果模型"
   },
   {
     "id": "hm-tag-304",
@@ -2429,7 +2732,8 @@
     "category": "高等数学",
     "description": "高等数学标签：空间统计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "空间统计"
   },
   {
     "id": "hm-tag-305",
@@ -2437,7 +2741,8 @@
     "category": "高等数学",
     "description": "高等数学标签：克里金",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "克里金"
   },
   {
     "id": "hm-tag-306",
@@ -2445,7 +2750,8 @@
     "category": "高等数学",
     "description": "高等数学标签：地统计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "地统计"
   },
   {
     "id": "hm-tag-307",
@@ -2453,7 +2759,8 @@
     "category": "高等数学",
     "description": "高等数学标签：空间回归",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "空间回归"
   },
   {
     "id": "hm-tag-308",
@@ -2461,7 +2768,8 @@
     "category": "高等数学",
     "description": "高等数学标签：地理加权回归",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "地理加权回归"
   },
   {
     "id": "hm-tag-309",
@@ -2469,7 +2777,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多目标优化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多目标优化"
   },
   {
     "id": "hm-tag-310",
@@ -2477,7 +2786,8 @@
     "category": "高等数学",
     "description": "高等数学标签：遗传算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "遗传算法"
   },
   {
     "id": "hm-tag-311",
@@ -2485,7 +2795,8 @@
     "category": "高等数学",
     "description": "高等数学标签：粒子群",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "粒子群"
   },
   {
     "id": "hm-tag-312",
@@ -2493,7 +2804,8 @@
     "category": "高等数学",
     "description": "高等数学标签：模拟退火",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "模拟退火"
   },
   {
     "id": "hm-tag-313",
@@ -2501,7 +2813,8 @@
     "category": "高等数学",
     "description": "高等数学标签：灵敏度分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "灵敏度分析"
   },
   {
     "id": "hm-tag-314",
@@ -2509,7 +2822,8 @@
     "category": "高等数学",
     "description": "高等数学标签：结构可靠性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "结构可靠性"
   },
   {
     "id": "hm-tag-315",
@@ -2517,7 +2831,8 @@
     "category": "高等数学",
     "description": "高等数学标签：蒙特卡洛",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "蒙特卡洛"
   },
   {
     "id": "hm-tag-316",
@@ -2525,7 +2840,8 @@
     "category": "高等数学",
     "description": "高等数学标签：逆问题",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逆问题"
   },
   {
     "id": "hm-tag-317",
@@ -2533,7 +2849,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正则化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正则化"
   },
   {
     "id": "hm-tag-318",
@@ -2541,7 +2858,8 @@
     "category": "高等数学",
     "description": "高等数学标签：LASSO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lasso"
   },
   {
     "id": "hm-tag-319",
@@ -2549,7 +2867,8 @@
     "category": "高等数学",
     "description": "高等数学标签：岭回归",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "岭回归"
   },
   {
     "id": "hm-tag-320",
@@ -2557,7 +2876,8 @@
     "category": "高等数学",
     "description": "高等数学标签：弹性网",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弹性网"
   },
   {
     "id": "hm-tag-321",
@@ -2565,7 +2885,8 @@
     "category": "高等数学",
     "description": "高等数学标签：贝叶斯网络",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "贝叶斯网络"
   },
   {
     "id": "hm-tag-322",
@@ -2573,7 +2894,8 @@
     "category": "高等数学",
     "description": "高等数学标签：结构方程模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "结构方程模型"
   },
   {
     "id": "hm-tag-323",
@@ -2581,7 +2903,8 @@
     "category": "高等数学",
     "description": "高等数学标签：潜变量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "潜变量"
   },
   {
     "id": "hm-tag-324",
@@ -2589,7 +2912,8 @@
     "category": "高等数学",
     "description": "高等数学标签：信息准则",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "信息准则"
   },
   {
     "id": "hm-tag-325",
@@ -2597,7 +2921,8 @@
     "category": "高等数学",
     "description": "高等数学标签：AIC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "aic"
   },
   {
     "id": "hm-tag-326",
@@ -2605,7 +2930,8 @@
     "category": "高等数学",
     "description": "高等数学标签：BIC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bic"
   },
   {
     "id": "hm-tag-327",
@@ -2613,7 +2939,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数值稳定性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数值稳定性"
   },
   {
     "id": "hm-tag-328",
@@ -2621,7 +2948,8 @@
     "category": "高等数学",
     "description": "高等数学标签：条件数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "条件数"
   },
   {
     "id": "hm-tag-329",
@@ -2629,7 +2957,8 @@
     "category": "高等数学",
     "description": "高等数学标签：计算数学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "计算数学"
   },
   {
     "id": "hm-tag-330",
@@ -2637,7 +2966,8 @@
     "category": "高等数学",
     "description": "高等数学标签：科学计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "科学计算"
   },
   {
     "id": "hm-tag-331",
@@ -2645,7 +2975,8 @@
     "category": "高等数学",
     "description": "高等数学标签：并行计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "并行计算"
   },
   {
     "id": "hm-tag-332",
@@ -2653,7 +2984,8 @@
     "category": "高等数学",
     "description": "高等数学标签：云计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "云计算"
   },
   {
     "id": "hm-tag-333",
@@ -2661,7 +2993,8 @@
     "category": "高等数学",
     "description": "高等数学标签：边缘计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "边缘计算"
   },
   {
     "id": "hm-tag-334",
@@ -2669,7 +3002,8 @@
     "category": "高等数学",
     "description": "高等数学标签：人工智能",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "人工智能"
   },
   {
     "id": "hm-tag-335",
@@ -2677,7 +3011,8 @@
     "category": "高等数学",
     "description": "高等数学标签：符号计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "符号计算"
   },
   {
     "id": "hm-tag-336",
@@ -2685,7 +3020,8 @@
     "category": "高等数学",
     "description": "高等数学标签：几何",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "几何"
   },
   {
     "id": "hm-tag-337",
@@ -2693,7 +3029,8 @@
     "category": "高等数学",
     "description": "高等数学标签：拓扑",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拓扑"
   },
   {
     "id": "hm-tag-338",
@@ -2701,7 +3038,8 @@
     "category": "高等数学",
     "description": "高等数学标签：代数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代数"
   },
   {
     "id": "hm-tag-339",
@@ -2709,7 +3047,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数论"
   },
   {
     "id": "hm-tag-340",
@@ -2717,7 +3056,8 @@
     "category": "高等数学",
     "description": "高等数学标签：组合数学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "组合数学"
   },
   {
     "id": "hm-tag-341",
@@ -2725,7 +3065,8 @@
     "category": "高等数学",
     "description": "高等数学标签：图论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图论"
   },
   {
     "id": "hm-tag-342",
@@ -2733,7 +3074,8 @@
     "category": "高等数学",
     "description": "高等数学标签：离散数学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "离散数学"
   },
   {
     "id": "hm-tag-343",
@@ -2741,7 +3083,8 @@
     "category": "高等数学",
     "description": "高等数学标签：最优化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最优化"
   },
   {
     "id": "hm-tag-344",
@@ -2749,7 +3092,8 @@
     "category": "高等数学",
     "description": "高等数学标签：线性规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性规划"
   },
   {
     "id": "hm-tag-345",
@@ -2757,7 +3101,8 @@
     "category": "高等数学",
     "description": "高等数学标签：整数规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "整数规划"
   },
   {
     "id": "hm-tag-346",
@@ -2765,7 +3110,8 @@
     "category": "高等数学",
     "description": "高等数学标签：非线性规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非线性规划"
   },
   {
     "id": "hm-tag-347",
@@ -2773,7 +3119,8 @@
     "category": "高等数学",
     "description": "高等数学标签：动态规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "动态规划"
   },
   {
     "id": "hm-tag-348",
@@ -2781,7 +3128,8 @@
     "category": "高等数学",
     "description": "高等数学标签：变分法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "变分法"
   },
   {
     "id": "hm-tag-349",
@@ -2789,7 +3137,8 @@
     "category": "高等数学",
     "description": "高等数学标签：泛函分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泛函分析"
   },
   {
     "id": "hm-tag-350",
@@ -2797,7 +3146,8 @@
     "category": "高等数学",
     "description": "高等数学标签：测度论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "测度论"
   },
   {
     "id": "hm-tag-351",
@@ -2805,7 +3155,8 @@
     "category": "高等数学",
     "description": "高等数学标签：实变函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "实变函数"
   },
   {
     "id": "hm-tag-352",
@@ -2813,7 +3164,8 @@
     "category": "高等数学",
     "description": "高等数学标签：复变函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复变函数"
   },
   {
     "id": "hm-tag-353",
@@ -2821,7 +3173,8 @@
     "category": "高等数学",
     "description": "高等数学标签：常微分方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "常微分方程"
   },
   {
     "id": "hm-tag-354",
@@ -2829,7 +3182,8 @@
     "category": "高等数学",
     "description": "高等数学标签：偏微分方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "偏微分方程"
   },
   {
     "id": "hm-tag-355",
@@ -2837,7 +3191,8 @@
     "category": "高等数学",
     "description": "高等数学标签：积分方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "积分方程"
   },
   {
     "id": "hm-tag-356",
@@ -2845,7 +3200,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数学物理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数学物理"
   },
   {
     "id": "hm-tag-357",
@@ -2853,7 +3209,8 @@
     "category": "高等数学",
     "description": "高等数学标签：力学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "力学"
   },
   {
     "id": "hm-tag-358",
@@ -2861,7 +3218,8 @@
     "category": "高等数学",
     "description": "高等数学标签：电磁学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "电磁学"
   },
   {
     "id": "hm-tag-359",
@@ -2869,7 +3227,8 @@
     "category": "高等数学",
     "description": "高等数学标签：热力学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "热力学"
   },
   {
     "id": "hm-tag-360",
@@ -2877,7 +3236,8 @@
     "category": "高等数学",
     "description": "高等数学标签：统计物理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "统计物理"
   },
   {
     "id": "hm-tag-361",
@@ -2885,7 +3245,8 @@
     "category": "高等数学",
     "description": "高等数学标签：量子力学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子力学"
   },
   {
     "id": "hm-tag-362",
@@ -2893,7 +3254,8 @@
     "category": "高等数学",
     "description": "高等数学标签：相对论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相对论"
   },
   {
     "id": "hm-tag-363",
@@ -2901,7 +3263,8 @@
     "category": "高等数学",
     "description": "高等数学标签：天体力学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "天体力学"
   },
   {
     "id": "hm-tag-364",
@@ -2909,7 +3272,8 @@
     "category": "高等数学",
     "description": "高等数学标签：流体力学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "流体力学"
   },
   {
     "id": "hm-tag-365",
@@ -2917,7 +3281,8 @@
     "category": "高等数学",
     "description": "高等数学标签：弹性力学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弹性力学"
   },
   {
     "id": "hm-tag-366",
@@ -2925,7 +3290,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数学建模",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数学建模"
   },
   {
     "id": "hm-tag-367",
@@ -2933,7 +3299,8 @@
     "category": "高等数学",
     "description": "高等数学标签：系统科学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "系统科学"
   },
   {
     "id": "hm-tag-368",
@@ -2941,7 +3308,8 @@
     "category": "高等数学",
     "description": "高等数学标签：控制论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "控制论"
   },
   {
     "id": "hm-tag-369",
@@ -2949,7 +3317,8 @@
     "category": "高等数学",
     "description": "高等数学标签：信息论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "信息论"
   },
   {
     "id": "hm-tag-370",
@@ -2957,7 +3326,8 @@
     "category": "高等数学",
     "description": "高等数学标签：编码理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "编码理论"
   },
   {
     "id": "hm-tag-371",
@@ -2965,7 +3335,8 @@
     "category": "高等数学",
     "description": "高等数学标签：密码学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "密码学"
   },
   {
     "id": "hm-tag-372",
@@ -2973,7 +3344,8 @@
     "category": "高等数学",
     "description": "高等数学标签：网络科学",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "网络科学"
   },
   {
     "id": "hm-tag-373",
@@ -2981,7 +3353,8 @@
     "category": "高等数学",
     "description": "高等数学标签：复杂系统",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复杂系统"
   },
   {
     "id": "hm-tag-374",
@@ -2989,7 +3362,8 @@
     "category": "高等数学",
     "description": "高等数学标签：混沌理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "混沌理论"
   },
   {
     "id": "hm-tag-375",
@@ -2997,7 +3371,8 @@
     "category": "高等数学",
     "description": "高等数学标签：分形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分形"
   },
   {
     "id": "hm-tag-376",
@@ -3005,7 +3380,8 @@
     "category": "高等数学",
     "description": "高等数学标签：动力系统",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "动力系统"
   },
   {
     "id": "hm-tag-377",
@@ -3013,7 +3389,8 @@
     "category": "高等数学",
     "description": "高等数学标签：遍历理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "遍历理论"
   },
   {
     "id": "hm-tag-378",
@@ -3021,7 +3398,8 @@
     "category": "高等数学",
     "description": "高等数学标签：随机分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机分析"
   },
   {
     "id": "hm-tag-379",
@@ -3029,7 +3407,8 @@
     "category": "高等数学",
     "description": "高等数学标签：测度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "测度"
   },
   {
     "id": "hm-tag-380",
@@ -3037,7 +3416,8 @@
     "category": "高等数学",
     "description": "高等数学标签：勒贝格积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "勒贝格积分"
   },
   {
     "id": "hm-tag-381",
@@ -3045,7 +3425,8 @@
     "category": "高等数学",
     "description": "高等数学标签：勒贝格测度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "勒贝格测度"
   },
   {
     "id": "hm-tag-382",
@@ -3053,7 +3434,8 @@
     "category": "高等数学",
     "description": "高等数学标签：波莱尔集",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "波莱尔集"
   },
   {
     "id": "hm-tag-383",
@@ -3061,7 +3443,8 @@
     "category": "高等数学",
     "description": "高等数学标签：可测函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "可测函数"
   },
   {
     "id": "hm-tag-384",
@@ -3069,7 +3452,8 @@
     "category": "高等数学",
     "description": "高等数学标签：收敛定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "收敛定理"
   },
   {
     "id": "hm-tag-385",
@@ -3077,7 +3461,8 @@
     "category": "高等数学",
     "description": "高等数学标签：控制收敛",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "控制收敛"
   },
   {
     "id": "hm-tag-386",
@@ -3085,7 +3470,8 @@
     "category": "高等数学",
     "description": "高等数学标签：单调收敛",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单调收敛"
   },
   {
     "id": "hm-tag-387",
@@ -3093,7 +3479,8 @@
     "category": "高等数学",
     "description": "高等数学标签：法图引理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "法图引理"
   },
   {
     "id": "hm-tag-388",
@@ -3101,7 +3488,8 @@
     "category": "高等数学",
     "description": "高等数学标签：有界变差",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "有界变差"
   },
   {
     "id": "hm-tag-389",
@@ -3109,7 +3497,8 @@
     "category": "高等数学",
     "description": "高等数学标签：绝对连续",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "绝对连续"
   },
   {
     "id": "hm-tag-390",
@@ -3117,7 +3506,8 @@
     "category": "高等数学",
     "description": "高等数学标签：奇异函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异函数"
   },
   {
     "id": "hm-tag-391",
@@ -3125,7 +3515,8 @@
     "category": "高等数学",
     "description": "高等数学标签：康托函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "康托函数"
   },
   {
     "id": "hm-tag-392",
@@ -3133,7 +3524,8 @@
     "category": "高等数学",
     "description": "高等数学标签：康托集",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "康托集"
   },
   {
     "id": "hm-tag-393",
@@ -3141,7 +3533,8 @@
     "category": "高等数学",
     "description": "高等数学标签：维塔利覆盖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "维塔利覆盖"
   },
   {
     "id": "hm-tag-394",
@@ -3149,7 +3542,8 @@
     "category": "高等数学",
     "description": "高等数学标签：哈代-李特尔伍德",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "哈代-李特尔伍德"
   },
   {
     "id": "hm-tag-395",
@@ -3157,7 +3551,8 @@
     "category": "高等数学",
     "description": "高等数学标签：极大函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极大函数"
   },
   {
     "id": "hm-tag-396",
@@ -3165,7 +3560,8 @@
     "category": "高等数学",
     "description": "高等数学标签：奇异积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异积分"
   },
   {
     "id": "hm-tag-397",
@@ -3173,7 +3569,8 @@
     "category": "高等数学",
     "description": "高等数学标签：柯西主值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柯西主值"
   },
   {
     "id": "hm-tag-398",
@@ -3181,7 +3578,8 @@
     "category": "高等数学",
     "description": "高等数学标签：希尔伯特变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "希尔伯特变换"
   },
   {
     "id": "hm-tag-399",
@@ -3189,7 +3587,8 @@
     "category": "高等数学",
     "description": "高等数学标签：里斯变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "里斯变换"
   },
   {
     "id": "hm-tag-400",
@@ -3197,7 +3596,8 @@
     "category": "高等数学",
     "description": "高等数学标签：奇异积分算子",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异积分算子"
   },
   {
     "id": "hm-tag-401",
@@ -3205,7 +3605,8 @@
     "category": "高等数学",
     "description": "高等数学标签：卡尔德隆-齐格蒙德",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "卡尔德隆-齐格蒙德"
   },
   {
     "id": "hm-tag-402",
@@ -3213,7 +3614,8 @@
     "category": "高等数学",
     "description": "高等数学标签：插值定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "插值定理"
   },
   {
     "id": "hm-tag-403",
@@ -3221,7 +3623,8 @@
     "category": "高等数学",
     "description": "高等数学标签：实插值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "实插值"
   },
   {
     "id": "hm-tag-404",
@@ -3229,7 +3632,8 @@
     "category": "高等数学",
     "description": "高等数学标签：复插值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复插值"
   },
   {
     "id": "hm-tag-405",
@@ -3237,7 +3641,8 @@
     "category": "高等数学",
     "description": "高等数学标签：洛伦兹空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "洛伦兹空间"
   },
   {
     "id": "hm-tag-406",
@@ -3245,7 +3650,8 @@
     "category": "高等数学",
     "description": "高等数学标签：贝索夫空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "贝索夫空间"
   },
   {
     "id": "hm-tag-407",
@@ -3253,7 +3659,8 @@
     "category": "高等数学",
     "description": "高等数学标签：特里贝尔-利佐金空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特里贝尔-利佐金空间"
   },
   {
     "id": "hm-tag-408",
@@ -3261,7 +3668,8 @@
     "category": "高等数学",
     "description": "高等数学标签：索伯列夫空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "索伯列夫空间"
   },
   {
     "id": "hm-tag-409",
@@ -3269,7 +3677,8 @@
     "category": "高等数学",
     "description": "高等数学标签：嵌入定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "嵌入定理"
   },
   {
     "id": "hm-tag-410",
@@ -3277,7 +3686,8 @@
     "category": "高等数学",
     "description": "高等数学标签：迹定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迹定理"
   },
   {
     "id": "hm-tag-411",
@@ -3285,7 +3695,8 @@
     "category": "高等数学",
     "description": "高等数学标签：紧嵌入",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "紧嵌入"
   },
   {
     "id": "hm-tag-412",
@@ -3293,7 +3704,8 @@
     "category": "高等数学",
     "description": "高等数学标签：庞加莱不等式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "庞加莱不等式"
   },
   {
     "id": "hm-tag-413",
@@ -3301,7 +3713,8 @@
     "category": "高等数学",
     "description": "高等数学标签：等周不等式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "等周不等式"
   },
   {
     "id": "hm-tag-414",
@@ -3309,7 +3722,8 @@
     "category": "高等数学",
     "description": "高等数学标签：斯梅尔问题",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "斯梅尔问题"
   },
   {
     "id": "hm-tag-415",
@@ -3317,7 +3731,8 @@
     "category": "高等数学",
     "description": "高等数学标签：纳维-斯托克斯",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "纳维-斯托克斯"
   },
   {
     "id": "hm-tag-416",
@@ -3325,7 +3740,8 @@
     "category": "高等数学",
     "description": "高等数学标签：欧拉方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "欧拉方程"
   },
   {
     "id": "hm-tag-417",
@@ -3333,7 +3749,8 @@
     "category": "高等数学",
     "description": "高等数学标签：伯努利方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伯努利方程"
   },
   {
     "id": "hm-tag-418",
@@ -3341,7 +3758,8 @@
     "category": "高等数学",
     "description": "高等数学标签：势流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "势流"
   },
   {
     "id": "hm-tag-419",
@@ -3349,7 +3767,8 @@
     "category": "高等数学",
     "description": "高等数学标签：边界层",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "边界层"
   },
   {
     "id": "hm-tag-420",
@@ -3357,7 +3776,8 @@
     "category": "高等数学",
     "description": "高等数学标签：湍流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "湍流"
   },
   {
     "id": "hm-tag-421",
@@ -3365,7 +3785,8 @@
     "category": "高等数学",
     "description": "高等数学标签：涡流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "涡流"
   },
   {
     "id": "hm-tag-422",
@@ -3373,7 +3794,8 @@
     "category": "高等数学",
     "description": "高等数学标签：涡度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "涡度"
   },
   {
     "id": "hm-tag-423",
@@ -3381,7 +3803,8 @@
     "category": "高等数学",
     "description": "高等数学标签：环量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "环量"
   },
   {
     "id": "hm-tag-424",
@@ -3389,7 +3812,8 @@
     "category": "高等数学",
     "description": "高等数学标签：升力",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "升力"
   },
   {
     "id": "hm-tag-425",
@@ -3397,7 +3821,8 @@
     "category": "高等数学",
     "description": "高等数学标签：阻力",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "阻力"
   },
   {
     "id": "hm-tag-426",
@@ -3405,7 +3830,8 @@
     "category": "高等数学",
     "description": "高等数学标签：马赫数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "马赫数"
   },
   {
     "id": "hm-tag-427",
@@ -3413,7 +3839,8 @@
     "category": "高等数学",
     "description": "高等数学标签：雷诺数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "雷诺数"
   },
   {
     "id": "hm-tag-428",
@@ -3421,7 +3848,8 @@
     "category": "高等数学",
     "description": "高等数学标签：弗劳德数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弗劳德数"
   },
   {
     "id": "hm-tag-429",
@@ -3429,7 +3857,8 @@
     "category": "高等数学",
     "description": "高等数学标签：韦伯数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "韦伯数"
   },
   {
     "id": "hm-tag-430",
@@ -3437,7 +3866,8 @@
     "category": "高等数学",
     "description": "高等数学标签：努塞尔数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "努塞尔数"
   },
   {
     "id": "hm-tag-431",
@@ -3445,7 +3875,8 @@
     "category": "高等数学",
     "description": "高等数学标签：普朗特数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "普朗特数"
   },
   {
     "id": "hm-tag-432",
@@ -3453,7 +3884,8 @@
     "category": "高等数学",
     "description": "高等数学标签：瑞利数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "瑞利数"
   },
   {
     "id": "hm-tag-433",
@@ -3461,7 +3893,8 @@
     "category": "高等数学",
     "description": "高等数学标签：格拉晓夫数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "格拉晓夫数"
   },
   {
     "id": "hm-tag-434",
@@ -3469,7 +3902,8 @@
     "category": "高等数学",
     "description": "高等数学标签：比奥数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "比奥数"
   },
   {
     "id": "hm-tag-435",
@@ -3477,7 +3911,8 @@
     "category": "高等数学",
     "description": "高等数学标签：傅里叶数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "傅里叶数"
   },
   {
     "id": "hm-tag-436",
@@ -3485,7 +3920,8 @@
     "category": "高等数学",
     "description": "高等数学标签：佩克莱数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "佩克莱数"
   },
   {
     "id": "hm-tag-437",
@@ -3493,7 +3929,8 @@
     "category": "高等数学",
     "description": "高等数学标签：斯坦顿数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "斯坦顿数"
   },
   {
     "id": "hm-tag-438",
@@ -3501,7 +3938,8 @@
     "category": "高等数学",
     "description": "高等数学标签：埃克特数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "埃克特数"
   },
   {
     "id": "hm-tag-439",
@@ -3509,7 +3947,8 @@
     "category": "高等数学",
     "description": "高等数学标签：相似性原理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相似性原理"
   },
   {
     "id": "hm-tag-440",
@@ -3517,7 +3956,8 @@
     "category": "高等数学",
     "description": "高等数学标签：无量纲化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "无量纲化"
   },
   {
     "id": "hm-tag-441",
@@ -3525,7 +3965,8 @@
     "category": "高等数学",
     "description": "高等数学标签：尺度分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "尺度分析"
   },
   {
     "id": "hm-tag-442",
@@ -3533,7 +3974,8 @@
     "category": "高等数学",
     "description": "高等数学标签：渐近分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "渐近分析"
   },
   {
     "id": "hm-tag-443",
@@ -3541,7 +3983,8 @@
     "category": "高等数学",
     "description": "高等数学标签：匹配渐近展开",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "匹配渐近展开"
   },
   {
     "id": "hm-tag-444",
@@ -3549,7 +3992,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多尺度方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多尺度方法"
   },
   {
     "id": "hm-tag-445",
@@ -3557,7 +4001,8 @@
     "category": "高等数学",
     "description": "高等数学标签：平均化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "平均化"
   },
   {
     "id": "hm-tag-446",
@@ -3565,7 +4010,8 @@
     "category": "高等数学",
     "description": "高等数学标签：振动理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "振动理论"
   },
   {
     "id": "hm-tag-447",
@@ -3573,7 +4019,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正规摄动",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正规摄动"
   },
   {
     "id": "hm-tag-448",
@@ -3581,7 +4028,8 @@
     "category": "高等数学",
     "description": "高等数学标签：奇异摄动",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异摄动"
   },
   {
     "id": "hm-tag-449",
@@ -3589,7 +4037,8 @@
     "category": "高等数学",
     "description": "高等数学标签：边界层方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "边界层方法"
   },
   {
     "id": "hm-tag-450",
@@ -3597,7 +4046,8 @@
     "category": "高等数学",
     "description": "高等数学标签：WKB方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "wkb方法"
   },
   {
     "id": "hm-tag-451",
@@ -3605,7 +4055,8 @@
     "category": "高等数学",
     "description": "高等数学标签：变分迭代",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "变分迭代"
   },
   {
     "id": "hm-tag-452",
@@ -3613,7 +4064,8 @@
     "category": "高等数学",
     "description": "高等数学标签：同伦分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "同伦分析"
   },
   {
     "id": "hm-tag-453",
@@ -3621,7 +4073,8 @@
     "category": "高等数学",
     "description": "高等数学标签：微分求积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "微分求积"
   },
   {
     "id": "hm-tag-454",
@@ -3629,7 +4082,8 @@
     "category": "高等数学",
     "description": "高等数学标签：配点法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "配点法"
   },
   {
     "id": "hm-tag-455",
@@ -3637,7 +4091,8 @@
     "category": "高等数学",
     "description": "高等数学标签：谱方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱方法"
   },
   {
     "id": "hm-tag-456",
@@ -3645,7 +4100,8 @@
     "category": "高等数学",
     "description": "高等数学标签：连续谱",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连续谱"
   },
   {
     "id": "hm-tag-457",
@@ -3653,7 +4109,8 @@
     "category": "高等数学",
     "description": "高等数学标签：谱元法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱元法"
   },
   {
     "id": "hm-tag-458",
@@ -3661,7 +4118,8 @@
     "category": "高等数学",
     "description": "高等数学标签：间断伽辽金",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "间断伽辽金"
   },
   {
     "id": "hm-tag-459",
@@ -3669,7 +4127,8 @@
     "category": "高等数学",
     "description": "高等数学标签：混合有限元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "混合有限元"
   },
   {
     "id": "hm-tag-460",
@@ -3677,7 +4136,8 @@
     "category": "高等数学",
     "description": "高等数学标签：非协调元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非协调元"
   },
   {
     "id": "hm-tag-461",
@@ -3685,7 +4145,8 @@
     "category": "高等数学",
     "description": "高等数学标签：样条元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "样条元"
   },
   {
     "id": "hm-tag-462",
@@ -3693,7 +4154,8 @@
     "category": "高等数学",
     "description": "高等数学标签：等几何分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "等几何分析"
   },
   {
     "id": "hm-tag-463",
@@ -3701,7 +4163,8 @@
     "category": "高等数学",
     "description": "高等数学标签：边界元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "边界元"
   },
   {
     "id": "hm-tag-464",
@@ -3709,7 +4172,8 @@
     "category": "高等数学",
     "description": "高等数学标签：快速多极子",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "快速多极子"
   },
   {
     "id": "hm-tag-465",
@@ -3717,7 +4181,8 @@
     "category": "高等数学",
     "description": "高等数学标签：多重网格",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多重网格"
   },
   {
     "id": "hm-tag-466",
@@ -3725,7 +4190,8 @@
     "category": "高等数学",
     "description": "高等数学标签：代数多重网格",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代数多重网格"
   },
   {
     "id": "hm-tag-467",
@@ -3733,7 +4199,8 @@
     "category": "高等数学",
     "description": "高等数学标签：区域分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "区域分解"
   },
   {
     "id": "hm-tag-468",
@@ -3741,7 +4208,8 @@
     "category": "高等数学",
     "description": "高等数学标签：施瓦兹交替",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "施瓦兹交替"
   },
   {
     "id": "hm-tag-469",
@@ -3749,7 +4217,8 @@
     "category": "高等数学",
     "description": "高等数学标签：不重叠区域分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不重叠区域分解"
   },
   {
     "id": "hm-tag-470",
@@ -3757,7 +4226,8 @@
     "category": "高等数学",
     "description": "高等数学标签：重叠区域分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "重叠区域分解"
   },
   {
     "id": "hm-tag-471",
@@ -3765,7 +4235,8 @@
     "category": "高等数学",
     "description": "高等数学标签：平衡区域分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "平衡区域分解"
   },
   {
     "id": "hm-tag-472",
@@ -3773,7 +4244,8 @@
     "category": "高等数学",
     "description": "高等数学标签：迪利克雷-诺伊曼",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迪利克雷-诺伊曼"
   },
   {
     "id": "hm-tag-473",
@@ -3781,7 +4253,8 @@
     "category": "高等数学",
     "description": "高等数学标签：加法施瓦兹",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "加法施瓦兹"
   },
   {
     "id": "hm-tag-474",
@@ -3789,7 +4262,8 @@
     "category": "高等数学",
     "description": "高等数学标签：乘法施瓦兹",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "乘法施瓦兹"
   },
   {
     "id": "hm-tag-475",
@@ -3797,7 +4271,8 @@
     "category": "高等数学",
     "description": "高等数学标签：子结构",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子结构"
   },
   {
     "id": "hm-tag-476",
@@ -3805,7 +4280,8 @@
     "category": "高等数学",
     "description": "高等数学标签：静态凝聚",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "静态凝聚"
   },
   {
     "id": "hm-tag-477",
@@ -3813,7 +4289,8 @@
     "category": "高等数学",
     "description": "高等数学标签：超单元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "超单元"
   },
   {
     "id": "hm-tag-478",
@@ -3821,7 +4298,8 @@
     "category": "高等数学",
     "description": "高等数学标签：并行求解器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "并行求解器"
   },
   {
     "id": "hm-tag-479",
@@ -3829,7 +4307,8 @@
     "category": "高等数学",
     "description": "高等数学标签：预处理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "预处理"
   },
   {
     "id": "hm-tag-480",
@@ -3837,7 +4316,8 @@
     "category": "高等数学",
     "description": "高等数学标签：不完全LU",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不完全lu"
   },
   {
     "id": "hm-tag-481",
@@ -3845,7 +4325,8 @@
     "category": "高等数学",
     "description": "高等数学标签：不完全乔列斯基",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不完全乔列斯基"
   },
   {
     "id": "hm-tag-482",
@@ -3853,7 +4334,8 @@
     "category": "高等数学",
     "description": "高等数学标签：稀疏近似逆",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稀疏近似逆"
   },
   {
     "id": "hm-tag-483",
@@ -3861,7 +4343,8 @@
     "category": "高等数学",
     "description": "高等数学标签：共轭梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "共轭梯度"
   },
   {
     "id": "hm-tag-484",
@@ -3869,7 +4352,8 @@
     "category": "高等数学",
     "description": "高等数学标签：GMRES",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gmres"
   },
   {
     "id": "hm-tag-485",
@@ -3877,7 +4361,8 @@
     "category": "高等数学",
     "description": "高等数学标签：双共轭梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双共轭梯度"
   },
   {
     "id": "hm-tag-486",
@@ -3885,7 +4370,8 @@
     "category": "高等数学",
     "description": "高等数学标签：稳定双共轭梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稳定双共轭梯度"
   },
   {
     "id": "hm-tag-487",
@@ -3893,7 +4379,8 @@
     "category": "高等数学",
     "description": "高等数学标签：最小二乘",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最小二乘"
   },
   {
     "id": "hm-tag-488",
@@ -3901,7 +4388,8 @@
     "category": "高等数学",
     "description": "高等数学标签：QR分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "qr分解"
   },
   {
     "id": "hm-tag-489",
@@ -3909,7 +4397,8 @@
     "category": "高等数学",
     "description": "高等数学标签：奇异值分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异值分解"
   },
   {
     "id": "hm-tag-490",
@@ -3917,7 +4406,8 @@
     "category": "高等数学",
     "description": "高等数学标签：舒尔分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "舒尔分解"
   },
   {
     "id": "hm-tag-491",
@@ -3925,7 +4415,8 @@
     "category": "高等数学",
     "description": "高等数学标签：海森伯格分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "海森伯格分解"
   },
   {
     "id": "hm-tag-492",
@@ -3933,7 +4424,8 @@
     "category": "高等数学",
     "description": "高等数学标签：特征分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征分解"
   },
   {
     "id": "hm-tag-493",
@@ -3941,7 +4433,8 @@
     "category": "高等数学",
     "description": "高等数学标签：LU分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lu分解"
   },
   {
     "id": "hm-tag-494",
@@ -3949,7 +4442,8 @@
     "category": "高等数学",
     "description": "高等数学标签：乔列斯基分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "乔列斯基分解"
   },
   {
     "id": "hm-tag-495",
@@ -3957,7 +4451,8 @@
     "category": "高等数学",
     "description": "高等数学标签：托普利兹矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "托普利兹矩阵"
   },
   {
     "id": "hm-tag-496",
@@ -3965,7 +4460,8 @@
     "category": "高等数学",
     "description": "高等数学标签：循环矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "循环矩阵"
   },
   {
     "id": "hm-tag-497",
@@ -3973,7 +4469,8 @@
     "category": "高等数学",
     "description": "高等数学标签：稀疏矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稀疏矩阵"
   },
   {
     "id": "hm-tag-498",
@@ -3981,7 +4478,8 @@
     "category": "高等数学",
     "description": "高等数学标签：带状矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "带状矩阵"
   },
   {
     "id": "hm-tag-499",
@@ -3989,7 +4487,8 @@
     "category": "高等数学",
     "description": "高等数学标签：对角占优",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对角占优"
   },
   {
     "id": "hm-tag-500",
@@ -3997,7 +4496,8 @@
     "category": "高等数学",
     "description": "高等数学标签：M矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "m矩阵"
   },
   {
     "id": "hm-tag-501",
@@ -4005,7 +4505,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正定矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正定矩阵"
   },
   {
     "id": "hm-tag-502",
@@ -4013,7 +4514,8 @@
     "category": "高等数学",
     "description": "高等数学标签：对称矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对称矩阵"
   },
   {
     "id": "hm-tag-503",
@@ -4021,7 +4523,8 @@
     "category": "高等数学",
     "description": "高等数学标签：埃尔米特矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "埃尔米特矩阵"
   },
   {
     "id": "hm-tag-504",
@@ -4029,7 +4532,8 @@
     "category": "高等数学",
     "description": "高等数学标签：酉矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "酉矩阵"
   },
   {
     "id": "hm-tag-505",
@@ -4037,7 +4541,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正交矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交矩阵"
   },
   {
     "id": "hm-tag-506",
@@ -4045,7 +4550,8 @@
     "category": "高等数学",
     "description": "高等数学标签：正规矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正规矩阵"
   },
   {
     "id": "hm-tag-507",
@@ -4053,7 +4559,8 @@
     "category": "高等数学",
     "description": "高等数学标签：幂等矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "幂等矩阵"
   },
   {
     "id": "hm-tag-508",
@@ -4061,7 +4568,8 @@
     "category": "高等数学",
     "description": "高等数学标签：对合矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对合矩阵"
   },
   {
     "id": "hm-tag-509",
@@ -4069,7 +4577,8 @@
     "category": "高等数学",
     "description": "高等数学标签：投影矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影矩阵"
   },
   {
     "id": "hm-tag-510",
@@ -4077,7 +4586,8 @@
     "category": "高等数学",
     "description": "高等数学标签：反射矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反射矩阵"
   },
   {
     "id": "hm-tag-511",
@@ -4085,7 +4595,8 @@
     "category": "高等数学",
     "description": "高等数学标签：旋转矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "旋转矩阵"
   },
   {
     "id": "hm-tag-512",
@@ -4093,7 +4604,8 @@
     "category": "高等数学",
     "description": "高等数学标签：置换矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "置换矩阵"
   },
   {
     "id": "hm-tag-513",
@@ -4101,7 +4613,8 @@
     "category": "高等数学",
     "description": "高等数学标签：初等矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "初等矩阵"
   },
   {
     "id": "hm-tag-514",
@@ -4109,7 +4622,8 @@
     "category": "高等数学",
     "description": "高等数学标签：基础矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基础矩阵"
   },
   {
     "id": "hm-tag-515",
@@ -4117,7 +4631,8 @@
     "category": "高等数学",
     "description": "高等数学标签：友矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "友矩阵"
   },
   {
     "id": "hm-tag-516",
@@ -4125,7 +4640,8 @@
     "category": "高等数学",
     "description": "高等数学标签：伴随矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伴随矩阵"
   },
   {
     "id": "hm-tag-517",
@@ -4133,7 +4649,8 @@
     "category": "高等数学",
     "description": "高等数学标签：逆矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逆矩阵"
   },
   {
     "id": "hm-tag-518",
@@ -4141,7 +4658,8 @@
     "category": "高等数学",
     "description": "高等数学标签：广义逆",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "广义逆"
   },
   {
     "id": "hm-tag-519",
@@ -4149,7 +4667,8 @@
     "category": "高等数学",
     "description": "高等数学标签：穆尔-彭若斯逆",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "穆尔-彭若斯逆"
   },
   {
     "id": "hm-tag-520",
@@ -4157,7 +4676,8 @@
     "category": "高等数学",
     "description": "高等数学标签：列空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "列空间"
   },
   {
     "id": "hm-tag-521",
@@ -4165,7 +4685,8 @@
     "category": "高等数学",
     "description": "高等数学标签：零空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "零空间"
   },
   {
     "id": "hm-tag-522",
@@ -4173,7 +4694,8 @@
     "category": "高等数学",
     "description": "高等数学标签：左零空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "左零空间"
   },
   {
     "id": "hm-tag-523",
@@ -4181,7 +4703,8 @@
     "category": "高等数学",
     "description": "高等数学标签：行空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行空间"
   },
   {
     "id": "hm-tag-524",
@@ -4189,7 +4712,8 @@
     "category": "高等数学",
     "description": "高等数学标签：秩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "秩"
   },
   {
     "id": "hm-tag-525",
@@ -4197,7 +4721,8 @@
     "category": "高等数学",
     "description": "高等数学标签：满秩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "满秩"
   },
   {
     "id": "hm-tag-526",
@@ -4205,7 +4730,8 @@
     "category": "高等数学",
     "description": "高等数学标签：秩亏",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "秩亏"
   },
   {
     "id": "hm-tag-527",
@@ -4213,7 +4739,8 @@
     "category": "高等数学",
     "description": "高等数学标签：秩分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "秩分解"
   },
   {
     "id": "hm-tag-528",
@@ -4221,7 +4748,8 @@
     "category": "高等数学",
     "description": "高等数学标签：满秩分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "满秩分解"
   },
   {
     "id": "hm-tag-529",
@@ -4229,7 +4757,8 @@
     "category": "高等数学",
     "description": "高等数学标签：低秩分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "低秩分解"
   },
   {
     "id": "hm-tag-530",
@@ -4237,7 +4766,8 @@
     "category": "高等数学",
     "description": "高等数学标签：有效秩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "有效秩"
   },
   {
     "id": "hm-tag-531",
@@ -4245,7 +4775,8 @@
     "category": "高等数学",
     "description": "高等数学标签：数值秩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数值秩"
   },
   {
     "id": "hm-tag-532",
@@ -4253,6 +4784,7 @@
     "category": "高等数学",
     "description": "高等数学标签：伪秩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伪秩"
   }
 ]
